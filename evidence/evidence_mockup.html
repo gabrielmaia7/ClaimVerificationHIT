@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Verbalized Claim Adequacy</title>
+    <title>Affirmation Classification with a Single Evidence</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" />
@@ -58,27 +58,26 @@
                         <div id="instructions-0" class="instructions active">
                             <h5><b>Project</b></h5>
                             <div id="instructions-project-text">
-                                <p>We are researchers at King's College London (United Kingdom), currently conducting research
+                                <p>We are researchers at King's College London (KCL), United Kingdom, currently conducting research
                                 to verify certain quality aspects of <a href='https://wikidata.org' target='_blank'>Wikidata</a>,
-                                an open knowledge base which gathers claims and references to support these claims. This study is funded by
+                                an open knowledge base that gathers claims and references to support these claims. This study is funded by
                                 the European Union's Horizon 2020 research and innovation programme under grant agreement No 780247.
                                 No personal information will be collected during this experiment and all data will be completely anonymous.
-                                There are no potential risks from participating, be them pyshical, psychological, legal, or any other type, and no way of identifying your personal details.</p>
+                                There are no foreseeable risks from participating, be they physical, psychological, legal, or any other type, and no way of identifying your personal details.</p>
                                 <p>After you've submitted your responses, you can withdraw them by contacting the researchers (see next paragraph). The data collected in this
                                 study will consist only of your inputs, the time you spent on the task and which buttons you clicked.
-                                It will be stored in a password protected computer and analysed for research purposes and its results published
-                                on academic journals.</p>
-                                <p>This experiment has received ethical clearance on the 30th of July of 2021 by KCL, with
-                                registration number MRA-20/21-25957. The data controller for this project will be King's College London (KCL).
-                                Research is a task that the University carries out in the public interest. Your data will be processed in accordance
-                                with the standards set by the General Data Protection Regulation 2016 (GDPR). If you have any questions or need further
+                                It will be stored in a password-protected computer and analysed for research purposes and its results published
+                                in academic journals.</p>
+                                <p>This experiment received ethical clearance on the 7th of April, 2022, by KCL, with
+                                registration number MRA-21/22-29584. The data controller for this project will be KCL.
+                                Research is a task that the University carries out in the public interest. Your data will be processed per the standards set by the General Data Protection Regulation 2016 (GDPR). If you have any questions or need further
                                 assistance, please contact the researcher responsible for this study at
                                 <a href='mailto:k2031554@kcl.ac.uk'>k2031554@kcl.ac.uk</a>.</p>
                                 <p>By continuing with the task, you <b>agree</b> to take part in this research project and consent for
-                                the data collected to be used for the purpose of this study. Participation is voluntary and you may cancel
-                                the task at anytime for any reason before submitting it.</p>
-                                <p><b>Please note</b> that, in order for you to
-                                proceed with the task, you'll need to have a good comprehension of the English language! <b>This will be
+                                the data collected to be used for this study. Participation is voluntary and you may cancel
+                                the task at any time for any reason before submitting it.</p>
+                                <p><b>Please note</b> that to
+                                proceed with the task you'll need a good comprehension of the English language! <b>This will be
                                 measured by a very short and simple quiz</b>.</p>
                             </div>
                         </div>
@@ -86,165 +85,186 @@
                             <h5><b>Task Overview</b></h5>
                             <div id="instructions-intro-text">
                                 <p>
-                                    In this task, we want your help verifying how adequately some information is written. You will be asked to take a look
-                                    at six pairs of information. Each pair consists of an English sentence and a triple formed by a subject, a predicate, and an object. Your goal is to
-                                    identify whether the triple and the sentence convey the same information. To help you, whenever possible, we will provide you with descriptions and aliases (alternative names)
-                                    for the subject, predicate, and object.
+                                    In this task, we want your help verifying whether a passage containing <u>highlighted text</u>, extracted from a website, either supports, refutes or is inconclusive to an <b>affirmation</b>.
+                                    You will be asked to take a look at six affirmation-passage pairs.
+                                    Each pair consists of an English <b>affirmation</b> (such as 'Obama was president of the US') and a passage containing <u>highlighted text</u> extracted from a website (such as a BBC News article).
+                                    Your goal is to identify whether the <u>highlighted text</u> in the passage supports, refutes, or is inconclusive to the <b>affirmation</b>.
                                 </p>
                                 <p>
-                                    For each pair, you will be asked to select between <b>Yes</b>, <b>No</b>, and <b>Not Sure</b> values, telling us if the pair communicates the same information.
-                                    In case you select <b>No</b> or <b>Not Sure</b> we will ask you to select a reason from a predefined list.
+                                    You will be asked to judge how the <u>highlighted text</u> relates to the <b>affirmation</b> by selecting from the following four options: <b>Supports</b>, <b>Refutes</b>, <b>Neither</b> (it is inconclusive), and <b>Not sure</b>.
+                                    In case you select <b>Not Sure</b> we will ask you to select a reason from a predefined list.
                                 </p>
                                 <p>
-                                    If your reason for selecting either No or Not Sure is <i>Other</i>, a little box will appear for you to tell us what it was.
-                                    Please provide a simple but informative reason, as we are trying to improve this task in order to cost you and others less time to complete!
+                                    If your reason for selecting Not Sure is <i>Other</i>, a little box will appear for you to tell us what it was.
+                                    Please provide a simple but informative reason, as we are trying to improve this task to cost you and others less time to complete!
                                 </p>
                                 <p>
                                     <b>Please note: </b>
                                     <ul>
                                         <li>
-                                            We are not asking if the information is true. Even if the information is potentially or provably false, or goes against some common sense, please judge only if it is the same or different.
+                                            We are not asking if the affirmation is true. Even if the affirmation is potentially or provably false, or goes against some common sense, please judge only if the highlighted text in the passage supports it, refutes it, or neither.
                                         </li>
                                         <li>
-                                            Some elements in the sentence or triple might be written in a language other than English, or have one or many grammatical errors.
+                                            The passage might not naturally read like a paragraph. It is automatically extracted from a website, so it might have strange formatting, such as a lack of punctuation and incomplete phrases.
                                             <!--This will only happen for entities, such as people, places, etc, where their names were originally given to us in their native language.-->
-                                            Please <b>do not consider these</b> as a defect to the adequacy of the pair, unless it truly changes the information being communicated. If it makes the sentence impossible to understand, select <b>Not Sure</b>.
-                                        </li>                          
-                                        <li>
-                                            Some characters in the sentence might be replaced by the special token <b>??</b> (two question marks). If that does not affect the meaning of the sentence, please do not take it into consideration.
+                                            Please <b>do not let this lack of structure impact</b> your judgement much. We recommend clicking on the website's URL to see what the passage looks like originally and what information the highlighted text is meant to say.
+                                            If it still is impossible to understand how the highlighted text relates to the affirmation, select <b>Not Sure</b>.
                                         </li>
-                                        
+                                        <li>
+                                            Please only judge the <u>highlighted text</u>. For example, if another portion of the passage that is <i>not</i> highlighted supports the affirmation, <i>but the highlighted text does not support it</i>, do not select Supports.
+                                        </li>
+                                        <li>
+                                            We will provide examples on the next page.
+                                        </li>
                                     </ul>
                                 </p>
                             </div>
                         </div>
                         <div id="instructions-2" class="instructions d-none">
                             <h5><b>Examples</b></h5>
-
+                            <br>
                             <h6><b>Example #1</b></h6>
                             <p>
-                                Sentence: Bill de Blasio is the Mayor of New York City.
-                                <br>
-                                Triple:
-                                <br>
-                                &emsp; <b>Subject</b>: New York City
-                                <br>
-                                &emsp; &emsp; Description: largest city in the United States
-                                <br>
-                                &emsp; &emsp; Aliases: NYC, New York, the five boroughs, Big Apple, City of New York, NY City, New York, New York, New York City, New York, New York, NY, New York City (NYC)
-                                <br>
-                                
-                                &emsp; <b>Predicate</b>: head of government
-                                <br>
-                                &emsp; &emsp; Description: head of the executive power of this town, city, municipality, state, country, or other governmental body
-                                <br>
-                                &emsp; &emsp; Aliases: mayor, prime minister, premier, first minister, head of national government, chancellor, governor, government headed by, executive power headed by, president
-                                <br>
-                                
-                                &emsp; <b>Object</b>: Bill de Blasio          
-                                <br>
-                                &emsp; &emsp; Description: 109th Mayor of New York City
-                                <br>
-                                &emsp; &emsp; Aliases: Warren Wilhelm, Jr., Bill deBlasio, Warren Wilhelm Jr.
+                                Affirmation: <b>Vidyasagar is a performer of Ponniyin Selvan.</b>
                                 <br>
                                 <br>
-                                The triple is read as New York City -> head of government -> Bill the Blasio. Here, both the sentence and the triple seem to suggest that Bill de Blasio is the mayor of NY, so we can select <b>Yes</b>.
+                                Passage:
+                                <br>
+                                &emsp; "15 August 2005 ( 2005-08-15 ) Country India Language Tamil Budget ₹ 10 crore. <u>Ponniyin Selvan (English: The son of Ponni) is a 2005 Indian Tamil drama film written and directed by Radha Mohan.
+                                Produced by A. M. Ratnam, it stars his son Ravi Krishna, along with Gopika and Revathi in the lead roles, while Vidyasagar had composed the music for the film.</u>
+                                The film is unrelated to the same-titled novel by Kalki Krishnamurthy.
+                                It was released in Telugu as Muddhula Koduku and additionally featured Uttej and Venu Madhav as part of a separate comedy track shot."
+                                <br>
+                                <br>
+                                Link: <a href='https://en.wikipedia.org/w/index.php?title=Ponniyin_Selvan_(2005_film)&oldid=982538956' target='_blank'>https://en.wikipedia.org/w/index.php?title=Ponniyin_Selvan_(2005_film)&oldid=982538956</a>
+                                <br>
+                                <br>
+                                The affirmation states that an entity named Vidyasagar is a performer of something called Ponniyin Selvan.
+                                The passage begins with some text that has a weird format because it was extracted from a Wikipedia infobox (click on the link and look at the box on the far right).
+                                From the highlighted portion of the passage, we learn that Ponniyin Selvan is a film and that Vidyasagar composed its music.
+                                The highlighted portion of the passage seems to support the affirmation, so we can select <b>Supports</b>.
                             </p>
-
+                            <br>
                             <h6><b>Example #2</b></h6>
                             <p>
-                                Sentence: Mona Lisa painted was was in the 1500s.
-                                <br>
-                                Triple:
-                                <br>
-                                &emsp; <b>Subject</b>: Mona Lisa
-                                <br>
-                                &emsp; &emsp; Description: oil painting by Leonardo da Vinci
-                                <br>
-                                &emsp; &emsp; Aliases: La Joconde, La Gioconda
-                                <br>
-                                
-                                &emsp; <b>Predicate</b>: inception
-                                <br>
-                                &emsp; &emsp; Description: date or point in time when the subject came into existence as defined
-                                <br>
-                                &emsp; &emsp; Aliases: date founded, date created, incorporated, foundation, created, date of foundation, ...
-                                <br>
-                                
-                                &emsp; <b>Object</b>: 1500s
-                                <br>
-                                &emsp; &emsp; Description: None
-                                <br>
-                                &emsp; &emsp; Aliases: None
+                                Affirmation: <b>The work period (start) of MOG Music is 2013.</b>
                                 <br>
                                 <br>
-                                The triple is read as Mona Lisa -> inception -> 1500s. Considering the predicate's description, both the sentence (even with lots of grammatical errors) and the triple seem to suggest that the Mona Lisa was painted in the 1500s, so we can select <b>Yes</b>.
+                                Passage:
+                                <br>
+                                &emsp; "2.1 Live albums. 3 Awards and nomination. 4 References. Music career.
+                                <u>MOG Music released his first album in 2016 "New Wine" which earned him African Gospel Music awards Nominations for "Album of the Year" and "Discovery of the Year".</u>
+                                He released a single "Making it Big" featuring Sarkodie. He has collaborated and performed with numerous gospel musicians, including Ohemaa Mercy, Joe Mettle, Denzel Prempeh, Jekalyn Carr, Danny Nettey, Nii Okai, Ron Kenoly."
+                                <br>
+                                <br>
+                                Link: <a href='https://en.wikipedia.org/w/index.php?title=MOG_Music&oldid=930246276' target='_blank'>https://en.wikipedia.org/w/index.php?title=MOG_Music&oldid=930246276</a>
+                                <br>
+                                <br>
+                                The affirmation states that an entity named MOG Music started working in 2013.
+                                The starting of the passage seems to be headers taken from the website and can be ignored.
+                                The highlighted portion of the passage states that MOG Music released his first album (so MOG Music is a musician) in 2016.
+                                This seems to indicate that MOG Music started working in 2016, not 2013, so we can select <b>Refutes</b>.
                             </p>
-
+                            <br>
                             <h6><b>Example #3</b></h6>
                             <p>
-                                Sentence: Преобра<b>??</b>енский was born in 1950
-                                <br>
-                                Triple:
-                                <br>
-                                &emsp; <b>Subject</b>: Преображенский
-                                <br>
-                                &emsp; &emsp; Description: None
-                                <br>
-                                &emsp; &emsp; Aliases: None
-                                <br>
-                                
-                                &emsp; <b>Predicate</b>: date of birth
-                                <br>
-                                &emsp; &emsp; Description: date on which the subject was born
-                                <br>
-                                &emsp; &emsp; Aliases: born on, birth date, birthdate, birth year, year of birth, birthyear, DOB
-                                <br>
-                                
-                                &emsp; <b>Object</b>: 3 February 1939
-                                <br>
-                                &emsp; &emsp; Description: None
-                                <br>
-                                &emsp; &emsp; Aliases: 3/02/1939, February 3rd 1939, 3 Feb 1939
+                                Affirmation: <b>Raymond Andrews is in the Stuart A. Rose Manuscript, Archives, and Rare Book Library.</b>
                                 <br>
                                 <br>
-                                The triple is read as "Преображенский" -> date of birth -> 3 February 1939. Note that the subjects seem to be the same, even if not written in English, and even if <b>ж</b> was replaced by <b>??</b>, so that is <b>not</b> a reason for inadequacy. However, there seems to be conflicting information, with the sentence pointing to 1950 but the triple to 1939, so we can select <b>No</b> because of it. A fitting reason would be <i>The object of the triple and the object of the sentence are different entities or values.</i>
+                                Passage: 
+                                <br>
+                                &emsp; "Benny Andrews papers and Viola Andrews papers. Source. Purchased from Raymond Andrews, 1989, with subsequent additions from 1992 to 2015.
+                                <u>Citation. [after identification of item(s)], Raymond Andrews papers, Stuart A. Rose Manuscript, Archives, and Rare Book Library, Emory University.</u>
+                                Appraisal Note. "Acquired by Director of the Rose Library, Linda Matthews, as part of the Rose Library's holdings in African American culture and history, American literature, and Atlanta history.""
+                                <br>
+                                <br>
+                                Link: <a href='https://findingaids.library.emory.edu/documents/andrewsraymond673/' target='_blank'>https://findingaids.library.emory.edu/documents/andrewsraymond673/</a>
+                                <br>
+                                <br>
+                                This is a case in which looking at the website is incredibly helpful.
+                                The affirmation states that an entity named Raymond Andrews is located in the Stuart A. Rose Manuscript, Archives, and Rare Book Library.
+                                Since it is talking about a person being in an archive, it very likely means that work done by Raymond Andrews is in that archive.
+                                This can be confirmed by checking the website, which clarifies this context. The passage seems to be extracted from the "Administrative Information" section.
+                                The highlighted text indicates that the "Raymond Andrew papers" are in the "Stuart A. Rose Manuscript, Archives, and Rare Book Library", which is at "Emory University".
+                                So we can select <b>Supports</b>.
                             </p>
-
+                            <br>
                             <h6><b>Example #4</b></h6>
                             <p>
-                                Sentence: Stilleven met likeurfles is a still life photography.
-                                <br>
-                                Triple:
-                                <br>
-                                &emsp; <b>Subject</b>: Stilleven met likeurfles
-
-                                <br>
-                                &emsp; &emsp; Description: painting by A.J.G. Colnot
-                                <br>
-                                &emsp; &emsp; Aliases: None
-                                <br>
-                                
-                                &emsp; <b>Predicate</b>: genre
-                                <br>
-                                &emsp; &emsp; Description: creative work's genre or an artist's field of work (P101). Use main subject (P921) to relate creative works to their topic
-                                <br>
-                                &emsp; &emsp; Aliases: music genre, film genre, artistic genre, literary genre, kind of music, type of film, genre of music, type of music
-                                <br>
-                                
-                                &emsp; <b>Object</b>: still life
-                                <br>
-                                &emsp; &emsp; Description: art genre
-                                <br>
-                                &emsp; &emsp; Aliases: still-life art, nature morte, bodegón, still-life, bodegon
+                                Affirmation: <b>The former wash house, Blackness Castle, is located in the administrative territorial entity of Falkirk.</b> 
                                 <br>
                                 <br>
-                                The triple is read as Stilleven met likeurfles -> genre -> still life. Here, both the sentence and the triple seem to suggest that the genre of Stilleven met likeurfles is still life. However, there is additional information on the sentence that conflicts with details of the triple; the sentence claims that Stilleven met likeurfles is a photography, while the subject's description claims it is a painting , so we can select <b>No</b>. A fitting reason would be <i> The sentence introduces additional information that conflicts with descriptions given with the triple.</i>
+                                Passage:
+                                <br>
+                                &emsp; "Description: The building is a former barracks block associated with Blackness Castle, built following the castle's conversion to a munitions depot in 1870 and likely by 1874.
+                                <u>It lies on the southern shore of the Firth of Forth, just south of Blackness Castle. This is a two storey, 16-bay, rectangular plan, plain former barracks building, of tooled, squared and snecked sandstone with margins.</u>
+                                There is a slate roof and a mix of square and rectangular chimney stacks with tall, round clay pots."
+                                <br>
+                                <br>
+                                Link: <a href='http://portal.historicenvironment.scot/designation/LB52456' target='_blank'>http://portal.historicenvironment.scot/designation/LB52456</a>
+                                <br>
+                                <br>
+                                The passage starts with text extracted from a description box and talks about a former barracks block.
+                                However, the affirmation talks about a former wash house.
+                                It is not clear by the passage if the wash house and the barracks block are the same.
+                                Also, although it states the building in question is south of Blackness Castle, it does not say if that is in Falkirk.
+                                So we can select <b>Neither</b>, as considering the contents of the highlighted text and the broader context of the passage, we do not have enough information to judge the affirmation.
                             </p>
-
+                            <br>
+                            <h6><b>Example #5</b></h6>
+                            <p>
+                                Affirmation: <b>Alec Waugh was born on 08/07/1898.</b> 
+                                <br>
+                                <br>
+                                Passage:
+                                <br>
+                                &emsp; "License: This work is licensed under a Creative Commons License.
+                                Author: Alec Waugh.
+                                Author Record # 19637.
+                                <u>Legal Name: Waugh, Alexander Raban.
+                                Birthplace: Hampstead, London, England, UK.</u>
+                                Birthdate: 8 July 1898.
+                                Deathdate: 3 September 1981.
+                                Language: English.
+                                Webpages: IMDB, Wikipedia-EN.
+                                Showing all translations.
+                                Never display translations Registered users can choose which translations are shown."
+                                <br>
+                                <br>
+                                Link: <a href='http://www.isfdb.org/cgi-bin/ea.cgi?19637' target='_blank'>http://www.isfdb.org/cgi-bin/ea.cgi?19637</a>
+                                <br>
+                                <br>
+                                The affirmation states Alec Waugh was born July 8th, 1898. The passage seems to list details about some work's author, including their name, birthplace, birthdate, deathdate, etc.
+                                Although the passage does contain information on Alec Waugh's birthday, <i>it is not on the highlighted portion</i>. The highlighted text does not inform us of his birthdate.
+                                Thus, we cannot say that the highlighted text supports the affirmation, but it also does not refute it. So we can select <b>Neither</b>.
+                            </p>
+                            <br>
+                            <h6><b>Example #6</b></h6>
+                            <p>
+                                Affirmation: <b>Julius is 53.1 centimetres tall.</b> 
+                                <br>
+                                <br>
+                                Passage:
+                                <br>
+                                &emsp; "Search results Start typing. Home. / Collection. / Explore the Collection. / "Julius" / Search the collection. 1 of 253523 objects.
+                                <u>Richard Barrett Davis (1782-1854) "Julius" Signed and dated 1846. Oil on canvas | 53.1 x 65.4 x 1.5 cm (support, canvas/panel/str external) | RCIN 402419.</u>
+                                Your share link is... Close. Facebook. Twitter. Email."
+                                <br>
+                                <br>
+                                Link: <a href='https://www.rct.uk/collection/402419/julius' target='_blank'>https://www.rct.uk/collection/402419/julius</a>
+                                <br>
+                                <br>
+                                The affirmation states Julius is 53.1 cm tall, which is a weird height for a person. Reading the passage indicates "Julius" is a painting, which can be
+                                confirmed by clicking on the URL. The passage taken from the URL contains navigation headers, and also a highlighted short description of the painting, including the dimension 53.1 cm. 
+                                Checking the URL helps us conclude that 53.1 cm refers to the height of the painting (since it is wider than it is tall). You can then select <b>Supports</b>.
+                                On some such cases, where a deduction is needed (the first dimension probably refers to height), we also accept <b>Not Sure</b>, given an appropriate reason.
+                            </p>
+                            <br>
                             <h6><b>Not Sure</b></h6>
                             <p>
-                                Sometimes, sentences might be full of foreign words and/or grammar mistakes that make the sentence impossible to judge. For any pair where you <i>legitimately</i> can not arrive at a conclusion, you can mark <b>Not Sure</b>, provide a fitting reason and move on.
+                                Sometimes, affirmations might not be very clear or have words and terms that are too specific to one knowledge domain (like biology or chemistry).
+                                Also, the passages might have a very unregular format, and even looking at the website does not help.
+                                For any case where you <i>legitimately</i> can not arrive at a conclusion, you can mark <b>Not Sure</b>, provide a fitting reason, and move on.
                             </p>
                         </div>
                         <div id="instructions-3" class="instructions d-none">
@@ -255,10 +275,10 @@
                                         You can navigate freely through the pairs using the buttons at the bottom of the page.
                                     </li>
                                     <li>
-                                        You must fill all the information requested. This means always clicking either Yes, No, or Not Sure, and providing a reason <b>if</b> you selected either No or Not Sure. This also means providing another reason if you chose <i>Other</i>.
+                                        You must fill in all the information requested. This means always clicking either Supports, Refutes, Neither, or Not Sure, and providing a reason <b>if</b> you selected Not Sure. This also means providing another reason if you chose <i>Other</i>.
                                     </li>
                                     <li>
-                                        At the end of the task, we check the some indicators of the quality of your work, to make sure you are not a spammer. If you don't pass the test, you can try two more times, for a total of three trials. If you fail three times, the task ends and the work is not accepted.
+                                        At the end of the task, we check some indicators of the quality of your work, to make sure you are not a spammer. If you don't pass the test, you can try two more times, for a total of three trials. If you fail three times, the task ends and the work is not accepted.
                                     </li>
                                     <li>
                                         This task will need you to have a good comprehension of English. Please answer the following short English language test and click on the green button to proceed. You can try the language test three times.
@@ -267,7 +287,10 @@
                                         You can open these instructions again anytime you wish.
                                     </li>
                                     <li>
-                                        Make sure you are using either Chrome, Firefox or Edge. <b>Do not use Internet Explorer.</b>
+                                        Make sure you are using either Chrome, Firefox, or Edge. <b>Do not use Internet Explorer.</b>
+                                    </li>
+                                    <li>
+                                        If you suspect there is an error in the task, or think we are being unfair, contact us politely and we will do our best to resolve the issue.
                                     </li>
                                 </ul>
                             </p>
@@ -289,101 +312,73 @@
         <div id="task-panel" class="row d-none">
             <div class="col-sm-12 mx-auto border rounded shadow-sm" style="background-color: #f5f5f5;">
                 <h4 class="text-left mt-3">
-                    Sentence <strong><span id="current-page"></span></strong> of
+                    Pair <strong><span id="current-page"></span></strong> of
                     <strong><span id="n-pages"></span></strong>:
                 </h4>
                 <br/>   
                 <!---->
                 <div class="row d-flex justify-content-center">
                     <div class="col-sm-11 pr-0 pl-0">
-                        <h5>Read the following sentence:</h5>
+                        <h5>Read the following <b>affirmation</b>:</h5>
                     </div>
                 </div>
                 <div class="row d-flex justify-content-center">
                     <div class="col-sm-11 bg-light border rounded p-2" style="width: 100%;">
-                        <p><span id="verbalised_claim"></span></p>
+                        <p style="margin-top: 8px;margin-bottom: 8px;"><b><span id="affirmation"></b></span></p>
                     </div>
                 </div>
                 <br/>
                 <!---->
                 <div class="row d-flex justify-content-center">
                     <div class="col-sm-11 pr-0 pl-0">
-                        <h5>This sentence is a verbalisation of this subject-predicate-object triple:</h5>
+                        <h5>Now, read the following passage, paying particular attention to the <u>highlighted text</u>:</h5>
                     </div>
                 </div>
                 <div class="row d-flex justify-content-center">
                     <div class="col-sm-11 bg-light border rounded p-2">
-                        <p><b>Subject:</b> <span id="claim_subject_label"></span></p>
-                        <p>&emsp;Description: <span id="claim_subject_description"></span></p>
-                        <p>&emsp;Aliases: <span id="claim_subject_aliases"></span></p>
-                    </div>
-                    <div class="col-sm-11 bg-light border rounded p-2">                        
-                        <p><b>Predicate:</b> <span id="claim_predicate_label"></span></p>
-                        <p>&emsp;Description: <span id="claim_predicate_description"></span></p>
-                        <p>&emsp;Aliases: <span id="claim_predicate_aliases"></span></p>
-                    </div>
-                    <div class="col-sm-11 bg-light border rounded p-2">
-                        <p><b>Object:</b> <span id="claim_object_label"></span></p>
-                        <p>&emsp;Description: <span id="claim_object_description"></span></p>
-                        <p>&emsp;Aliases: <span id="claim_object_aliases"></span></p>
+                        <p style="margin-top: 8px;margin-bottom: 8px;"><span id="passage"></span></p>
                     </div>
                 </div>
                 <br />
                 <!---->
                 <div class="row d-flex justify-content-center">
                     <div class="col-sm-11 pr-0 pl-0">
-                        <h5>Are both the sentence and the triple conveying the same information?</h5>
-                    </div>
-                </div>
-                <div class="row d-flex justify-content-center">
-                    <div class="btn-group btn-group-toggle" data-toggle="buttons">
-                        <label id="adequacy_yes" class="btn btn-primary adequacy-button" style="width: 200px;">
-                            <input type="radio" autocomplete="off"> Yes
-                        </label>
-                        <label id="adequacy_no" class="btn btn-primary adequacy-button" style="width: 200px;">
-                            <input type="radio" autocomplete="off"> No
-                        </label>
-                        <label id="adequacy_not_sure" class="btn btn-primary adequacy-button" style="width: 200px;">
-                            <input type="radio" autocomplete="off"> Not Sure
-                        </label>
+                        <h5>
+                            The passage was extracted from the following link:
+                            <br>
+                            <a id="reference_url" href=""></a>
+                            <br>
+                            You can click on the link to see the passage with its original form and with more context.
+                        </h5>
                     </div>
                 </div>
                 <br />
                 <!---->
-                <div id="reasons-no-panel" class=''>
-                    <div class="row d-flex justify-content-center">
-                        <div class="col-sm-11 pr-0 pl-0">
-                            <h5>If you marked <b>No</b>, please select one of the reasons why:</h5>
-                        </div>
+                <div class="row d-flex justify-content-center">
+                    <div class="col-sm-11 pr-0 pl-0">
+                        <h5>In your opinion, how does the <u>highlighted text</u> relate to the <b>affirmation</b>?</h5>
                     </div>
-                    <div class="row d-flex justify-content-center">
-                        <div class="col-sm-11 pr-0 pl-0">
-                            <div id="reason_no_buttons" class="btn-group btn-group-vertical" data-toggle="buttons" style="width: 100%;">
-                                <label id="reason_no_0" class="btn btn-primary text-left reason_no_button">
-                                    <input type="radio" autocomplete="off" value='unavailable' name='reason_no_radios'> The subject of the triple and the subject of the sentence are different entities.
-                                </label>
-                                <label id="reason_no_1" class="btn btn-primary text-left reason_no_button">
-                                    <input type="radio" autocomplete="off" value='unavailable' name='reason_no_radios'> The predicate of the triple is not properly reflected in the sentence according to its description.
-                                </label>
-                                <label id="reason_no_2" class="btn btn-primary text-left reason_no_button">
-                                    <input type="radio" autocomplete="off" value='unavailable' name='reason_no_radios'> The object of the triple and the object of the sentence are different entities or values.
-                                </label>
-                                <label id="reason_no_3" class="btn btn-primary text-left reason_no_button">
-                                    <input type="radio" autocomplete="off" value='unavailable' name='reason_no_radios'> A combination of the above: two or more of subject, predicate and object do not match.
-                                </label>
-                                <label id="reason_no_4" class="btn btn-primary text-left reason_no_button">
-                                    <input type="radio" autocomplete="off" value='unavailable' name='reason_no_radios'> The sentence introduces additional information that conflicts with descriptions given with the triple.
-                                </label>
-                                <div class='container pl-0 pr-0 text-left' style="margin-left: -1px;margin-right: 0px;border-left-style: solid;border-left-width: 0px;">
-                                    <label id="reason_no_5" class="btn btn-primary text-left reason_no_button col-sm-2">
-                                        <input type="radio" autocomplete="off" value='unavailable' name='reason_no_radios'> Other:
-                                    </label>
-                                    <input id="reason_no_other" type="text" autocomplete="off" placeholder='type a reason here' class='h-75 w-75'>
-                                </div>
-                            </div>
+                </div>
+                <div class="row d-flex justify-content-center">
+                    <div class="col-sm-11 pr-0 pl-0">
+                        <div id="relation_buttons" class="btn-group btn-group-vertical" data-toggle="buttons" style="width: 100%;">
+                            <label id="relation_0" class="btn btn-primary text-left relation_button">
+                                <input type="radio" autocomplete="off" value='unavailable' name='relation_buttons'> The highlighted text <b>SUPPORTS</b> the affirmation
+                            </label>
+                            <label id="relation_1" class="btn btn-primary text-left relation_button">
+                                <input type="radio" autocomplete="off" value='unavailable' name='relation_buttons'> The highlighted text <b>REFUTES</b> the affirmation
+                            </label>
+                            <label id="relation_2" class="btn btn-primary text-left relation_button">
+                                <input type="radio" autocomplete="off" value='unavailable' name='relation_buttons'> The highlighted text <b>NEITHER</b> supports nor refutes the affirmation
+                            </label>
+                            <label id="relation_3" class="btn btn-primary text-left relation_button">
+                                <input type="radio" autocomplete="off" value='unavailable' name='relation_buttons'> Not Sure
+                            </label>
                         </div>
                     </div>
                 </div>
+                <br />
+                
                 <!---->
                 <div id="reasons-not-sure-panel" class=''>
                     <div class="row d-flex justify-content-center">
@@ -395,25 +390,19 @@
                         <div class="col-sm-11 pr-0 pl-0">
                             <div id="reason_not_sure_buttons"  class="btn-group btn-group-vertical" data-toggle="buttons" style="width: 100%;">
                                 <label id="reason_not_sure_0" class="btn btn-primary text-left reason_not_sure_button">
-                                    <input type="radio" autocomplete="off" value='unavailable' name='reason_not_sure_radios'> The sentence refers to the subject through an unrecognizable or confusing alias or label.
+                                    <input type="radio" autocomplete="off" value='unavailable' name='reason_not_sure_radios'> I did not understand the meaning of the affirmation
                                 </label>
                                 <label id="reason_not_sure_1" class="btn btn-primary text-left reason_not_sure_button">
-                                    <input type="radio" autocomplete="off" value='unavailable' name='reason_not_sure_radios'> It is not clear if the sentence is using the same predicate from the triple.
+                                    <input type="radio" autocomplete="off" value='unavailable' name='reason_not_sure_radios'> I did not understand the meaning of the passage
                                 </label>
                                 <label id="reason_not_sure_2" class="btn btn-primary text-left reason_not_sure_button">
-                                    <input type="radio" autocomplete="off" value='unavailable' name='reason_not_sure_radios'> The sentence refers to the object through an unrecognizable or confusing alias, label or measure unit.
-                                </label>
-                                <label id="reason_not_sure_3" class="btn btn-primary text-left reason_not_sure_button">
-                                    <input type="radio" autocomplete="off" value='unavailable' name='reason_not_sure_radios'> The sentence is mostly not in English, or its meaning is ambiguous, vague, or hard to understand.
-                                </label>
-                                <label id="reason_not_sure_4" class="btn btn-primary text-left reason_not_sure_button">
-                                    <input type="radio" autocomplete="off" value='unavailable' name='reason_not_sure_radios'> The triple's information (labels, descriptions, aliases) is not clear enough to understand it.
-                                </label>
+                                    <input type="radio" autocomplete="off" value='unavailable' name='reason_not_sure_radios'> I needed but could not access the link to get the passage's context 
+                                </label>                                
                                 <div class='container pl-0 pr-0 text-left' style="margin-left: -1px;margin-right: 0px;border-left-style: solid;border-left-width: 0px;">
-                                    <label id="reason_not_sure_5" class="btn btn-primary text-left reason_not_sure_button col-sm-2">
-                                        <input type="radio" autocomplete="off" value='unavailable' name='reason_not_sure_radios'> Other:
+                                    <label id="reason_not_sure_3" class="btn btn-primary text-left reason_not_sure_button col-sm-2">
+                                        <input type="radio" autocomplete="off" value='unavailable' name='reason_not_sure_radios'> Other reason
                                     </label>
-                                    <input id="reason_not_sure_other" type="text" autocomplete="off" placeholder='type a reason here' class='h-75 w-75'>
+                                    <input id="reason_not_sure_other" type="text" autocomplete="off" placeholder='Please write it in this text box' class='h-75 w-75'>
                                 </div>
                             </div>
                         </div>
@@ -541,207 +530,85 @@
     <script language="Javascript">
         // INITIALIZATION LOGIC
         // ---------------------------------------------------------------- //
-        let verbalisations = [
+        let affirmation_evidence_pairs = [
             {
-                "claim_id":"Q30085887$193fbf40-4d7b-ab6c-98df-affb6307a023",
-                "verbalised_claim":"Proteas Voulas B.C. (women's basketball) is located in Voula.",
-                "subject_label":"Proteas Voulas B.C. (women's basketball)",
-                "subject_description":"Basketball team based in Voula, Attica, Greece.",
-                "subject_aliases":[
-                    "A.E.O. Proteas Voulas",
-                    "Proteas Voulas"
-                ],
-                "predicate_label":"location of formation",
-                "predicate_description":"location where a group or organization was formed",
-                "predicate_aliases":[
-                    "originates from",
-                    "comes from",
-                    "place of foundation",
-                    "founded in",
-                    "formation location",
-                    "source location of group/organisation",
-                    "formed in",
-                    "from",
-                    "place of formation",
-                    "place of incorporation"
-                ],
-                "object_label":"Voula",
-                "object_description":"human settlement in Athens",
-                "object_aliases":"No aliases available",
-                "g_id":{
-                    "fluency":[
-                        2,
-                        3,
-                        4,
-                        5
-                    ],
-                    "adequacy":[
-                        0,
-                        2
-                    ]
-                }
+                "identifiers":"0",
+                "affirmation":"G V Raja died in Kullu Valley.0",
+                "pre_evidence":"0He was the main architect in developing Kovalam as an international tourist spot.",
+                "evidence":"0He died in an air crash near Kullu (Kulu) Valley on April 30, 1971. Sports journalists, historians, experts and sportsmen consider him as the Father of Sports and Tourism in Kerala.",
+                "post_evidence": "",
+                "reference_url":"https://www.google.com",
+                "g_id": [
+                    0
+                ]
             },
             {
-                "claim_id":"Q54607217$f6975959-4cbf-5f98-75f1-86630b82403d",
-                "verbalised_claim":"A8 is different from A8.",
-                "subject_label":"A8",
-                "subject_description":"cell line",
-                "subject_aliases":[
-                    "A-8"
-                ],
-                "predicate_label":"different from",
-                "predicate_description":"item that is different from another item, with which it is often confused",
-                "predicate_aliases":[
-                    "different than",
-                    "different to",
-                    "is not",
-                    "distinct from",
-                    "not the same as",
-                    "isn't",
-                    "distinguished from",
-                    "to be distinguished from",
-                    "disambiguated from",
-                    "not same as",
-                    "confused with",
-                    "is different from",
-                    "mistakenly taken for",
-                    "differs from",
-                    "differ from",
-                    "often confused with",
-                    "rejected match",
-                    "not to be confused with",
-                    "≠",
-                    "not equal to",
-                    "is not the same as",
-                    "do not confuse with",
-                    "not identical to",
-                    "different thing from",
-                    "different entity from",
-                    "is not same as",
-                    "different entity than",
-                    "different thing than"
-                ],
-                "object_label":"A8",
-                "object_description":"Wikimedia disambiguation page",
-                "object_aliases":"No aliases available",
-                "g_id":{
-                    "fluency":[
-                        3,
-                        4,
-                        5
-                    ],
-                    "adequacy":[
-                        0,
-                        2
-                    ]
-                }
+                "identifiers":"1",
+                "affirmation":"G V Raja died in Kullu Valley.1",
+                "pre_evidence":"1He was the main architect in developing Kovalam as an international tourist spot.",
+                "evidence":"1He died in an air crash near Kullu (Kulu) Valley on April 30, 1971. Sports journalists, historians, experts and sportsmen consider him as the Father of Sports and Tourism in Kerala.",
+                "post_evidence": "",
+                "reference_url":"https://www.google.com",
+                "g_id": [
+                    0
+                ]
             },
             {
-                "claim_id":"Q5859109$7288c2d7-40fd-cf2e-fa3e-5d614d0c7679",
-                "verbalised_claim":"Fernando Abad Bécquer is a second family name in Spanish.",
-                "subject_label":"Fernando Abad Bécquer",
-                "subject_description":"Spanish politician",
-                "subject_aliases":[
-                    "Fernando Abad Becquer"
-                ],
-                "predicate_label":"second family name in Spanish name",
-                "predicate_description":"second (generally maternal) family name in Spanish names (do not use for other double barrelled names)",
-                "predicate_aliases":[
-                    "Spanish maternal name",
-                    "second surname in Spanish name",
-                    "maternal surname",
-                    "Spanish second name",
-                    "second Spanish name"
-                ],
-                "object_label":"Bécquer",
-                "object_description":"family name",
-                "object_aliases":"No aliases available",
-                "g_id":0
+                "identifiers":"2",
+                "affirmation":"G V Raja died in Kullu Valley.2",
+                "pre_evidence":"2He was the main architect in developing Kovalam as an international tourist spot.",
+                "evidence":"2He died in an air crash near Kullu (Kulu) Valley on April 30, 1971. Sports journalists, historians, experts and sportsmen consider him as the Father of Sports and Tourism in Kerala.",
+                "post_evidence": "",
+                "reference_url":"https://www.google.com",
+                "g_id": [
+                    0
+                ]
             },
             {
-                "claim_id":"Q65068358$078d2a36-afeb-42ce-8fce-a2630a771955",
-                "verbalised_claim":"Sgùrr a' Choire-bheithe is in the historic county of Inverness-shire.",
-                "subject_label":"Sgùrr a' Choire-bheithe",
-                "subject_description":"mountain in Highland, Scotland, UK",
-                "subject_aliases":"No aliases available",
-                "predicate_label":"historic county",
-                "predicate_description":"traditional, geographical division of Great Britain and Ireland",
-                "predicate_aliases":[
-                    "ancient or geographic county",
-                    "traditional county",
-                    "located in historic UK county",
-                    "located in historic county of Ireland"
-                ],
-                "object_label":"Inverness-shire",
-                "object_description":"historic county of Scotland",
-                "object_aliases":[
-                    "County of Inverness"
-                ],
-                "g_id":0
+                "identifiers":"3",
+                "affirmation":"G V Raja died in Kullu Valley.3",
+                "pre_evidence":"3He was the main architect in developing Kovalam as an international tourist spot.",
+                "evidence":"3He died in an air crash near Kullu (Kulu) Valley on April 30, 1971. Sports journalists, historians, experts and sportsmen consider him as the Father of Sports and Tourism in Kerala.",
+                "post_evidence": "",
+                "reference_url":"https://www.google.com",
+                "g_id": [
+                    0
+                ]
             },
             {
-                "claim_id":"Q1192962$9cfd114e-36c1-478d-abd0-0a98cdd7bab5",
-                "verbalised_claim":"Raleigh–Durham International Airport has 20489 followers on social media.",
-                "subject_label":"Raleigh–Durham International Airport",
-                "subject_description":"Airport near Raleigh and Durham, North Carolina, USA",
-                "subject_aliases":[
-                    "RDU",
-                    "KRDU"
-                ],
-                "predicate_label":"social media followers",
-                "predicate_description":"number of subscribers on a particular social media website (use as main statement only; see P3744 instead for qualifier). Qualify with \"point in time\" and property for account. For Twitter, use numeric id.",
-                "predicate_aliases":[
-                    "followers",
-                    "number of followers",
-                    "number of subscribers"
-                ],
-                "object_label":"20489",
-                "object_description":"No description available",
-                "object_aliases":"No aliases available",
-                "g_id":0
+                "identifiers":"4",
+                "affirmation":"G V Raja died in Kullu Valley.4",
+                "pre_evidence":"4He was the main architect in developing Kovalam as an international tourist spot.",
+                "evidence":"4He died in an air crash near Kullu (Kulu) Valley on April 30, 1971. Sports journalists, historians, experts and sportsmen consider him as the Father of Sports and Tourism in Kerala.",
+                "post_evidence": "",
+                "reference_url":"https://www.google.com",
+                "g_id": [
+                    0
+                ]
             },
             {
-                "claim_id":"Q19249955$47022AE9-8A24-44F9-94C1-9E7AE8027492",
-                "verbalised_claim":"Herfststraat started in 1971.",
-                "subject_label":"Herfststraat",
-                "subject_description":"street in Amsterdam-Zuidoost, the Netherlands",
-                "subject_aliases":"No aliases available",
-                "predicate_label":"start time",
-                "predicate_description":"time an item begins to exist or a statement starts being valid",
-                "predicate_aliases":[
-                    "from",
-                    "starting",
-                    "began",
-                    "from time",
-                    "since",
-                    "from date",
-                    "building date",
-                    "starttime",
-                    "introduced",
-                    "introduction",
-                    "started in",
-                    "beginning",
-                    "join date",
-                    "join time",
-                    "start date"
-                ],
-                "object_label":"1971",
-                "object_description":"No description available",
-                "object_aliases":"No aliases available",
-                "g_id":0
-            }
+                "identifiers":"5",
+                "affirmation":"G V Raja died in Kullu Valley.5",
+                "pre_evidence":"5He was the main architect in developing Kovalam as an international tourist spot.",
+                "evidence":"5He died in an air crash near Kullu (Kulu) Valley on April 30, 1971. Sports journalists, historians, experts and sportsmen consider him as the Father of Sports and Tourism in Kerala.",
+                "post_evidence": "",
+                "reference_url":"https://www.google.com",
+                "g_id": [
+                    0
+                ]
+            },
             ]
         let attention_questions = [{"question": "He advised me ___ the doctor.", "options": ["that I see", "to see", "seeing", "see"], "answer": 1}, {"question": "Jane's ___ nice and polite.", "options": ["a", "from", "very", "at"], "answer": 2}, {"question": "You ___ to come if you don't want to.", "options": ["don't need", "needn't", "needn't have", "didn't need"], "answer": 0}, {"question": "By the time you arrive ___", "options": ["he'll leave", "he'll have left", "he leaves", "he left"], "answer": 1}]; 
 
-        let total = verbalisations.length;
+        let total = affirmation_evidence_pairs.length;
 
         var outputs = [];
         // DEFAULT OUTPUTS IN JSON FORMAT, EX:  { similarity: -1, confidence: -1, reason: "" }
         // REPLACES THE GD FIELD WITH THE PROPER SET
         for (i = 0; i < total; i++) {
-            outputs[i] = {adequacy: -1, reason_no: -1, reason_not_sure: -1, reason_no_other: "", reason_not_sure_other: ""};
-            /*if (verbalisations[i]['g_id'] != 0){
-                verbalisations[i]['g_id'] = verbalisations[i]['g_id']['adequacy'];
+            outputs[i] = {relation: -1, reason_not_sure: -1, reason_not_sure_other: ""};
+            /*if (affirmation_evidence_pairs[i]['g_id'] != 0){
+                affirmation_evidence_pairs[i]['g_id'] = affirmation_evidence_pairs[i]['g_id']['adequacy'];
             }*/
         }
 
@@ -802,40 +669,56 @@
             pageIndex = currentPage - 1;
             output = outputs[pageIndex];
 
-            if (output["adequacy"] == -1) {
-                $("#adequacy_yes").removeClass('active');                
-                $("#adequacy_no").removeClass('active');             
-                $("#adequacy_not_sure").removeClass('active');
-                $('#reasons-no-panel').addClass('d-none')
-                $('#reasons-not-sure-panel').addClass('d-none')
-            } else if (output["adequacy"] == 0) {
-                $("#adequacy_yes").addClass('active');                
-                $("#adequacy_no").removeClass('active');             
-                $("#adequacy_not_sure").removeClass('active');
-                $('#reasons-no-panel').addClass('d-none')
-                $('#reasons-not-sure-panel').addClass('d-none')
-            } else if (output["adequacy"] == 1) {
-                $("#adequacy_yes").removeClass('active');                
-                $("#adequacy_no").addClass('active');             
-                $("#adequacy_not_sure").removeClass('active');
-                $('#reasons-no-panel').removeClass('d-none')
-                $('#reasons-not-sure-panel').addClass('d-none')
-            } else if (output["adequacy"] == 2) {
-                $("#adequacy_yes").removeClass('active');                
-                $("#adequacy_no").removeClass('active');             
-                $("#adequacy_not_sure").addClass('active');
-                $('#reasons-no-panel').addClass('d-none')
-                $('#reasons-not-sure-panel').removeClass('d-none')
-            }
-
-            for (i = 0; i < $('#reason_no_buttons').children().length; i++) {
-                if (output['reason_no'] == i){
-                    $(`#reason_no_${i}`).addClass("active");
-                    $(`#reason_no_${i}`).children('input').prop('checked',true)
-                } else {
-                    $(`#reason_no_${i}`).removeClass("active");
-                    $(`#reason_no_${i}`).children('input').prop('checked',false)
-                }
+            if (output["relation"] == -1) {
+                $("#relation_0").removeClass('active');
+                $("#relation_0").children('input').prop('checked',false)                
+                $("#relation_1").removeClass('active');
+                $("#relation_1").children('input').prop('checked',false)                  
+                $("#relation_2").removeClass('active');
+                $("#relation_2").children('input').prop('checked',false)             
+                $("#relation_3").removeClass('active');                
+                $("#relation_3").children('input').prop('checked',false) 
+                $('#reasons-not-sure-panel').addClass('d-none');
+            } else if (output["relation"] == 0) {
+                $("#relation_0").addClass('active');
+                $("#relation_0").children('input').prop('checked',true)                 
+                $("#relation_1").removeClass('active');
+                $("#relation_1").children('input').prop('checked',false)                 
+                $("#relation_2").removeClass('active');
+                $("#relation_2").children('input').prop('checked',false)              
+                $("#relation_3").removeClass('active');
+                $("#relation_3").children('input').prop('checked',false) 
+                $('#reasons-not-sure-panel').addClass('d-none');
+            } else if (output["relation"] == 1) {
+                $("#relation_0").removeClass('active');
+                $("#relation_0").children('input').prop('checked',false)                 
+                $("#relation_1").addClass('active');
+                $("#relation_1").children('input').prop('checked',true)                 
+                $("#relation_2").removeClass('active');
+                $("#relation_2").children('input').prop('checked',false)              
+                $("#relation_3").removeClass('active');
+                $("#relation_3").children('input').prop('checked',false) 
+                $('#reasons-not-sure-panel').addClass('d-none');
+            } else if (output["relation"] == 2) {
+                $("#relation_0").removeClass('active');
+                $("#relation_0").children('input').prop('checked',false)                 
+                $("#relation_1").removeClass('active');
+                $("#relation_1").children('input').prop('checked',false)                 
+                $("#relation_2").addClass('active');
+                $("#relation_2").children('input').prop('checked',true)              
+                $("#relation_3").removeClass('active');
+                $("#relation_3").children('input').prop('checked',false) 
+                $('#reasons-not-sure-panel').addClass('d-none');
+            } else if (output["relation"] == 3) {
+                $("#relation_0").removeClass('active');
+                $("#relation_0").children('input').prop('checked',false)                 
+                $("#relation_1").removeClass('active');
+                $("#relation_1").children('input').prop('checked',false)                 
+                $("#relation_2").removeClass('active');
+                $("#relation_2").children('input').prop('checked',false)              
+                $("#relation_3").addClass('active');
+                $("#relation_3").children('input').prop('checked',true) 
+                $('#reasons-not-sure-panel').removeClass('d-none');
             }
 
             for (i = 0; i < $('#reason_not_sure_buttons').children().length; i++) {
@@ -848,78 +731,31 @@
                 }
             }
 
-            if (output["reason_no_other"].replace(/\s+/g, "") != ""){
-                $('#reason_no_other').val(output["reason_no_other"]);
-            } else {
-                $('#reason_no_other').val("");
-            }
-
             if (output["reason_not_sure_other"].replace(/\s+/g, "") != ""){
                 $('#reason_not_sure_other').val(output["reason_not_sure_other"]);
             } else {
                 $('#reason_not_sure_other').val("");
             }
 
-            $("#verbalised_claim").text(verbalisations[pageIndex]["verbalised_claim"]);
+            $("#affirmation").text(affirmation_evidence_pairs[pageIndex]["affirmation"]);
 
-            $("#claim_subject_label").text(verbalisations[pageIndex]["subject_label"]);
-            $("#claim_predicate_label").text(verbalisations[pageIndex]["predicate_label"]);
-            $("#claim_object_label").text(verbalisations[pageIndex]["object_label"]);            
-
-            $("#claim_subject_description").text(verbalisations[pageIndex]["subject_description"]);
-            $("#claim_predicate_description").text(verbalisations[pageIndex]["predicate_description"]);
-            $("#claim_object_description").text(verbalisations[pageIndex]["object_description"]);
-
-            $("#claim_subject_aliases").empty();
-            if (verbalisations[pageIndex]["subject_aliases"] == "No aliases available"){
-                $("#claim_subject_aliases").append(
-                            "<span>No aliases available</span>"
+            $("#passage").empty()
+            if (affirmation_evidence_pairs[pageIndex]["pre_evidence"] != ""){
+                $("#passage").append(
+                    `${affirmation_evidence_pairs[pageIndex]["pre_evidence"]} `
                 );
             }
-            else{
-                $("#claim_subject_aliases").append(
-                        `<ul id="claim_subject_aliases_list"></ul>`
+            $("#passage").append(
+                `<u>${affirmation_evidence_pairs[pageIndex]["evidence"]}</u>`
+            );
+            if (affirmation_evidence_pairs[pageIndex]["post_evidence"] != ""){
+                $("#passage").append(
+                    ` ${affirmation_evidence_pairs[pageIndex]["post_evidence"]}`
                 );
-                for (alias in verbalisations[pageIndex]["subject_aliases"]) {
-                    $("#claim_subject_aliases_list").append(
-                            `<li><i>${verbalisations[pageIndex]["subject_aliases"][alias]}</i></li>`
-                    );
-                }
             }
 
-            $("#claim_predicate_aliases").empty();
-            if (verbalisations[pageIndex]["predicate_aliases"] == "No aliases available"){
-                $("#claim_predicate_aliases").append(
-                            "<span>No aliases available</span>"
-                );
-            }
-            else{
-                $("#claim_predicate_aliases").append(
-                        `<ul id="claim_predicate_aliases_list"></ul>`
-                );
-                for (alias in verbalisations[pageIndex]["predicate_aliases"]) {
-                    $("#claim_predicate_aliases_list").append(
-                            `<li><i>${verbalisations[pageIndex]["predicate_aliases"][alias]}</i></li>`
-                    );
-                }
-            }
-
-            $("#claim_object_aliases").empty();
-            if (verbalisations[pageIndex]["object_aliases"] == "No aliases available"){
-                $("#claim_object_aliases").append(
-                            "<span>No aliases available</span>"
-                );
-            }
-            else{
-                $("#claim_object_aliases").append(
-                        `<ul id="claim_object_aliases_list"></ul>`
-                );
-                for (alias in verbalisations[pageIndex]["object_aliases"]) {
-                    $("#claim_object_aliases_list").append(
-                            `<li><i>${verbalisations[pageIndex]["object_aliases"][alias]}</i></li>`
-                    );
-                }
-            }
+            $("#reference_url").text(affirmation_evidence_pairs[pageIndex]["reference_url"]);
+            $("#reference_url").attr("href", affirmation_evidence_pairs[pageIndex]["reference_url"]);
             
 
             lastChange = Date.now();
@@ -938,7 +774,7 @@
                     allOK = allOK - 1
                 }
             }
-            return (allOK == 4)
+            return true//(allOK == 4) //CHANGE BACK FOR PRODUCTION
         }
 
         function verifyAnswers() {
@@ -949,11 +785,9 @@
             const outputs_flat = [].concat(...outputs)
             for (s of outputs_flat) {
                 if (
-                    (s["adequacy"] == -1) ||
-                    (s["adequacy"] == 1 && s["reason_no"] == -1) ||
-                    (s["adequacy"] == 2 && s["reason_not_sure"] == -1) ||
-                    (s["reason_no"] == 5 && s["reason_no_other"].replace(/\s+/g, "") == "") ||
-                    (s["reason_not_sure"] == 5 && s["reason_not_sure_other"].replace(/\s/g, "") == "")
+                    (s["relation"] == -1) ||
+                    (s["relation"] == 3 && s["reason_not_sure"] == -1) ||
+                    (s["reason_not_sure"] == 3 && s["reason_not_sure_other"].replace(/\s/g, "") == "")
                 ) {
                     allControlsUsedCheck = false;
                 }
@@ -980,9 +814,9 @@
 
             var allGoldenCheck = true;
             for (i = 0; i < total; i++) {
-                if (verbalisations[i]['g_id'] != 0){
-                    if (verbalisations[i]['g_id']['adequacy'] != -1){
-                        if (verbalisations[i]['g_id']['adequacy'].indexOf(outputs[i]['adequacy']) == -1){
+                if (affirmation_evidence_pairs[i]['g_id'] != 0){
+                    if (affirmation_evidence_pairs[i]['g_id'] != -1){
+                        if (affirmation_evidence_pairs[i]['g_id'].indexOf(outputs[i]['relation']) == -1){
                             allGoldenCheck = false
                         }
                     }
@@ -1060,33 +894,27 @@
                     log_event("opened_instructions", null);
                 }
             });
-            $('.adequacy-button').click(function() {
+            $('.relation_button').click(function() {
                 page = parseInt($("#current-page").text());
                 pageIndex = page - 1;
-                adequacy_text = this.id.split('adequacy_')[1]
-                if (adequacy_text == 'yes'){
-                    outputs[pageIndex]['adequacy'] = 0;
+                relation_idx = this.id.split('relation_')[1]
+                if (relation_idx == '0'){
+                    outputs[pageIndex]['relation'] = 0;
                     $('#reasons-no-panel').addClass('d-none')
                     $('#reasons-not-sure-panel').addClass('d-none')
-                } else if (adequacy_text == 'no'){
-                    outputs[pageIndex]['adequacy'] = 1;
+                } else if (relation_idx == '1'){
+                    outputs[pageIndex]['relation'] = 1;
                     $('#reasons-no-panel').removeClass('d-none')
                     $('#reasons-not-sure-panel').addClass('d-none')
-                } else if (adequacy_text == 'not_sure'){
-                    outputs[pageIndex]['adequacy'] = 2;
+                } else if (relation_idx == '2'){
+                    outputs[pageIndex]['relation'] = 2;
+                    $('#reasons-no-panel').removeClass('d-none')
+                    $('#reasons-not-sure-panel').addClass('d-none')
+                } else if (relation_idx == '3'){
+                    outputs[pageIndex]['relation'] = 3;
                     $('#reasons-no-panel').addClass('d-none')
                     $('#reasons-not-sure-panel').removeClass('d-none')
                 }
-            });
-            $('.reason_no_button').click(function() {
-                page = parseInt($("#current-page").text());
-                pageIndex = page - 1;
-                outputs[pageIndex]['reason_no'] = parseInt(this.id.split('reason_no_')[1]);
-            });
-            $('#reason_no_other').change(function() {
-                page = parseInt($("#current-page").text());
-                pageIndex = page - 1;
-                outputs[pageIndex]['reason_no_other'] = $('#reason_no_other').val();
             });
             $('.reason_not_sure_button').click(function() {
                 page = parseInt($("#current-page").text());
