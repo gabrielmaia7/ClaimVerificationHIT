@@ -399,6 +399,17 @@
                 <!---->
                 <div class="row d-flex justify-content-center">
                     <div class="col-sm-11 pr-0 pl-0">
+                        <h5>
+                            The following passages were extracted from this link: <a id="reference_url" href=""></a>
+                            <br>
+                            If you want, you can click on the link to see the passages with their original form and with more context.
+                        </h5>
+                    </div>
+                </div>
+                <br />
+                <!---->
+                <div class="row d-flex justify-content-center">
+                    <div class="col-sm-11 pr-0 pl-0">
                         <h5>Now, read the following passages, paying particular attention to their <u>highlighted texts</u>:</h5>
                     </div>
                 </div>
@@ -429,19 +440,6 @@
                 <div class="row d-flex justify-content-center">
                     <div class="col-sm-11 bg-light border rounded p-2">
                         <p style="margin-top: 8px;margin-bottom: 8px;"><span id="passage_4"></span></p>
-                    </div>
-                </div>
-                <br />
-                <!---->
-                <div class="row d-flex justify-content-center">
-                    <div class="col-sm-11 pr-0 pl-0">
-                        <h5>
-                            These passages were extracted from the following link:
-                            <br>
-                            <a id="reference_url" href=""></a>
-                            <br>
-                            You can click on the link to see the passages with their original form and with more context.
-                        </h5>
                     </div>
                 </div>
                 <br />
@@ -622,230 +620,220 @@
     <script language="Javascript">
         // INITIALIZATION LOGIC
         // ---------------------------------------------------------------- //
-        let affirmation_evidence_pairs = [
-            {
-                "identifiers":"0",
-                "affirmation":"G V Raja died in Kullu Valley.0",
-                "evidence_list": [
-                    {
-                        "pre_evidence":"0",
-                        "evidence":"He died in an air crash near Kullu (Kulu) Valley on April 30, 1971. Sports journalists, historians, experts and sportsmen consider him as the Father of Sports and Tourism in Kerala.",
-                        "post_evidence": "G. V. Raja's birth anniversary, 13 October, is observed as \"Kerala Sports Day\".",
-                    },
-                    {
-                        "pre_evidence":"G. V. Raja was also the President of Tourism Promotion Council of Kerala.",
-                        "evidence":"He was the main architect in developing Kovalam as an international tourist spot. He died in an air crash near Kullu (Kulu) Valley on April 30, 1971.",
-                        "post_evidence": "",
-                    },
-                    {
-                        "pre_evidence":"",
-                        "evidence":"He died in an air crash near Kullu (Kulu) Valley on April 30, 1971.",
-                        "post_evidence": "Sports journalists, historians, experts and sportsmen consider him as the Father of Sports and Tourism in Kerala.",
-                    },
-                    {
-                        "pre_evidence":"",
-                        "evidence":"P. R. Godavarma Raja Karthika Nal Godavarma Raja Born 13 October 1908 Poonjar Royal House, Kottayam Died 30 April 1971 Kullu Valley, Himachal Pradesh Cause of death Air Crash Spouse(s) Maharani Karthika Thirunal Lakshmi Bayi of Travancore (m. 1934)",
-                        "post_evidence": "Children Crown Prince Rama Varma (died aged six)",
-                    },
-                    {
-                        "pre_evidence":"He made an unscheduled trip to the Kulu Valley on 30 April 1971. ",
-                        "evidence":"With two others, G V Raja flew in a three-seater aircraft which nose-dived and crashed, killing all its passengers.",
-                        "post_evidence": "He was aged 62 at the time of his death.",
-                    }
-                ],                
-                "reference_url":"https://www.google.com",
-                "g_id": [
-                    0
-                ]
-            },
-            {
-                "identifiers":"1",
-                "affirmation":"G V Raja died in Kullu Valley.1",
-                "evidence_list": [
-                    {
-                        "pre_evidence":"1",
-                        "evidence":"He died in an air crash near Kullu (Kulu) Valley on April 30, 1971. Sports journalists, historians, experts and sportsmen consider him as the Father of Sports and Tourism in Kerala.",
-                        "post_evidence": "G. V. Raja's birth anniversary, 13 October, is observed as \"Kerala Sports Day\".",
-                    },
-                    {
-                        "pre_evidence":"G. V. Raja was also the President of Tourism Promotion Council of Kerala.",
-                        "evidence":"He was the main architect in developing Kovalam as an international tourist spot. He died in an air crash near Kullu (Kulu) Valley on April 30, 1971.",
-                        "post_evidence": "",
-                    },
-                    {
-                        "pre_evidence":"",
-                        "evidence":"He died in an air crash near Kullu (Kulu) Valley on April 30, 1971.",
-                        "post_evidence": "Sports journalists, historians, experts and sportsmen consider him as the Father of Sports and Tourism in Kerala.",
-                    },
-                    {
-                        "pre_evidence":"",
-                        "evidence":"P. R. Godavarma Raja Karthika Nal Godavarma Raja Born 13 October 1908 Poonjar Royal House, Kottayam Died 30 April 1971 Kullu Valley, Himachal Pradesh Cause of death Air Crash Spouse(s) Maharani Karthika Thirunal Lakshmi Bayi of Travancore (m. 1934)",
-                        "post_evidence": "Children Crown Prince Rama Varma (died aged six)",
-                    },
-                    {
-                        "pre_evidence":"He made an unscheduled trip to the Kulu Valley on 30 April 1971. ",
-                        "evidence":"With two others, G V Raja flew in a three-seater aircraft which nose-dived and crashed, killing all its passengers.",
-                        "post_evidence": "He was aged 62 at the time of his death.",
-                    }
-                ],
-                "reference_url":"https://www.google.com",
-                "g_id": [
-                    0
-                ]
-            },
-            {
-                "identifiers":"2",
-                "affirmation":"G V Raja died in Kullu Valley.2",
-                "evidence_list": [
-                    {
-                        "pre_evidence":"2",
-                        "evidence":"He died in an air crash near Kullu (Kulu) Valley on April 30, 1971. Sports journalists, historians, experts and sportsmen consider him as the Father of Sports and Tourism in Kerala.",
-                        "post_evidence": "G. V. Raja's birth anniversary, 13 October, is observed as \"Kerala Sports Day\".",
-                    },
-                    {
-                        "pre_evidence":"G. V. Raja was also the President of Tourism Promotion Council of Kerala.",
-                        "evidence":"He was the main architect in developing Kovalam as an international tourist spot. He died in an air crash near Kullu (Kulu) Valley on April 30, 1971.",
-                        "post_evidence": "",
-                    },
-                    {
-                        "pre_evidence":"",
-                        "evidence":"He died in an air crash near Kullu (Kulu) Valley on April 30, 1971.",
-                        "post_evidence": "Sports journalists, historians, experts and sportsmen consider him as the Father of Sports and Tourism in Kerala.",
-                    },
-                    {
-                        "pre_evidence":"",
-                        "evidence":"P. R. Godavarma Raja Karthika Nal Godavarma Raja Born 13 October 1908 Poonjar Royal House, Kottayam Died 30 April 1971 Kullu Valley, Himachal Pradesh Cause of death Air Crash Spouse(s) Maharani Karthika Thirunal Lakshmi Bayi of Travancore (m. 1934)",
-                        "post_evidence": "Children Crown Prince Rama Varma (died aged six)",
-                    },
-                    {
-                        "pre_evidence":"He made an unscheduled trip to the Kulu Valley on 30 April 1971. ",
-                        "evidence":"With two others, G V Raja flew in a three-seater aircraft which nose-dived and crashed, killing all its passengers.",
-                        "post_evidence": "He was aged 62 at the time of his death.",
-                    }
-                ],
-                "reference_url":"https://www.google.com",
-                "g_id": [
-                    0
-                ]
-            },
-            {
-                "identifiers":"3",
-                "affirmation":"G V Raja died in Kullu Valley.3",
-                "evidence_list": [
-                    {
-                        "pre_evidence":"3",
-                        "evidence":"He died in an air crash near Kullu (Kulu) Valley on April 30, 1971. Sports journalists, historians, experts and sportsmen consider him as the Father of Sports and Tourism in Kerala.",
-                        "post_evidence": "G. V. Raja's birth anniversary, 13 October, is observed as \"Kerala Sports Day\".",
-                    },
-                    {
-                        "pre_evidence":"G. V. Raja was also the President of Tourism Promotion Council of Kerala.",
-                        "evidence":"He was the main architect in developing Kovalam as an international tourist spot. He died in an air crash near Kullu (Kulu) Valley on April 30, 1971.",
-                        "post_evidence": "",
-                    },
-                    {
-                        "pre_evidence":"",
-                        "evidence":"He died in an air crash near Kullu (Kulu) Valley on April 30, 1971.",
-                        "post_evidence": "Sports journalists, historians, experts and sportsmen consider him as the Father of Sports and Tourism in Kerala.",
-                    },
-                    {
-                        "pre_evidence":"",
-                        "evidence":"P. R. Godavarma Raja Karthika Nal Godavarma Raja Born 13 October 1908 Poonjar Royal House, Kottayam Died 30 April 1971 Kullu Valley, Himachal Pradesh Cause of death Air Crash Spouse(s) Maharani Karthika Thirunal Lakshmi Bayi of Travancore (m. 1934)",
-                        "post_evidence": "Children Crown Prince Rama Varma (died aged six)",
-                    },
-                    {
-                        "pre_evidence":"He made an unscheduled trip to the Kulu Valley on 30 April 1971. ",
-                        "evidence":"With two others, G V Raja flew in a three-seater aircraft which nose-dived and crashed, killing all its passengers.",
-                        "post_evidence": "He was aged 62 at the time of his death.",
-                    }
-                ],
-                "reference_url":"https://www.google.com",
-                "g_id": [
-                    0
-                ]
-            },
-            {
-                "identifiers":"4",
-                "affirmation":"G V Raja died in Kullu Valley.4",
-                "evidence_list": [
-                    {
-                        "pre_evidence":"4",
-                        "evidence":"He died in an air crash near Kullu (Kulu) Valley on April 30, 1971. Sports journalists, historians, experts and sportsmen consider him as the Father of Sports and Tourism in Kerala.",
-                        "post_evidence": "G. V. Raja's birth anniversary, 13 October, is observed as \"Kerala Sports Day\".",
-                    },
-                    {
-                        "pre_evidence":"G. V. Raja was also the President of Tourism Promotion Council of Kerala.",
-                        "evidence":"He was the main architect in developing Kovalam as an international tourist spot. He died in an air crash near Kullu (Kulu) Valley on April 30, 1971.",
-                        "post_evidence": "",
-                    },
-                    {
-                        "pre_evidence":"",
-                        "evidence":"He died in an air crash near Kullu (Kulu) Valley on April 30, 1971.",
-                        "post_evidence": "Sports journalists, historians, experts and sportsmen consider him as the Father of Sports and Tourism in Kerala.",
-                    },
-                    {
-                        "pre_evidence":"",
-                        "evidence":"P. R. Godavarma Raja Karthika Nal Godavarma Raja Born 13 October 1908 Poonjar Royal House, Kottayam Died 30 April 1971 Kullu Valley, Himachal Pradesh Cause of death Air Crash Spouse(s) Maharani Karthika Thirunal Lakshmi Bayi of Travancore (m. 1934)",
-                        "post_evidence": "Children Crown Prince Rama Varma (died aged six)",
-                    },
-                    {
-                        "pre_evidence":"He made an unscheduled trip to the Kulu Valley on 30 April 1971. ",
-                        "evidence":"With two others, G V Raja flew in a three-seater aircraft which nose-dived and crashed, killing all its passengers.",
-                        "post_evidence": "He was aged 62 at the time of his death.",
-                    }
-                ],
-                "reference_url":"https://www.google.com",
-                "g_id": [
-                    0
-                ]
-            },
-            {
-                "identifiers":"5",
-                "affirmation":"G V Raja died in Kullu Valley.5",
-                "evidence_list": [
-                    {
-                        "pre_evidence":"5",
-                        "evidence":"He died in an air crash near Kullu (Kulu) Valley on April 30, 1971. Sports journalists, historians, experts and sportsmen consider him as the Father of Sports and Tourism in Kerala.",
-                        "post_evidence": "G. V. Raja's birth anniversary, 13 October, is observed as \"Kerala Sports Day\".",
-                    },
-                    {
-                        "pre_evidence":"G. V. Raja was also the President of Tourism Promotion Council of Kerala.",
-                        "evidence":"He was the main architect in developing Kovalam as an international tourist spot. He died in an air crash near Kullu (Kulu) Valley on April 30, 1971.",
-                        "post_evidence": "",
-                    },
-                    {
-                        "pre_evidence":"",
-                        "evidence":"He died in an air crash near Kullu (Kulu) Valley on April 30, 1971.",
-                        "post_evidence": "Sports journalists, historians, experts and sportsmen consider him as the Father of Sports and Tourism in Kerala.",
-                    },
-                    {
-                        "pre_evidence":"",
-                        "evidence":"P. R. Godavarma Raja Karthika Nal Godavarma Raja Born 13 October 1908 Poonjar Royal House, Kottayam Died 30 April 1971 Kullu Valley, Himachal Pradesh Cause of death Air Crash Spouse(s) Maharani Karthika Thirunal Lakshmi Bayi of Travancore (m. 1934)",
-                        "post_evidence": "Children Crown Prince Rama Varma (died aged six)",
-                    },
-                    {
-                        "pre_evidence":"He made an unscheduled trip to the Kulu Valley on 30 April 1971. ",
-                        "evidence":"With two others, G V Raja flew in a three-seater aircraft which nose-dived and crashed, killing all its passengers.",
-                        "post_evidence": "He was aged 62 at the time of his death.",
-                    }
-                ],
-                "reference_url":"https://www.google.com",
-                "g_id": [
-                    0
-                ]
-            },
+        let affirmation_evidence_pairs = {
+            'task_id': '0',
+            'batch_id': '0',
+            'task_set': [
+                {
+                    "identifiers":"0",
+                    "affirmation":"G V Raja died in Kullu Valley.0",
+                    "evidence_list": [
+                        {
+                            "pre_evidence":"0",
+                            "evidence":"He died in an air crash near Kullu (Kulu) Valley on April 30, 1971. Sports journalists, historians, experts and sportsmen consider him as the Father of Sports and Tourism in Kerala.",
+                            "post_evidence": "G. V. Raja's birth anniversary, 13 October, is observed as \"Kerala Sports Day\".",
+                        },
+                        {
+                            "pre_evidence":"G. V. Raja was also the President of Tourism Promotion Council of Kerala.",
+                            "evidence":"He was the main architect in developing Kovalam as an international tourist spot. He died in an air crash near Kullu (Kulu) Valley on April 30, 1971.",
+                            "post_evidence": "",
+                        },
+                        {
+                            "pre_evidence":"",
+                            "evidence":"He died in an air crash near Kullu (Kulu) Valley on April 30, 1971.",
+                            "post_evidence": "Sports journalists, historians, experts and sportsmen consider him as the Father of Sports and Tourism in Kerala.",
+                        },
+                        {
+                            "pre_evidence":"",
+                            "evidence":"P. R. Godavarma Raja Karthika Nal Godavarma Raja Born 13 October 1908 Poonjar Royal House, Kottayam Died 30 April 1971 Kullu Valley, Himachal Pradesh Cause of death Air Crash Spouse(s) Maharani Karthika Thirunal Lakshmi Bayi of Travancore (m. 1934)",
+                            "post_evidence": "Children Crown Prince Rama Varma (died aged six)",
+                        },
+                        {
+                            "pre_evidence":"He made an unscheduled trip to the Kulu Valley on 30 April 1971. ",
+                            "evidence":"With two others, G V Raja flew in a three-seater aircraft which nose-dived and crashed, killing all its passengers.",
+                            "post_evidence": "He was aged 62 at the time of his death.",
+                        }
+                    ],                
+                    "reference_url":"https://www.google.com",
+                    "g_id": -1
+                },
+                {
+                    "identifiers":"1",
+                    "affirmation":"G V Raja died in Kullu Valley.1",
+                    "evidence_list": [
+                        {
+                            "pre_evidence":"1",
+                            "evidence":"He died in an air crash near Kullu (Kulu) Valley on April 30, 1971. Sports journalists, historians, experts and sportsmen consider him as the Father of Sports and Tourism in Kerala.",
+                            "post_evidence": "G. V. Raja's birth anniversary, 13 October, is observed as \"Kerala Sports Day\".",
+                        },
+                        {
+                            "pre_evidence":"G. V. Raja was also the President of Tourism Promotion Council of Kerala.",
+                            "evidence":"He was the main architect in developing Kovalam as an international tourist spot. He died in an air crash near Kullu (Kulu) Valley on April 30, 1971.",
+                            "post_evidence": "",
+                        },
+                        {
+                            "pre_evidence":"",
+                            "evidence":"He died in an air crash near Kullu (Kulu) Valley on April 30, 1971.",
+                            "post_evidence": "Sports journalists, historians, experts and sportsmen consider him as the Father of Sports and Tourism in Kerala.",
+                        },
+                        {
+                            "pre_evidence":"",
+                            "evidence":"P. R. Godavarma Raja Karthika Nal Godavarma Raja Born 13 October 1908 Poonjar Royal House, Kottayam Died 30 April 1971 Kullu Valley, Himachal Pradesh Cause of death Air Crash Spouse(s) Maharani Karthika Thirunal Lakshmi Bayi of Travancore (m. 1934)",
+                            "post_evidence": "Children Crown Prince Rama Varma (died aged six)",
+                        },
+                        {
+                            "pre_evidence":"He made an unscheduled trip to the Kulu Valley on 30 April 1971. ",
+                            "evidence":"With two others, G V Raja flew in a three-seater aircraft which nose-dived and crashed, killing all its passengers.",
+                            "post_evidence": "He was aged 62 at the time of his death.",
+                        }
+                    ],
+                    "reference_url":"https://www.google.com",
+                    "g_id": -1
+                },
+                {
+                    "identifiers":"2",
+                    "affirmation":"G V Raja died in Kullu Valley.2",
+                    "evidence_list": [
+                        {
+                            "pre_evidence":"2",
+                            "evidence":"He died in an air crash near Kullu (Kulu) Valley on April 30, 1971. Sports journalists, historians, experts and sportsmen consider him as the Father of Sports and Tourism in Kerala.",
+                            "post_evidence": "G. V. Raja's birth anniversary, 13 October, is observed as \"Kerala Sports Day\".",
+                        },
+                        {
+                            "pre_evidence":"G. V. Raja was also the President of Tourism Promotion Council of Kerala.",
+                            "evidence":"He was the main architect in developing Kovalam as an international tourist spot. He died in an air crash near Kullu (Kulu) Valley on April 30, 1971.",
+                            "post_evidence": "",
+                        },
+                        {
+                            "pre_evidence":"",
+                            "evidence":"He died in an air crash near Kullu (Kulu) Valley on April 30, 1971.",
+                            "post_evidence": "Sports journalists, historians, experts and sportsmen consider him as the Father of Sports and Tourism in Kerala.",
+                        },
+                        {
+                            "pre_evidence":"",
+                            "evidence":"P. R. Godavarma Raja Karthika Nal Godavarma Raja Born 13 October 1908 Poonjar Royal House, Kottayam Died 30 April 1971 Kullu Valley, Himachal Pradesh Cause of death Air Crash Spouse(s) Maharani Karthika Thirunal Lakshmi Bayi of Travancore (m. 1934)",
+                            "post_evidence": "Children Crown Prince Rama Varma (died aged six)",
+                        },
+                        {
+                            "pre_evidence":"He made an unscheduled trip to the Kulu Valley on 30 April 1971. ",
+                            "evidence":"With two others, G V Raja flew in a three-seater aircraft which nose-dived and crashed, killing all its passengers.",
+                            "post_evidence": "He was aged 62 at the time of his death.",
+                        }
+                    ],
+                    "reference_url":"https://www.google.com",
+                    "g_id": -1
+                },
+                {
+                    "identifiers":"3",
+                    "affirmation":"G V Raja died in Kullu Valley.3",
+                    "evidence_list": [
+                        {
+                            "pre_evidence":"3",
+                            "evidence":"He died in an air crash near Kullu (Kulu) Valley on April 30, 1971. Sports journalists, historians, experts and sportsmen consider him as the Father of Sports and Tourism in Kerala.",
+                            "post_evidence": "G. V. Raja's birth anniversary, 13 October, is observed as \"Kerala Sports Day\".",
+                        },
+                        {
+                            "pre_evidence":"G. V. Raja was also the President of Tourism Promotion Council of Kerala.",
+                            "evidence":"He was the main architect in developing Kovalam as an international tourist spot. He died in an air crash near Kullu (Kulu) Valley on April 30, 1971.",
+                            "post_evidence": "",
+                        },
+                        {
+                            "pre_evidence":"",
+                            "evidence":"He died in an air crash near Kullu (Kulu) Valley on April 30, 1971.",
+                            "post_evidence": "Sports journalists, historians, experts and sportsmen consider him as the Father of Sports and Tourism in Kerala.",
+                        },
+                        {
+                            "pre_evidence":"",
+                            "evidence":"P. R. Godavarma Raja Karthika Nal Godavarma Raja Born 13 October 1908 Poonjar Royal House, Kottayam Died 30 April 1971 Kullu Valley, Himachal Pradesh Cause of death Air Crash Spouse(s) Maharani Karthika Thirunal Lakshmi Bayi of Travancore (m. 1934)",
+                            "post_evidence": "Children Crown Prince Rama Varma (died aged six)",
+                        },
+                        {
+                            "pre_evidence":"He made an unscheduled trip to the Kulu Valley on 30 April 1971. ",
+                            "evidence":"With two others, G V Raja flew in a three-seater aircraft which nose-dived and crashed, killing all its passengers.",
+                            "post_evidence": "He was aged 62 at the time of his death.",
+                        }
+                    ],
+                    "reference_url":"https://www.google.com",
+                    "g_id": -1
+                },
+                {
+                    "identifiers":"4",
+                    "affirmation":"G V Raja died in Kullu Valley.4",
+                    "evidence_list": [
+                        {
+                            "pre_evidence":"4",
+                            "evidence":"He died in an air crash near Kullu (Kulu) Valley on April 30, 1971. Sports journalists, historians, experts and sportsmen consider him as the Father of Sports and Tourism in Kerala.",
+                            "post_evidence": "G. V. Raja's birth anniversary, 13 October, is observed as \"Kerala Sports Day\".",
+                        },
+                        {
+                            "pre_evidence":"G. V. Raja was also the President of Tourism Promotion Council of Kerala.",
+                            "evidence":"He was the main architect in developing Kovalam as an international tourist spot. He died in an air crash near Kullu (Kulu) Valley on April 30, 1971.",
+                            "post_evidence": "",
+                        },
+                        {
+                            "pre_evidence":"",
+                            "evidence":"He died in an air crash near Kullu (Kulu) Valley on April 30, 1971.",
+                            "post_evidence": "Sports journalists, historians, experts and sportsmen consider him as the Father of Sports and Tourism in Kerala.",
+                        },
+                        {
+                            "pre_evidence":"",
+                            "evidence":"P. R. Godavarma Raja Karthika Nal Godavarma Raja Born 13 October 1908 Poonjar Royal House, Kottayam Died 30 April 1971 Kullu Valley, Himachal Pradesh Cause of death Air Crash Spouse(s) Maharani Karthika Thirunal Lakshmi Bayi of Travancore (m. 1934)",
+                            "post_evidence": "Children Crown Prince Rama Varma (died aged six)",
+                        },
+                        {
+                            "pre_evidence":"He made an unscheduled trip to the Kulu Valley on 30 April 1971. ",
+                            "evidence":"With two others, G V Raja flew in a three-seater aircraft which nose-dived and crashed, killing all its passengers.",
+                            "post_evidence": "He was aged 62 at the time of his death.",
+                        }
+                    ],
+                    "reference_url":"https://www.google.com",
+                    "g_id": -1
+                },
+                {
+                    "identifiers":"5",
+                    "affirmation":"G V Raja died in Kullu Valley.5",
+                    "evidence_list": [
+                        {
+                            "pre_evidence":"5",
+                            "evidence":"He died in an air crash near Kullu (Kulu) Valley on April 30, 1971. Sports journalists, historians, experts and sportsmen consider him as the Father of Sports and Tourism in Kerala.",
+                            "post_evidence": "G. V. Raja's birth anniversary, 13 October, is observed as \"Kerala Sports Day\".",
+                        },
+                        {
+                            "pre_evidence":"G. V. Raja was also the President of Tourism Promotion Council of Kerala.",
+                            "evidence":"He was the main architect in developing Kovalam as an international tourist spot. He died in an air crash near Kullu (Kulu) Valley on April 30, 1971.",
+                            "post_evidence": "",
+                        },
+                        {
+                            "pre_evidence":"",
+                            "evidence":"He died in an air crash near Kullu (Kulu) Valley on April 30, 1971.",
+                            "post_evidence": "Sports journalists, historians, experts and sportsmen consider him as the Father of Sports and Tourism in Kerala.",
+                        },
+                        {
+                            "pre_evidence":"",
+                            "evidence":"P. R. Godavarma Raja Karthika Nal Godavarma Raja Born 13 October 1908 Poonjar Royal House, Kottayam Died 30 April 1971 Kullu Valley, Himachal Pradesh Cause of death Air Crash Spouse(s) Maharani Karthika Thirunal Lakshmi Bayi of Travancore (m. 1934)",
+                            "post_evidence": "Children Crown Prince Rama Varma (died aged six)",
+                        },
+                        {
+                            "pre_evidence":"He made an unscheduled trip to the Kulu Valley on 30 April 1971. ",
+                            "evidence":"With two others, G V Raja flew in a three-seater aircraft which nose-dived and crashed, killing all its passengers.",
+                            "post_evidence": "He was aged 62 at the time of his death.",
+                        }
+                    ],
+                    "reference_url":"https://www.google.com",
+                    "g_id": -1
+                },
             ]
+        }
+        
         let attention_questions = [{"question": "He advised me ___ the doctor.", "options": ["that I see", "to see", "seeing", "see"], "answer": 1}, {"question": "Jane's ___ nice and polite.", "options": ["a", "from", "very", "at"], "answer": 2}, {"question": "You ___ to come if you don't want to.", "options": ["don't need", "needn't", "needn't have", "didn't need"], "answer": 0}, {"question": "By the time you arrive ___", "options": ["he'll leave", "he'll have left", "he leaves", "he left"], "answer": 1}]; 
 
-        let total = affirmation_evidence_pairs.length;
+        let total = affirmation_evidence_pairs['task_set'].length;
 
         var outputs = [];
         // DEFAULT OUTPUTS IN JSON FORMAT, EX:  { similarity: -1, confidence: -1, reason: "" }
         // REPLACES THE GD FIELD WITH THE PROPER SET
         for (i = 0; i < total; i++) {
             outputs[i] = {relation: -1, reason_not_sure: -1, reason_not_sure_other: ""};
-            /*if (affirmation_evidence_pairs[i]['g_id'] != 0){
-                affirmation_evidence_pairs[i]['g_id'] = affirmation_evidence_pairs[i]['g_id']['adequacy'];
-            }*/
         }
 
         var events = [];
@@ -973,27 +961,27 @@
                 $('#reason_not_sure_other').val("");
             }
             
-            $("#affirmation").text(affirmation_evidence_pairs[pageIndex]["affirmation"]);
+            $("#affirmation").text(affirmation_evidence_pairs['task_set'][pageIndex]["affirmation"]);
 
-            for (i = 0; i < affirmation_evidence_pairs[pageIndex]['evidence_list'].length; i++) {
+            for (i = 0; i < affirmation_evidence_pairs['task_set'][pageIndex]['evidence_list'].length; i++) {
                 $(`#passage_${i}`).empty()
-                if (affirmation_evidence_pairs[pageIndex]["evidence_list"][i]["pre_evidence"] != ""){
+                if (affirmation_evidence_pairs['task_set'][pageIndex]["evidence_list"][i]["pre_evidence"] != ""){
                     $(`#passage_${i}`).append(
-                        `${affirmation_evidence_pairs[pageIndex]["evidence_list"][i]["pre_evidence"]} `
+                        `${affirmation_evidence_pairs['task_set'][pageIndex]["evidence_list"][i]["pre_evidence"]} `
                     );
                 }
                 $(`#passage_${i}`).append(
-                    `<u>${affirmation_evidence_pairs[pageIndex]["evidence_list"][i]["evidence"]}</u>`
+                    `<u>${affirmation_evidence_pairs['task_set'][pageIndex]["evidence_list"][i]["evidence"]}</u>`
                 );
-                if (affirmation_evidence_pairs[pageIndex]["evidence_list"][i]["post_evidence"] != ""){
+                if (affirmation_evidence_pairs['task_set'][pageIndex]["evidence_list"][i]["post_evidence"] != ""){
                     $(`#passage_${i}`).append(
-                        ` ${affirmation_evidence_pairs[pageIndex]["evidence_list"][i]["post_evidence"]}`
+                        ` ${affirmation_evidence_pairs['task_set'][pageIndex]["evidence_list"][i]["post_evidence"]}`
                     );
                 }
             }
 
-            $("#reference_url").text(affirmation_evidence_pairs[pageIndex]["reference_url"]);
-            $("#reference_url").attr("href", affirmation_evidence_pairs[pageIndex]["reference_url"]);
+            $("#reference_url").text(affirmation_evidence_pairs['task_set'][pageIndex]["reference_url"]);
+            $("#reference_url").attr("href", affirmation_evidence_pairs['task_set'][pageIndex]["reference_url"]);
             
 
             lastChange = Date.now();
@@ -1052,15 +1040,13 @@
 
             var allGoldenCheck = true;
             for (i = 0; i < total; i++) {
-                if (affirmation_evidence_pairs[i]['g_id'] != 0){
-                    if (affirmation_evidence_pairs[i]['g_id'] != -1){
-                        if (affirmation_evidence_pairs[i]['g_id'].indexOf(outputs[i]['relation']) == -1){
-                            allGoldenCheck = false
-                        }
+                if (affirmation_evidence_pairs['task_set'][i]['g_id'] != -1){
+                    if (affirmation_evidence_pairs['task_set'][i]['g_id'].indexOf(outputs[i]['relation']) == -1){
+                        allGoldenCheck = false
                     }
                 }
             }
-            
+                        
             if (!allGoldenCheck) {
                 log_event("verification_check_failed", {
                     check_failed: "golden_standard_check",
