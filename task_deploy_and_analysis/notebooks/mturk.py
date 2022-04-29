@@ -6,7 +6,7 @@ from datetime import datetime
 class MTurk():
 
     def __init__(self):
-        with open('./config/amazon_credentials.json')  as f:
+        with open('../config/amazon_credentials.json')  as f:
             cfg = json.load(f)
 
         self.access_key = cfg['access_key']

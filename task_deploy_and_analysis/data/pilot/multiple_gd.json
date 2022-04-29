@@ -4,7 +4,7 @@
     "reference_id": "6f6b03a90155fe6d94363e10c76d91d205c442aa",
     "affirmation": "95 Bon-Accord Street, Aberdeen is located in Aberdeen.",
     "reference_url": "http://portal.historicenvironment.scot/designation/LB20142",
-    "g_id": -1,
+    "g_id": [0,2],
     "evidence_list": [
       {
         "evidence_id": 0,
@@ -15,12 +15,12 @@
         "post_evidence": "Facebook. Twitter. Linkedin. Visitor App. Our app is your one-stop shop for information on Scotland's iconic historic attractions."
       },
       {
-        "evidence_id": 1,
-        "sentence_id": "26",
-        "score": -0.989833653,
-        "pre_evidence": "There are no additional online documents for this record. Summary. Category C. Date Added 12/01/1967. Local Authority Aberdeen.",
-        "evidence": "Planning Authority Aberdeen.",
-        "post_evidence": "Burgh Aberdeen. NGR NJ 93751 5730. Coordinates 393751, 805730. Description. 1822 onwards. 2-storey basement and attic, plain ashlar, 25-window, stepped in fall of ground."
+        "evidence_id": 4,
+        "sentence_id": "29",
+        "score": -0.9968985319,
+        "pre_evidence": "Category C. Date Added 12/01/1967. Local Authority Aberdeen. Planning Authority Aberdeen. Burgh Aberdeen. NGR NJ 93751 5730.",
+        "evidence": "Coordinates 393751, 805730.",
+        "post_evidence": "Description. 1822 onwards. 2-storey basement and attic, plain ashlar, 25-window, stepped in fall of ground."
       },
       {
         "evidence_id": 2,
@@ -31,20 +31,20 @@
         "post_evidence": "References. Bibliography. No Bibliography entries for this designation. About Listed Buildings. Historic Environment Scotland is responsible for designating sites and places at the national level."
       },
       {
+        "evidence_id": 1,
+        "sentence_id": "26",
+        "score": -0.989833653,
+        "pre_evidence": "There are no additional online documents for this record. Summary. Category C. Date Added 12/01/1967. Local Authority Aberdeen.",
+        "evidence": "Planning Authority Aberdeen.",
+        "post_evidence": "Burgh Aberdeen. NGR NJ 93751 5730. Coordinates 393751, 805730. Description. 1822 onwards. 2-storey basement and attic, plain ashlar, 25-window, stepped in fall of ground."
+      },
+      {
         "evidence_id": 3,
         "sentence_id": "94;95",
         "score": -0.9957987666,
         "pre_evidence": "Longmore House Salisbury Place Edinburgh EH9 1SH. John Sinclair House 16 Bernard Terrace Edinburgh EH8 9NX. Facebook. Twitter. Linkedin.",
         "evidence": "Visitor App. Our app is your one-stop shop for information on Scotland's iconic historic attractions.",
         "post_evidence": "Historic Environment Scotland is the lead public body established to investigate, care for and promote Scotland's historic environment."
-      },
-      {
-        "evidence_id": 4,
-        "sentence_id": "29",
-        "score": -0.9968985319,
-        "pre_evidence": "Category C. Date Added 12/01/1967. Local Authority Aberdeen. Planning Authority Aberdeen. Burgh Aberdeen. NGR NJ 93751 5730.",
-        "evidence": "Coordinates 393751, 805730.",
-        "post_evidence": "Description. 1822 onwards. 2-storey basement and attic, plain ashlar, 25-window, stepped in fall of ground."
       }
     ]
   },
@@ -53,7 +53,7 @@
     "reference_id": "c142c251fcb563f07dabef11a283b4fd171f1eb6",
     "affirmation": "Pandallur Hss is located in India.",
     "reference_url": "https://schools.org.in/malappuram/32050601215/",
-    "g_id": -1,
+    "g_id": [0,2],
     "evidence_list": [
       {
         "evidence_id": 0,
@@ -64,12 +64,12 @@
         "post_evidence": "The school consists of Grades from 8 to 12. The school is Co-educational and it doesn't have an attached pre-primary section."
       },
       {
-        "evidence_id": 1,
-        "sentence_id": "3;4",
-        "score": -0.0570103005,
-        "pre_evidence": "Home (current) Schools in India. Compnaies in India. IFSC Codes.",
-        "evidence": "PANDALLUR HSS. Pandaloor, Manjeri (Malappuram), Kerala.",
-        "post_evidence": "Rated 3.4 out of 5 Review(s) India. Kerala. Malappuram. Schools in PANDALOOR. PANDALLUR HSS. About PANDALLUR HSS."
+        "evidence_id": 4,
+        "sentence_id": "6",
+        "score": -0.8893970251000001,
+        "pre_evidence": "IFSC Codes. PANDALLUR HSS. Pandaloor, Manjeri (Malappuram), Kerala. Rated 3.4 out of 5 Review(s) India.",
+        "evidence": "Kerala.",
+        "post_evidence": "Malappuram. Schools in PANDALOOR. PANDALLUR HSS. About PANDALLUR HSS. PANDALLUR HSS was established in 1979 and it is managed by the Pvt."
       },
       {
         "evidence_id": 2,
@@ -80,20 +80,20 @@
         "post_evidence": "It is located in MANJERI block of MALAPPURAM district of Kerala. The school consists of Grades from 8 to 12."
       },
       {
+        "evidence_id": 1,
+        "sentence_id": "3;4",
+        "score": -0.0570103005,
+        "pre_evidence": "Home (current) Schools in India. Compnaies in India. IFSC Codes.",
+        "evidence": "PANDALLUR HSS. Pandaloor, Manjeri (Malappuram), Kerala.",
+        "post_evidence": "Rated 3.4 out of 5 Review(s) India. Kerala. Malappuram. Schools in PANDALOOR. PANDALLUR HSS. About PANDALLUR HSS."
+      },
+      {
         "evidence_id": 3,
         "sentence_id": "118;119",
         "score": -0.7436110377,
         "pre_evidence": "GMLPS EDAVANNA. GMLPS KARAKUNNU. GMLPS KODASSERI. GMLPS PANDIKKAD. GUPS ANAKKAYAM. GUPS MANJERI. GUPS PULLOOR.",
         "evidence": "School Contact: Pandaloor, Manjeri. MALAPPURAM, Kerala.",
         "post_evidence": "PIN Code: 676521 (INDIA) Mobile: +91 XXXXX-XXXXX. Email: XXXX@XXXXXX.XXX. Update Your School. ×. Please Note-"
-      },
-      {
-        "evidence_id": 4,
-        "sentence_id": "6",
-        "score": -0.8893970251000001,
-        "pre_evidence": "IFSC Codes. PANDALLUR HSS. Pandaloor, Manjeri (Malappuram), Kerala. Rated 3.4 out of 5 Review(s) India.",
-        "evidence": "Kerala.",
-        "post_evidence": "Malappuram. Schools in PANDALOOR. PANDALLUR HSS. About PANDALLUR HSS. PANDALLUR HSS was established in 1979 and it is managed by the Pvt."
       }
     ]
   },
@@ -102,7 +102,7 @@
     "reference_id": "2b3521dca65c1b040551a9e60c3c7e53b2c13929",
     "affirmation": "Robert Joseph Twyman was in World War I.",
     "reference_url": "https://bioguide.congress.gov/search/bio/T000444",
-    "g_id": -1,
+    "g_id": [0],
     "evidence_list": [
       {
         "evidence_id": 0,
@@ -113,12 +113,12 @@
         "post_evidence": "Congresses Congress Position Party State 80 Representative Republican Illinois The 80th United States Congress Bibliography There are currently no bibliographies for this profile."
       },
       {
-        "evidence_id": 1,
-        "sentence_id": "0",
-        "score": -0.9637341499000001,
-        "pre_evidence": "",
-        "evidence": "Back Download { JSON } <XML> TWYMAN, Robert Joseph 1897 – 1976 Overview Biography Congresses Bibliography Research Collections Collection of the U.S. House of Representatives About this object US Congress Served 80th (1947 – 1949) House Years of Service 1947 – 1949 State / Territory Illinois Position Representative Party Republican Overview US Congress Served 80th (1947 – 1949)",
-        "post_evidence": "House Years of Service 1947 – 1949 State / Territory Illinois Position Representative Party Republican Biography TWYMAN, Robert Joseph,  a Representative from Illinois; born in Indianapolis, Marion County, Ind., June 18, 1897; attended Georgetown University, Washington, D.C.; employed in foreign service by the Department of State; during the First World War served as an ensign in the United States Navy; employed by a public utility company in Guatemala, Central America, in 1919; accepted a commission in the United States Navy in February 1941 and served until September 1945; engaged in manufacturing and distributing construction machinery; elected as a Republican to the Eightieth Congress (January 3, 1947-January 3, 1949); unsuccessful candidate for reelection in 1948 to the Eighty-first Congress; resumed business interests until retirement; died in West Palm Beach, Fla., June 28, 1976; interment in Rosehill Cemetery, Chicago, Ill."
+        "evidence_id": 4,
+        "sentence_id": "7",
+        "score": -0.9996005893000001,
+        "pre_evidence": "Please contact the U.S. House of Representatives (archives@mail.house.gov) or U.S. Senate (historian@sec.senate.gov) with any questions or suggestions.",
+        "evidence": "CONTACT Office of the House Historian: history@mail.house.gov Office of the Senate Historian: historian@sec.senate.gov Office of Art & Archives, Office of the Clerk: art@mail.house.gov, archives@mail.house.gov Resources Retro Biographical Directory Privacy Policy Copyright Information download",
+        "post_evidence": "Uh oh! Your browser is not supported. To fix this: Upgrade to the lastest version of your browser. Use a different browser."
       },
       {
         "evidence_id": 2,
@@ -129,20 +129,20 @@
         "post_evidence": "Your browser is not supported. To fix this: Upgrade to the lastest version of your browser. Use a different browser."
       },
       {
+        "evidence_id": 1,
+        "sentence_id": "0",
+        "score": -0.9637341499000001,
+        "pre_evidence": "",
+        "evidence": "Back Download { JSON } <XML> TWYMAN, Robert Joseph 1897 – 1976 Overview Biography Congresses Bibliography Research Collections Collection of the U.S. House of Representatives About this object US Congress Served 80th (1947 – 1949) House Years of Service 1947 – 1949 State / Territory Illinois Position Representative Party Republican Overview US Congress Served 80th (1947 – 1949)",
+        "post_evidence": "House Years of Service 1947 – 1949 State / Territory Illinois Position Representative Party Republican Biography TWYMAN, Robert Joseph,  a Representative from Illinois; born in Indianapolis, Marion County, Ind., June 18, 1897; attended Georgetown University, Washington, D.C.; employed in foreign service by the Department of State; during the First World War served as an ensign in the United States Navy; employed by a public utility company in Guatemala, Central America, in 1919; accepted a commission in the United States Navy in February 1941 and served until September 1945; engaged in manufacturing and distributing construction machinery; elected as a Republican to the Eightieth Congress (January 3, 1947-January 3, 1949); unsuccessful candidate for reelection in 1948 to the Eighty-first Congress; resumed business interests until retirement; died in West Palm Beach, Fla., June 28, 1976; interment in Rosehill Cemetery, Chicago, Ill."
+      },
+      {
         "evidence_id": 3,
         "sentence_id": "3;4",
         "score": -0.9994786978,
         "pre_evidence": "House Years of Service 1947 – 1949 State / Territory Illinois Position Representative Party Republican Biography TWYMAN, Robert Joseph,  a Representative from Illinois; born in Indianapolis, Marion County, Ind., June 18, 1897; attended Georgetown University, Washington, D.C.; employed in foreign service by the Department of State; during the First World War served as an ensign in the United States Navy; employed by a public utility company in Guatemala, Central America, in 1919; accepted a commission in the United States Navy in February 1941 and served until September 1945; engaged in manufacturing and distributing construction machinery; elected as a Republican to the Eightieth Congress (January 3, 1947-January 3, 1949); unsuccessful candidate for reelection in 1948 to the Eighty-first Congress; resumed business interests until retirement; died in West Palm Beach, Fla., June 28, 1976; interment in Rosehill Cemetery, Chicago, Ill. Congresses Congress Position Party State 80 Representative Republican Illinois",
         "evidence": "The 80th United States Congress Bibliography There are currently no bibliographies for this profile. Please contact the U.S. House of Representatives (archives@mail.house.gov) or U.S. Senate (historian@sec.senate.gov) with any questions or suggestions.",
         "post_evidence": "Research Collections There are currently no research collections for this profile. Please contact the U.S. House of Representatives (archives@mail.house.gov) or U.S. Senate (historian@sec.senate.gov) with any questions or suggestions."
-      },
-      {
-        "evidence_id": 4,
-        "sentence_id": "7",
-        "score": -0.9996005893000001,
-        "pre_evidence": "Please contact the U.S. House of Representatives (archives@mail.house.gov) or U.S. Senate (historian@sec.senate.gov) with any questions or suggestions.",
-        "evidence": "CONTACT Office of the House Historian: history@mail.house.gov Office of the Senate Historian: historian@sec.senate.gov Office of Art & Archives, Office of the Clerk: art@mail.house.gov, archives@mail.house.gov Resources Retro Biographical Directory Privacy Policy Copyright Information download",
-        "post_evidence": "Uh oh! Your browser is not supported. To fix this: Upgrade to the lastest version of your browser. Use a different browser."
       }
     ]
   },
@@ -151,7 +151,7 @@
     "reference_id": "62eec2975ba36bcf75d8b1f7f69fdac1b5ae2223",
     "affirmation": "Église Sainte-Croix, Kaysersberg is located in France.",
     "reference_url": "https://www.archinform.net/entry.htm?ID=aqrb6mq12o8dodffprogmf01mq&loc=%2Fprojekte%2F26063.htm",
-    "g_id": -1,
+    "g_id": [0],
     "evidence_list": [
       {
         "evidence_id": 0,
@@ -162,12 +162,12 @@
         "post_evidence": "1230–1235; it is clas­si­fied as a Mon­u­ment his­torique by the French Min­istry of Cul­ture since 1932."
       },
       {
-        "evidence_id": 1,
-        "sentence_id": "134;135",
-        "score": 0.7974511981,
-        "pre_evidence": "Ralph Hammann [ CC BY-SA 4.0 ] Alsace, Haut-Rhin, Kaysersberg, Rue du Général-de-Gaulle © Ralph Hammann- Wikimedia Commons [ CC BY-SA 4.0 ] Alsace, Haut-Rhin, Kaysersberg, Rue du Général-de-Gaulle.",
-        "evidence": "Kaysersberg (Dép. du Haut-Rhin, Alsace, France). Façade occidentale de l'église Sainte-Croix.",
-        "post_evidence": "PMRMaeyaert [ CC BY-SA 3.0 ] This building is indexed in the Base Mérimée, a database of architectural heritage maintained by the French Ministry of Culture, under the reference PA00085477."
+        "evidence_id": 4,
+        "sentence_id": "193;194",
+        "score": 0.3826300502,
+        "pre_evidence": "église (Inscrit Classé) Marianne Casamance [ CC BY-SA 3.0 ] Église de l'Invention-de-la-Sainte-Croix- clocher- église (Inscrit Classé) Nanard68 [ GFDL ]",
+        "evidence": "Église Sainte Croix Zairon [ CC BY-SA 4.0 ] Church of the Holy Cross & Old Town of Kaysersberg, Alsace, France © Ralph Hammann- Wikimedia Commons [ CC BY-SA 4.0 ] This building is en partie classé, en partie inscrit au titre des Monuments Historiques.",
+        "post_evidence": "It is indexed in the Base Mérimée, a database of architectural heritage maintained by the French Ministry of Culture, under the references PA00085477 and IA68000563."
       },
       {
         "evidence_id": 2,
@@ -178,16 +178,16 @@
         "post_evidence": "PMRMaeyaert [ CC BY-SA 3.0 ] This building is indexed in the Base Mérimée, a database of architectural heritage maintained by the French Ministry of Culture, under the reference PA00085477."
       },
       {
-        "evidence_id": 3,
-        "sentence_id": "123;124",
-        "score": 0.3826300502,
-        "pre_evidence": "église (Inscrit Classé) Marianne Casamance [ CC BY-SA 3.0 ] Église de l'Invention-de-la-Sainte-Croix- clocher- église (Inscrit Classé) Nanard68 [ GFDL ]",
-        "evidence": "Église Sainte Croix Zairon [ CC BY-SA 4.0 ] Church of the Holy Cross & Old Town of Kaysersberg, Alsace, France © Ralph Hammann- Wikimedia Commons [ CC BY-SA 4.0 ] This building is en partie classé, en partie inscrit au titre des Monuments Historiques.",
-        "post_evidence": "It is indexed in the Base Mérimée, a database of architectural heritage maintained by the French Ministry of Culture, under the references PA00085477 and IA68000563."
+        "evidence_id": 1,
+        "sentence_id": "134;135",
+        "score": 0.7974511981,
+        "pre_evidence": "Ralph Hammann [ CC BY-SA 4.0 ] Alsace, Haut-Rhin, Kaysersberg, Rue du Général-de-Gaulle © Ralph Hammann- Wikimedia Commons [ CC BY-SA 4.0 ] Alsace, Haut-Rhin, Kaysersberg, Rue du Général-de-Gaulle.",
+        "evidence": "Kaysersberg (Dép. du Haut-Rhin, Alsace, France). Façade occidentale de l'église Sainte-Croix.",
+        "post_evidence": "PMRMaeyaert [ CC BY-SA 3.0 ] This building is indexed in the Base Mérimée, a database of architectural heritage maintained by the French Ministry of Culture, under the reference PA00085477."
       },
       {
-        "evidence_id": 4,
-        "sentence_id": "193;194",
+        "evidence_id": 3,
+        "sentence_id": "123;124",
         "score": 0.3826300502,
         "pre_evidence": "église (Inscrit Classé) Marianne Casamance [ CC BY-SA 3.0 ] Église de l'Invention-de-la-Sainte-Croix- clocher- église (Inscrit Classé) Nanard68 [ GFDL ]",
         "evidence": "Église Sainte Croix Zairon [ CC BY-SA 4.0 ] Church of the Holy Cross & Old Town of Kaysersberg, Alsace, France © Ralph Hammann- Wikimedia Commons [ CC BY-SA 4.0 ] This building is en partie classé, en partie inscrit au titre des Monuments Historiques.",

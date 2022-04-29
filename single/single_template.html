@@ -535,7 +535,7 @@
         let affirmation_evidence_pairs = ${affirmation_evidence_pairs}$;
         let attention_questions = ${attention_questions}$; 
         
-        let total = affirmation_evidence_pairs['task_set'].length;
+        let total = affirmation_evidence_pairs.length;
 
         var outputs = [];
         // DEFAULT OUTPUTS IN JSON FORMAT, EX:  { similarity: -1, confidence: -1, reason: "" }
@@ -669,25 +669,25 @@
                 $('#reason_not_sure_other').val("");
             }
 
-            $("#affirmation").text(affirmation_evidence_pairs['task_set'][pageIndex]["affirmation"]);
+            $("#affirmation").text(affirmation_evidence_pairs[pageIndex]["affirmation"]);
 
             $("#passage").empty()
-            if (affirmation_evidence_pairs['task_set'][pageIndex]["pre_evidence"] != ""){
+            if (affirmation_evidence_pairs[pageIndex]["pre_evidence"] != ""){
                 $("#passage").append(
-                    `${affirmation_evidence_pairs['task_set'][pageIndex]["pre_evidence"]} `
+                    `${affirmation_evidence_pairs[pageIndex]["pre_evidence"]} `
                 );
             }
             $("#passage").append(
-                `<u>${affirmation_evidence_pairs['task_set'][pageIndex]["evidence"]}</u>`
+                `<u>${affirmation_evidence_pairs[pageIndex]["evidence"]}</u>`
             );
-            if (affirmation_evidence_pairs['task_set'][pageIndex]["post_evidence"] != ""){
+            if (affirmation_evidence_pairs[pageIndex]["post_evidence"] != ""){
                 $("#passage").append(
-                    ` ${affirmation_evidence_pairs['task_set'][pageIndex]["post_evidence"]}`
+                    ` ${affirmation_evidence_pairs[pageIndex]["post_evidence"]}`
                 );
             }
 
-            $("#reference_url").text(affirmation_evidence_pairs['task_set'][pageIndex]["reference_url"]);
-            $("#reference_url").attr("href", affirmation_evidence_pairs['task_set'][pageIndex]["reference_url"]);
+            $("#reference_url").text(affirmation_evidence_pairs[pageIndex]["reference_url"]);
+            $("#reference_url").attr("href", affirmation_evidence_pairs[pageIndex]["reference_url"]);
             
 
             lastChange = Date.now();
@@ -746,8 +746,8 @@
 
             var allGoldenCheck = true;
             for (i = 0; i < total; i++) {
-                if (affirmation_evidence_pairs['task_set'][i]['g_id'] != -1){
-                    if (affirmation_evidence_pairs['task_set'][i]['g_id'].indexOf(outputs[i]['relation']) == -1){
+                if (affirmation_evidence_pairs[i]['g_id'] != -1){
+                    if (affirmation_evidence_pairs[i]['g_id'].indexOf(outputs[i]['relation']) == -1){
                         allGoldenCheck = false
                     }
                 }

@@ -16,7 +16,7 @@ import pdb
     
 """
 
-with open('./config/mongodb_credentials.json','r') as f:
+with open('../config/mongodb_credentials.json','r') as f:
     mongodb_credentials = json.load(f)
 
 create_hits_in_production = (sys.argv[1] == '1')
@@ -26,8 +26,8 @@ to_approve = (sys.argv[3] == '1')
 
 db_client = pymongo.MongoClient(mongodb_credentials["connection_string"])
 
-db = db_client['verbalisations']
-is_pilot = False
+db = db_client['textual_entailment']
+is_pilot = True
 
 suffix = ''
 if not create_hits_in_production:

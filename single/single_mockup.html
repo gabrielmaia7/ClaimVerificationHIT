@@ -531,69 +531,65 @@
     <script language="Javascript">
         // INITIALIZATION LOGIC
         // ---------------------------------------------------------------- //
-        let affirmation_evidence_pairs = {        
-            'task_id': '0',
-            'batch_id': '0',
-            'task_set': [
-                {
-                    "identifiers":"0",
-                    "affirmation":"G V Raja died in Kullu Valley.0",
-                    "pre_evidence":"0He was the main architect in developing Kovalam as an international tourist spot.",
-                    "evidence":"0He died in an air crash near Kullu (Kulu) Valley on April 30, 1971. Sports journalists, historians, experts and sportsmen consider him as the Father of Sports and Tourism in Kerala.",
-                    "post_evidence": "",
-                    "reference_url":"https://www.google.com",
-                    "g_id": -1
-                },
-                {
-                    "identifiers":"1",
-                    "affirmation":"G V Raja died in Kullu Valley.1",
-                    "pre_evidence":"1He was the main architect in developing Kovalam as an international tourist spot.",
-                    "evidence":"1He died in an air crash near Kullu (Kulu) Valley on April 30, 1971. Sports journalists, historians, experts and sportsmen consider him as the Father of Sports and Tourism in Kerala.",
-                    "post_evidence": "",
-                    "reference_url":"https://www.google.com",
-                    "g_id": -1
-                },
-                {
-                    "identifiers":"2",
-                    "affirmation":"G V Raja died in Kullu Valley.2",
-                    "pre_evidence":"2He was the main architect in developing Kovalam as an international tourist spot.",
-                    "evidence":"2He died in an air crash near Kullu (Kulu) Valley on April 30, 1971. Sports journalists, historians, experts and sportsmen consider him as the Father of Sports and Tourism in Kerala.",
-                    "post_evidence": "",
-                    "reference_url":"https://www.google.com",
-                    "g_id": -1
-                },
-                {
-                    "identifiers":"3",
-                    "affirmation":"G V Raja died in Kullu Valley.3",
-                    "pre_evidence":"3He was the main architect in developing Kovalam as an international tourist spot.",
-                    "evidence":"3He died in an air crash near Kullu (Kulu) Valley on April 30, 1971. Sports journalists, historians, experts and sportsmen consider him as the Father of Sports and Tourism in Kerala.",
-                    "post_evidence": "",
-                    "reference_url":"https://www.google.com",
-                    "g_id": -1
-                },
-                {
-                    "identifiers":"4",
-                    "affirmation":"G V Raja died in Kullu Valley.4",
-                    "pre_evidence":"4He was the main architect in developing Kovalam as an international tourist spot.",
-                    "evidence":"4He died in an air crash near Kullu (Kulu) Valley on April 30, 1971. Sports journalists, historians, experts and sportsmen consider him as the Father of Sports and Tourism in Kerala.",
-                    "post_evidence": "",
-                    "reference_url":"https://www.google.com",
-                    "g_id": -1
-                },
-                {
-                    "identifiers":"5",
-                    "affirmation":"G V Raja died in Kullu Valley.5",
-                    "pre_evidence":"5He was the main architect in developing Kovalam as an international tourist spot.",
-                    "evidence":"5He died in an air crash near Kullu (Kulu) Valley on April 30, 1971. Sports journalists, historians, experts and sportsmen consider him as the Father of Sports and Tourism in Kerala.",
-                    "post_evidence": "",
-                    "reference_url":"https://www.google.com",
-                    "g_id": -1
-                },
-            ]
-        }
+        let affirmation_evidence_pairs = [
+            {
+                "identifiers":"0",
+                "affirmation":"G V Raja died in Kullu Valley.0",
+                "pre_evidence":"0He was the main architect in developing Kovalam as an international tourist spot.",
+                "evidence":"0He died in an air crash near Kullu (Kulu) Valley on April 30, 1971. Sports journalists, historians, experts and sportsmen consider him as the Father of Sports and Tourism in Kerala.",
+                "post_evidence": "",
+                "reference_url":"https://www.google.com",
+                "g_id": -1
+            },
+            {
+                "identifiers":"1",
+                "affirmation":"G V Raja died in Kullu Valley.1",
+                "pre_evidence":"1He was the main architect in developing Kovalam as an international tourist spot.",
+                "evidence":"1He died in an air crash near Kullu (Kulu) Valley on April 30, 1971. Sports journalists, historians, experts and sportsmen consider him as the Father of Sports and Tourism in Kerala.",
+                "post_evidence": "",
+                "reference_url":"https://www.google.com",
+                "g_id": -1
+            },
+            {
+                "identifiers":"2",
+                "affirmation":"G V Raja died in Kullu Valley.2",
+                "pre_evidence":"2He was the main architect in developing Kovalam as an international tourist spot.",
+                "evidence":"2He died in an air crash near Kullu (Kulu) Valley on April 30, 1971. Sports journalists, historians, experts and sportsmen consider him as the Father of Sports and Tourism in Kerala.",
+                "post_evidence": "",
+                "reference_url":"https://www.google.com",
+                "g_id": -1
+            },
+            {
+                "identifiers":"3",
+                "affirmation":"G V Raja died in Kullu Valley.3",
+                "pre_evidence":"3He was the main architect in developing Kovalam as an international tourist spot.",
+                "evidence":"3He died in an air crash near Kullu (Kulu) Valley on April 30, 1971. Sports journalists, historians, experts and sportsmen consider him as the Father of Sports and Tourism in Kerala.",
+                "post_evidence": "",
+                "reference_url":"https://www.google.com",
+                "g_id": -1
+            },
+            {
+                "identifiers":"4",
+                "affirmation":"G V Raja died in Kullu Valley.4",
+                "pre_evidence":"4He was the main architect in developing Kovalam as an international tourist spot.",
+                "evidence":"4He died in an air crash near Kullu (Kulu) Valley on April 30, 1971. Sports journalists, historians, experts and sportsmen consider him as the Father of Sports and Tourism in Kerala.",
+                "post_evidence": "",
+                "reference_url":"https://www.google.com",
+                "g_id": -1
+            },
+            {
+                "identifiers":"5",
+                "affirmation":"G V Raja died in Kullu Valley.5",
+                "pre_evidence":"5He was the main architect in developing Kovalam as an international tourist spot.",
+                "evidence":"5He died in an air crash near Kullu (Kulu) Valley on April 30, 1971. Sports journalists, historians, experts and sportsmen consider him as the Father of Sports and Tourism in Kerala.",
+                "post_evidence": "",
+                "reference_url":"https://www.google.com",
+                "g_id": -1
+            },
+        ]
         
         let attention_questions = [{"question": "He advised me ___ the doctor.", "options": ["that I see", "to see", "seeing", "see"], "answer": 1}, {"question": "Jane's ___ nice and polite.", "options": ["a", "from", "very", "at"], "answer": 2}, {"question": "You ___ to come if you don't want to.", "options": ["don't need", "needn't", "needn't have", "didn't need"], "answer": 0}, {"question": "By the time you arrive ___", "options": ["he'll leave", "he'll have left", "he leaves", "he left"], "answer": 1}]; 
-        let total = affirmation_evidence_pairs['task_set'].length;
+        let total = affirmation_evidence_pairs.length;
 
         var outputs = [];
         // DEFAULT OUTPUTS IN JSON FORMAT, EX:  { similarity: -1, confidence: -1, reason: "" }
@@ -727,25 +723,25 @@
                 $('#reason_not_sure_other').val("");
             }
 
-            $("#affirmation").text(affirmation_evidence_pairs['task_set'][pageIndex]["affirmation"]);
+            $("#affirmation").text(affirmation_evidence_pairs[pageIndex]["affirmation"]);
 
             $("#passage").empty()
-            if (affirmation_evidence_pairs['task_set'][pageIndex]["pre_evidence"] != ""){
+            if (affirmation_evidence_pairs[pageIndex]["pre_evidence"] != ""){
                 $("#passage").append(
-                    `${affirmation_evidence_pairs['task_set'][pageIndex]["pre_evidence"]} `
+                    `${affirmation_evidence_pairs[pageIndex]["pre_evidence"]} `
                 );
             }
             $("#passage").append(
-                `<u>${affirmation_evidence_pairs['task_set'][pageIndex]["evidence"]}</u>`
+                `<u>${affirmation_evidence_pairs[pageIndex]["evidence"]}</u>`
             );
-            if (affirmation_evidence_pairs['task_set'][pageIndex]["post_evidence"] != ""){
+            if (affirmation_evidence_pairs[pageIndex]["post_evidence"] != ""){
                 $("#passage").append(
-                    ` ${affirmation_evidence_pairs['task_set'][pageIndex]["post_evidence"]}`
+                    ` ${affirmation_evidence_pairs[pageIndex]["post_evidence"]}`
                 );
             }
 
-            $("#reference_url").text(affirmation_evidence_pairs['task_set'][pageIndex]["reference_url"]);
-            $("#reference_url").attr("href", affirmation_evidence_pairs['task_set'][pageIndex]["reference_url"]);
+            $("#reference_url").text(affirmation_evidence_pairs[pageIndex]["reference_url"]);
+            $("#reference_url").attr("href", affirmation_evidence_pairs[pageIndex]["reference_url"]);
             
 
             lastChange = Date.now();
@@ -804,8 +800,8 @@
 
             var allGoldenCheck = true;
             for (i = 0; i < total; i++) {
-                if (affirmation_evidence_pairs['task_set'][i]['g_id'] != -1){
-                    if (affirmation_evidence_pairs['task_set'][i]['g_id'].indexOf(outputs[i]['relation']) == -1){
+                if (affirmation_evidence_pairs[i]['g_id'] != -1){
+                    if (affirmation_evidence_pairs[i]['g_id'].indexOf(outputs[i]['relation']) == -1){
                         allGoldenCheck = false
                     }
                 }
