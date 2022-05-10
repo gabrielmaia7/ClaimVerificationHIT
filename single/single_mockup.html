@@ -85,33 +85,34 @@
                             <h5><b>Task Overview</b></h5>
                             <div id="instructions-intro-text">
                                 <p>
-                                    In this task, we want your help verifying whether a passage containing <u>highlighted text</u>, extracted from a website, either supports, refutes or is inconclusive to an <b>affirmation</b>.
+                                    In this task, you must verify whether a passage containing <u>highlighted text</u>, extracted from a website, either supports, refutes or is inconclusive to an <b>affirmation</b>.
                                     You will be asked to take a look at six affirmation-passage pairs.
                                     Each pair consists of an English <b>affirmation</b> (such as 'Obama was president of the US') and a passage containing <u>highlighted text</u> extracted from a website (such as a BBC News article).
                                     Your goal is to identify whether the <u>highlighted text</u> in the passage supports, refutes, or is inconclusive to the <b>affirmation</b>.
                                 </p>
                                 <p>
-                                    You will be asked to judge how the <u>highlighted text</u> relates to the <b>affirmation</b> by selecting from the following four options: <b>Supports</b>, <b>Refutes</b>, <b>Neither</b> (it is inconclusive), and <b>Not sure</b>.
+                                    You will have the following four answer options: <b>Supports</b>, <b>Refutes</b>, <b>Neither</b> (it is inconclusive), and <b>Not sure</b>.
                                     In case you select <b>Not Sure</b> we will ask you to select a reason from a predefined list.
                                 </p>
                                 <p>
                                     If your reason for selecting Not Sure is <i>Other</i>, a little box will appear for you to tell us what it was.
-                                    Please provide a simple but informative reason, as we are trying to improve this task to cost you and others less time to complete!
                                 </p>
                                 <p>
                                     <b>Please note: </b>
                                     <ul>
                                         <li>
-                                            We are not asking if the affirmation is true. Even if the affirmation is potentially or provably false, or goes against some common sense, please judge only if the highlighted text in the passage supports it, refutes it, or neither.
+                                            It does not matter if the affirmation is false or unprobable. Please judge only if the highlighted text in the passage supports it, refutes it, or neither.
                                         </li>
                                         <li>
-                                            The passage might not naturally read like a paragraph. It is automatically extracted from a website, so it might have strange formatting, such as a lack of punctuation and incomplete phrases.
+                                            The passage is automatically extracted from a website, so it might have strange formatting, such as a lack of punctuation and incomplete phrases.
                                             <!--This will only happen for entities, such as people, places, etc, where their names were originally given to us in their native language.-->
-                                            Please <b>do not let this lack of structure impact</b> your judgement much. We recommend clicking on the website's URL to see what the passage looks like originally and what information the highlighted text is meant to say.
-                                            If it still is impossible to understand how the highlighted text relates to the affirmation, select <b>Not Sure</b>.
+                                            Please <b>do not let this lack of structure impact</b> your judgement much. You can click on the website's URL to read the passage with the original format.
                                         </li>
                                         <li>
                                             Please only judge the <u>highlighted text</u>. For example, if another portion of the passage that is <i>not</i> highlighted supports the affirmation, <i>but the highlighted text does not support it</i>, do not select Supports.
+                                        </li>
+                                        <li>
+                                            You can use the rest of the passage and the web page for clarifications and reference.
                                         </li>
                                         <li>
                                             We will provide examples on the next page.
@@ -139,8 +140,7 @@
                                 Link: <a href='https://en.wikipedia.org/w/index.php?title=Ponniyin_Selvan_(2005_film)&oldid=982538956' target='_blank'>https://en.wikipedia.org/w/index.php?title=Ponniyin_Selvan_(2005_film)&oldid=982538956</a>
                                 <br>
                                 <br>
-                                The affirmation states that an entity named Vidyasagar is a performer of something called Ponniyin Selvan.
-                                The passage begins with some text that has a weird format because it was extracted from a Wikipedia infobox (click on the link and look at the box on the far right).
+                                The affirmation states that an entity named Vidyasagar is a performer of something called Ponniyin Selvan.        
                                 From the highlighted portion of the passage, we learn that Ponniyin Selvan is a film and that Vidyasagar composed its music.
                                 The highlighted portion of the passage seems to support the affirmation, so we can select <b>Supports</b>.
                             </p>
@@ -161,10 +161,8 @@
                                 <br>
                                 <br>
                                 The affirmation states that an entity named MOG Music started working in 2013.
-                                The starting of the passage seems to be headers taken from the website and can be ignored.
                                 The highlighted portion of the passage states that MOG Music released his first album in 2016.
-                                If we assume the first release is the start of their work, this Refutes the affirmation. If you assume they began working before the first release (to prepare the album), this can Support the affirmation, or even Neither.
-                                This highlighted text can either <b>Support</b> or <b>Refute</b>, the affirmation, or perhaps <b>Neither</b>. Some cases are up to your interpretation.
+                                If we assume the first release is the start of their work, this <b>Refutes</b> the affirmation. Otherwise, we can make no conclusion (<b>Neither</b>). Some cases are up to your interpretation.
                             </p>
                             <br>
                             <h6><b>Example #3</b></h6>
@@ -182,11 +180,9 @@
                                 Link: <a href='https://findingaids.library.emory.edu/documents/andrewsraymond673/' target='_blank'>https://findingaids.library.emory.edu/documents/andrewsraymond673/</a>
                                 <br>
                                 <br>
-                                This is a case in which looking at the website is incredibly helpful.
                                 The affirmation states that an entity named Raymond Andrews is located in the Stuart A. Rose Manuscript, Archives, and Rare Book Library.
-                                Since it is talking about a person being in an archive, it very likely means that work done by Raymond Andrews is in that archive.
-                                This can be confirmed by checking the website, which clarifies this context. The passage seems to be extracted from the "Administrative Information" section.
-                                The highlighted text indicates that the "Raymond Andrew papers" are in the "Stuart A. Rose Manuscript, Archives, and Rare Book Library", which is at "Emory University".
+                                It likely means that work done by Raymond Andrews is in that archive, not the person Raymond. The website confirms this.
+                                The highlighted text indicates that the "Raymond Andrew papers" are in the "Stuart A. Rose Manuscript, Archives, and Rare Book Library".
                                 So we can select <b>Supports</b>.
                             </p>
                             <br>
@@ -206,10 +202,9 @@
                                 <br>
                                 <br>
                                 The affirmation talks about a former wash house in Blackness Castle, and says it is in Falkirk.
-                                The passage starts with text extracted from a description box and talks about a former barracks block.
-                                It is not clear by the passage if the wash house and the barracks block are the same.
-                                Also, although it states the building in question is south of Blackness Castle, it does not say if that is in Falkirk.
-                                So we can select <b>Neither</b>, as considering the contents of the highlighted text and the broader context of the passage, we do not have enough information to judge the affirmation.
+                                The passage talks about a former barracks block, which may or may not be the same as the wash house.
+                                Also, it states the building is south of Blackness Castle, but does not say if that is in Falkirk.
+                                So we can select <b>Neither</b>, as we do not have enough information to judge the affirmation.
                             </p>
                             <br>
                             <h6><b>Example #5</b></h6>
@@ -235,12 +230,12 @@
                                 Link: <a href='http://www.isfdb.org/cgi-bin/ea.cgi?19637' target='_blank'>http://www.isfdb.org/cgi-bin/ea.cgi?19637</a>
                                 <br>
                                 <br>
-                                The affirmation states Alec Waugh was born July 8th, 1898. The passage seems to list details about some work's author, including their name, birthplace, birthdate, deathdate, etc.
+                                The affirmation states Alec Waugh was born July 8th, 1898.
                                 Although the passage does contain information on Alec Waugh's birthday, <i>it is not on the highlighted portion</i>. The highlighted text does not inform us of his birthdate.
                                 Thus, we cannot say that the highlighted text supports the affirmation, but it also does not refute it. So we can select <b>Neither</b>.
                             </p>
                             <br>
-                            <h6><b>Example #6</b></h6>
+                            <!--h6><b>Example #6</b></h6>
                             <p>
                                 Affirmation: <b>Julius is 53.1 centimetres tall.</b> 
                                 <br>
@@ -255,12 +250,12 @@
                                 Link: <a href='https://www.rct.uk/collection/402419/julius' target='_blank'>https://www.rct.uk/collection/402419/julius</a>
                                 <br>
                                 <br>
-                                The affirmation states Julius is 53.1 cm tall, which is a weird height for a person. Reading the passage indicates "Julius" is a painting, which can be
-                                confirmed by clicking on the URL. The passage taken from the URL contains navigation headers, and also a highlighted short description of the painting, including the dimension 53.1 cm. 
+                                The affirmation states Julius is 53.1 cm tall. Reading the passage indicates "Julius" is a painting, which can be
+                                confirmed by clicking on the URL. The highlighted part of the passage mentions the painting's dimensions, including 53.1 cm. 
                                 Checking the URL helps us conclude that 53.1 cm refers to the height of the painting (since it is wider than it is tall). You can then select <b>Supports</b>.
-                                On some such cases, where a deduction is needed (the first dimension probably refers to height), we also accept <b>Not Sure</b>, given an appropriate reason.
+                                On some such cases, where a deduction is needed, we also accept <b>Not Sure</b>.
                             </p>
-                            <br>
+                            <br-->
                             <h6><b>Not Sure</b></h6>
                             <p>
                                 Sometimes, affirmations might not be very clear or have words and terms that are too specific to one knowledge domain (like biology or chemistry).
@@ -276,7 +271,7 @@
                                         You can navigate freely through the pairs using the buttons at the bottom of the page.
                                     </li>
                                     <li>
-                                        You must fill in all the information requested. This means always clicking either Supports, Refutes, Neither, or Not Sure, and providing a reason <b>if</b> you selected Not Sure. This also means providing another reason if you chose <i>Other</i>.
+                                        You must fill in all the information requested.
                                     </li>
                                     <li>
                                         At the end of the task, we check some indicators of the quality of your work, to make sure you are not a spammer. If you don't pass the test, you can try two more times, for a total of three trials. If you fail three times, the task ends and the work is not accepted.

@@ -85,7 +85,7 @@
                             <h5><b>Task Overview</b></h5>
                             <div id="instructions-intro-text">
                                 <p>
-                                    In this task, we want your help verifying whether a collection of 5 passages extracted from a website, each containing some <u>highlighted text</u>, either support, refute or are inconclusive to an <b>affirmation</b>.
+                                    In this task, you must verift whether a collection of 5 passages, each containing some <u>highlighted text</u>, either support, refute or are inconclusive to an <b>affirmation</b>.
                                     You will be asked to do this 6 times during this task.
                                 </p>
                                 <p>
@@ -93,12 +93,8 @@
                                     Your goal is to tell us if, <i>when taken into consideration together</i> the <u>highlighted parts</u> of the passages support, refute, or are inconclusive to the <b>affirmation</b>.
                                 </p>
                                 <p>
-                                    You will be asked to judge how the 5 <u>highlighted texts</u> together relate to the <b>affirmation</b> by selecting from the following four options: <b>Support</b>, <b>Refute</b>, <b>Neither</b> (they are inconclusive), and <b>Not Sure</b>.
+                                    You will have the following four answer options: <b>Support</b>, <b>Refute</b>, <b>Neither</b> (they are inconclusive), and <b>Not Sure</b>.
                                     In case you select <b>Not Sure</b> we will ask you to select a reason from a predefined list.
-                                </p>
-                                <p>
-                                    If your reason for selecting Not Sure is <i>Other</i>, a little box will appear for you to tell us what it was.
-                                    Please provide a simple reason. It helps us improve this task to cost you and others less time to complete!
                                 </p>
                                 <p>
                                     <b>Please note: </b>
@@ -107,12 +103,17 @@
                                             We are not asking if the affirmation is true. Even if the affirmation is potentially or provably false, or goes against some common sense, please judge only if the highlighted text in the passage supports it, refutes it, or neither.
                                         </li>
                                         <li>
-                                            The passages might not naturally read like a paragraph. They are automatically extracted from a website, so they might have strange formatting, such as a lack of punctuation and incomplete phrases.
-                                            Please <b>do not let this lack of structure impact</b> your judgement much. We recommend clicking on the website's URL to see what the passages look like originally and what information the highlighted texts are meant to say.
-                                            If it still is impossible to understand how the highlighted texts relate to the affirmation, select <b>Not Sure</b>.
+                                            The passages are automatically extracted from a website, so they might have strange formatting, such as a lack of punctuation and incomplete phrases.
+                                            Please <b>do not let this lack of structure impact</b> your judgement much.  You can click on the website's URL to read the passages with their original format.
                                         </li>
                                         <li>
                                             Please only judge the <u>highlighted texts</u>. For example, if another portion of the passage that is <i>not</i> highlighted supports the affirmation, <i>but the highlighted text does not support it</i>, do not take its support into consideration.
+                                        </li>
+                                        <li>
+                                            You can use the rest of the passage and the web page for clarifications and reference.
+                                        </li>
+                                        <li>
+                                            Consider the texts <i>taken together</i>. For example, if one highlighted text supports and the rest is unrelated, then taken together they support.
                                         </li>
                                         <li>
                                             We will provide examples on the next page.
@@ -134,13 +135,12 @@
                                     <li>
                                         Passage 1:
                                         <br>
-                                        &emsp; "15 August 2005 ( 2005-08-15 ) Country India Language Tamil Budget ₹ 10 crore.
+                                        &emsp; "Country India Language Tamil Budget ₹ 10 crore.
                                         <u>
                                             Ponniyin Selvan (English: The son of Ponni) is a 2005 Indian Tamil drama film written and directed by Radha Mohan.
                                             Produced by A. M. Ratnam, it stars his son Ravi Krishna, along with Gopika and Revathi in the lead roles, while Vidyasagar had composed the music for the film.
                                         </u>
-                                        The film is unrelated to the same-titled novel by Kalki Krishnamurthy.
-                                        It was released in Telugu as Muddhula Koduku and additionally featured Uttej and Venu Madhav as part of a separate comedy track shot."
+                                        The film is unrelated to the same-titled novel by Kalki Krishnamurthy."
                                         <br>
                                     </li>
                                     <li>
@@ -171,7 +171,7 @@
                                         <u>
                                             Categories: 2005 films Tamil-language films Indian films 2000s Tamil-language films Tamil films scored by Vidyasagar Indian drama films 2005 drama films Films directed by Radha Mohan 2000s
                                         </u>
-                                        Tamil-language film stubs Hidden categories: Articles with short description Short description matches Wikidata Use dmy dates from November 2015 Use Indian English from November 2015 All Wikipedia articles written in Indian English Template film date with 1 release date Pages using infobox film with image size parameter Articles containing"
+                                        Tamil-language film stubs Hidden categories: Articles with short description"
                                         <br>
                                     </li>
                                     <li>
@@ -185,12 +185,10 @@
                                         <br>
                                     </li>
                                 </ul>
-                                <br>
                                 The affirmation states that an entity named Vidyasagar is a performer of something called Ponniyin Selvan.
-                                From the link (and also by reading the passages), we can see Vidyasagar is a musician and Ponniyin Selvan is a movie.
-                                The first passage's highlighted text directly supports that Vidyasagar composed the movie's music. The second passage's highlighted text only says "Vidyasagar had composed the music for the film", but it is clear by the surrounding text that the movie in question is Ponniyin Selvan.
-                                The third passage's highlighted text shows Vidyasagar's album chronology, including Ponniyin Selvan. The fourth appears to list the categories of the original page, including "films scored by Vidyasagar".
-                                Lastly, passage 5 seems to be unrelated. <i>Taken together</i>, these highlighted texts seem to <b>Support</b> the affirmation.
+                                From the link/passages, we can see Vidyasagar is a musician and Ponniyin Selvan is a movie.
+                                The first highlighted text directly supports that Vidyasagar composed the movie's music. The other highlighted texts all are either somewhat supportive or unrelated (like the 5th).
+                                <i>Taken together</i>, these highlighted texts seem to <b>Support</b> the affirmation.
                             </p>
                             <h6><b>Example #2</b></h6>
                             <p>
@@ -202,21 +200,21 @@
                                     <li>
                                         Passage 1:
                                         <br>
-                                        &emsp; "Stay in touch. General enquiries 0131 668 8600. Contact us. Historic Environment Scotland head offices:
+                                        &emsp; "Historic Environment Scotland head offices:
                                         <u>
                                             Longmore House Salisbury Place Edinburgh EH9 1SH. John Sinclair House 16 Bernard Terrace Edinburgh EH8 9NX.
                                         </u>
-                                        Facebook. Twitter. Linkedin. Visitor App. Our app is your one-stop shop for information on Scotland's iconic historic attractions."
+                                        Facebook. Twitter."
                                         <br>
                                     </li>
                                     <li>
                                         Passage 2:
                                         <br>
-                                        &emsp; "Category C. Date Added 12/01/1967. Local Authority Aberdeen. Planning Authority Aberdeen. Burgh Aberdeen. NGR NJ 93751 5730.
+                                        &emsp; "Local Authority Aberdeen. Planning Authority Aberdeen. Burgh Aberdeen. NGR NJ 93751 5730.
                                         <u>
                                             Coordinates 393751, 805730.
                                         </u>
-                                        Description. 1822 onwards. 2-storey basement and attic, plain ashlar, 25-window, stepped in fall of ground."
+                                        Description. 1822 onwards."
                                         <br>
                                     </li>
                                     <li>
@@ -226,35 +224,38 @@
                                         <u>
                                             1822 onwards. 2-storey basement and attic, plain ashlar, 25-window, stepped in fall of ground.
                                         </u>
-                                        References. Bibliography. No Bibliography entries for this designation. About Listed Buildings. Historic Environment Scotland is responsible for designating sites and places at the national level."
+                                        References. Bibliography."
                                         <br>
                                     </li>
                                     <li>
                                         Passage 4:
                                         <br>
-                                        &emsp; "There are no additional online documents for this record. Summary. Category C. Date Added 12/01/1967. Local Authority Aberdeen.
+                                        &emsp; "Local Authority Aberdeen.
                                         <u>
                                             Planning Authority Aberdeen.
                                         </u>
-                                        Burgh Aberdeen. NGR NJ 93751 5730. Coordinates 393751, 805730. Description. 1822 onwards. 2-storey basement and attic, plain ashlar, 25-window, stepped in fall of ground."
+                                        Burgh Aberdeen. NGR NJ 93751 5730."
                                         <br>
                                     </li>
                                     <li>
                                         Passage 5:
                                         <br>
-                                        &emsp; "Longmore House Salisbury Place Edinburgh EH9 1SH. John Sinclair House 16 Bernard Terrace Edinburgh EH8 9NX. Facebook. Twitter. Linkedin.
+                                        &emsp; "Facebook. Twitter. Linkedin.
                                         <u>
                                             Visitor App. Our app is your one-stop shop for information on Scotland's iconic historic attractions.
                                         </u>
-                                        Historic Environment Scotland is the lead public body established to investigate, care for and promote Scotland's historic environment."
+                                        "
                                         <br>
                                     </li>
                                 </ul>
-                                The affirmation states that a specific address (95 Bon-Accord Street, Aberdeen) is in Aberdeen. Although the affirmation might be self-confirming, <b>please only evaluate the highlighted texts</b>.
-                                Passages 1 and 5 seem to be unrelated. Passage 2 describes coordinates, and passage 4 describes a planning authority as Aberdeen.
-                                Checking the website shows us they are talking about Bon-Accord Street numbers 75 to 101. Both indicate the address is indeed in Aberdeen. Passage 3 just provides physical descriptions.
-                                Because of this, taken together, the highlighted texts seem to tell us the address is in Aberdeen, so you can select <b>Support</b>.
-                                If you do not wish to check coordinates, and does not think the "planning authority" text is evidence enough, feel free to select <b>Neither</b>.
+                                The affirmation states that a specific address (95 Bon-Accord Street, Aberdeen) is in Aberdeen.
+                                Although the affirmation might be self-confirming, <i>please only evaluate the highlighted texts</i>.
+                                Highlighted texts 1 and 5 seem to be unrelated.
+                                Highlighted text 2 describes coordinates, and highlighted text 4 describes a planning authority as Aberdeen.
+                                Highlighted text 3 just provides physical descriptions.
+                                None of these texts, even considering the rest of the passages, specify they are talking about 95 Bon-Accord Street.
+                                So we can select <b>Neither</b>.
+                                If highlighted text 4 instead said "<u>The Planning Authority for the address is Aberdeen"</u>, and the rest of the passage (or the website) clarified that "the address" means 95 Bon-Accord Street, you could have selected <b>Supports</b>. 
                             </p>
                             <h6><b>Example #3</b></h6>
                             <p>
@@ -266,17 +267,17 @@
                                     <li>
                                         Passage 1:
                                         <br>
-                                        &emsp; "Search results Start typing. Home. / Collection. / Explore the Collection. / "Julius" / Search the collection. 1 of 253523 objects.
+                                        &emsp; "1 of 253523 objects.
                                         <u>
                                             Richard Barrett Davis (1782-1854) "Julius" Signed and dated 1846. Oil on canvas | 53.1 x 65.4 x 1.5 cm (support, canvas/panel/str external) | RCIN 402419.
                                         </u>
-                                        Your share link is... Close. Facebook. Twitter. Email."
+                                        Your share link is... Close."
                                         <br>
                                     </li>
                                     <li>
                                         Passage 2:
                                         <br>
-                                        &emsp; "'Home. / Collection. / Explore the Collection. /
+                                        &emsp; "Explore the Collection. /
                                         <u>
                                             Julius
                                         </u>
@@ -306,17 +307,18 @@
                                     <li>
                                         Passage 5:
                                         <br>
-                                        &emsp; "Main page Contents Current events Random article About Wikipedia Contact us Donate.
+                                        &emsp; " Donate.
                                         <u>
                                             Contribute.
                                         </u>
-                                        Help Learn to edit Community portal Recent changes Upload file.
+                                        Help.
                                         <br>
                                     </li>
                                 </ul>
-                                The affirmation states Julius is 53.1 cm tall, which is a weird height for a person. Reading the passages indicates "Julius" is a painting, which can be
-                                confirmed by clicking on the URL. The first highlighted text directly states the dimensions of the painting, including 53.1 cm.
-                                Checking the URL helps us conclude that 53.1 cm indeed refers to the height of the painting (since it is wider than it is tall, and 1.5cm is too small). 
+                                The affirmation states Julius is 53.1 cm tall.
+                                Reading the passages indicates "Julius" is a painting.
+                                The first highlighted text directly states the dimensions of the painting, including 53.1 cm.
+                                Checking the URL helps us conclude that 53.1 cm indeed refers to the height of the painting. 
                                 Passages 2, 3, and 5 have no relevant highlighted text. The highlighted text of passage 4 also lists the measurements of the painting.
                                 <i>Taken together</i>, since two support and three are unrelated, the highlighted texts <b>Support</b> the affirmation.
                                 On some such cases, where a deduction is needed (the first dimension probably refers to height), we also accept <b>Not Sure</b>, given an appropriate reason.
