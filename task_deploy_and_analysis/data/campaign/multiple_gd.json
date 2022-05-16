@@ -1,0 +1,2207 @@
+[
+  {
+    "claim_id": "Q2435282$CAD74BCB-3633-48C3-897C-03829D03E3BD",
+    "reference_id": "771dd116e118977c8e8dd3e0e2ebcdb77ee6eec6",
+    "affirmation": "Terra Nova was filmed at Paramount Stage 18.",
+    "reference_url": "https://memory-alpha.fandom.com/wiki/Terra_Nova_(episode)?oldid=2568181#Production_history",
+    "g_id": -1,
+    "evidence_list": [
+      {
+        "evidence_id": 2,
+        "sentence_id": "783",
+        "score": 0.9257254601,
+        "pre_evidence": "The call sheet for Tuesday 7 August 2001, the seventh day of production of \" Unexpected \", is listing a schedule for the planned scenes filmed on Thursday 9 August 2001.",
+        "evidence": "According to this schedule, second unit was planned to film shuttlepod interior scenes on Paramount Stage 18.",
+        "post_evidence": "These scenes, 86, 88, 90pt., and 92pt. include a preliminary cast list which had Scott Bakula, Anthony Montgomery, Mary Carver, and Erick Avari as well as stunt doubles for all four actors."
+      },
+      {
+        "evidence_id": 1,
+        "sentence_id": "776",
+        "score": 0.9421253204000001,
+        "pre_evidence": "On Thursday 9 August 2001, the second day of production on this episode, second unit filming took place on Paramount Stage 18. ( Call sheet )",
+        "evidence": "On the third day of production, Friday 10 August 2001, a pick-up shot in engineering for the episode \" Fight or Flight \" was filmed on Paramount Stage 18.",
+        "post_evidence": "This shot is scene 82 in the episode and included Connor Trinneer and background actors. ( Call sheet )"
+      },
+      {
+        "evidence_id": 4,
+        "sentence_id": "774",
+        "score": 0.21065896750000002,
+        "pre_evidence": "Jolene Blalock was also picked up and brought to the set on the day of filming on location. ( Call sheets )",
+        "evidence": "On Thursday 9 August 2001, the second day of production on this episode, second unit filming took place on Paramount Stage 18.",
+        "post_evidence": "( Call sheet ) On the third day of production, Friday 10 August 2001, a pick-up shot in engineering for the episode \" Fight or Flight \" was filmed on Paramount Stage 18."
+      },
+      {
+        "evidence_id": 0,
+        "sentence_id": "743;744",
+        "score": 0.9991241693,
+        "pre_evidence": "Background information. Production history. Production number: 011-40358-006. Final draft script – 6 August 2001.",
+        "evidence": "Working title: \"Roanoke\" Filming: Wednesday 8 August 2001 – Ready room, bridge, situation room ( Paramount Stage 18 ) Thursday 9 August 2001 – Corridor, sickbay ( Paramount Stage 8 ); Int. Shuttlepod 1 (Paramount Stage 18) Friday 10 August 2001 – Bridge, situation room (Paramount Stage 18) Monday 13 August 2001 – Terra Nova surface: clearing, colony, forest, Int. and ext.",
+        "post_evidence": "Shuttlepod 1 ( Filming location Polsa Rosa Ranch ) Tuesday 14 August 2001 – Corridor, turbolift (Paramount Stage 8); Captain's mess, underground tunnel and cave"
+      },
+      {
+        "evidence_id": 3,
+        "sentence_id": "755",
+        "score": 0.8100963831,
+        "pre_evidence": "According to the description on the call sheet, this scene features Travis Mayweather inspecting the communications tower of the colony and hearing a hawk.",
+        "evidence": "( Call sheet ) Scene 25, planned to be filmed on Tuesday 14 August 2001 on Paramount Stage 9, should have Archer and Reed finding graves of Novan children in an underground tunnel.",
+        "post_evidence": "The set description on the call sheet is \"Int. Underground Cemetery \". This scene was also not part of the episode."
+      }
+    ]
+  },
+  {
+    "claim_id": "Q24218377$DDC35299-6453-4BE2-BAC1-30E2D4603AA5",
+    "reference_id": "0fcdcff2ab3d18416aaffc96245f4ce579b982fa",
+    "affirmation": "George Lansell died in 1906.",
+    "reference_url": "https://adb.anu.edu.au/biography/lansell-george-3992",
+    "g_id": -1,
+    "evidence_list": [
+      {
+        "evidence_id": 3,
+        "sentence_id": "55;56",
+        "score": 0.8774333,
+        "pre_evidence": "He enjoyed his paternalism but it was more than lip service and he created a fund for the widows and orphaned children of Bendigo miners.",
+        "evidence": "Lansell was twice married: first, to Bedelia Jarvis Mulqueen; and second, in London on 12 August 1883 to Harriett Edith Bassford by whom he had five sons and a daughter. He had settled in London early in the 1880s but after seven years he was petitioned by Bendigo townsmen to return and help to restore the declining industry.",
+        "post_evidence": "On the tailings of the 180 mine and within hearing of its batteries, he remodelled his villa, Fortuna, a mansion of over forty rooms, lavishly furnished with pieces collected from around the globe."
+      },
+      {
+        "evidence_id": 2,
+        "sentence_id": "80;81",
+        "score": 0.9939698577,
+        "pre_evidence": "George Lansell (1823-1906), by Foster & Martin, c1880 La Trobe Picture Collection, State Library of Victoria, H6398. Life Summary [details] Birth. 24 August 1823 Margate, Kent, England.",
+        "evidence": "Death. 18 March 1906 Bendigo, Victoria, Australia.",
+        "post_evidence": "Cultural Heritage. English. Occupation benefactor (general) butcher goldmine owner goldminer mining industry leader/promoter mining investor soap and/or candle manufacturer."
+      },
+      {
+        "evidence_id": 1,
+        "sentence_id": "35",
+        "score": 0.9998847246,
+        "pre_evidence": "George Lansell (1823-1906), by Foster & Martin, c1880 La Trobe Picture Collection, State Library of Victoria, H6398.",
+        "evidence": "George Lansell (1823-1906), mining entrepreneur, was born on 24 August 1823 at Margate, Kent, England, eldest son of Thomas Lansell, soap and candle maker, and his wife Elizabeth, née Budds.",
+        "post_evidence": "At 14 he entered his father's business where he worked until a younger brother, Wootten, who had been a sailor on convict ships to Australia, suggested that his brothers George and William migrate to Australia."
+      },
+      {
+        "evidence_id": 4,
+        "sentence_id": "64;65",
+        "score": 0.1756471843,
+        "pre_evidence": "In admiration and gratitude for Lansell's 'indomitable courage and persistent enterprise' the community raised a statue in his honour.",
+        "evidence": "Select Bibliography. W. B. Kimberly, Bendigo and Vicinity (Melb, 1895) E. J. Brady, Australia Unlimited (Melb, 1918) Punch (Melbourne), 11 Feb 1904 Argus (Melbourne), 19 Mar 1906 Bendigo Independent, 19 Mar 1906.",
+        "post_evidence": "Related Entries in NCB Sites view family tree. Lansell, George. Lansell, Bedelia Mary (wife) Lansell, Edith Harriett (wife) Norbury, Edith Fortuna (daughter)"
+      },
+      {
+        "evidence_id": 0,
+        "sentence_id": "61;62",
+        "score": 0.9999005198,
+        "pre_evidence": "He gave liberal support to local charities but attributed his unwillingness to enter public life to the memory of his father's ruin by politics when fighting for corn law repeal.",
+        "evidence": "At his death on 18 March 1906 Lansell was mentioned in all the churches and flags were flown at half-mast. Bendigo's concern over the family's intentions towards mining were swiftly allayed as the eldest son, George Victor, continued his father's policies.",
+        "post_evidence": "In admiration and gratitude for Lansell's 'indomitable courage and persistent enterprise' the community raised a statue in his honour."
+      }
+    ]
+  },
+  {
+    "claim_id": "Q24287194$7A6EF5A8-643D-4F25-8F88-F3156D934D31",
+    "reference_id": "fa3dbf3fc3baa365e9b90114a310f42b757d2809",
+    "affirmation": "Arka Gdynia won the 2016–17 Polish Cup.",
+    "reference_url": "https://en.wikipedia.org/w/index.php?title=2016%E2%80%9317_Polish_Cup&oldid=893822928",
+    "g_id": -1,
+    "evidence_list": [
+      {
+        "evidence_id": 0,
+        "sentence_id": "0",
+        "score": 0.030071241800000002,
+        "pre_evidence": "",
+        "evidence": "2016–17 Polish Cup.",
+        "post_evidence": "From Wikipedia, the free encyclopedia. This is an old revision of this page, as edited by Marquardtika (talk | contribs) at 20:01, 23 April 2019 (tense)."
+      },
+      {
+        "evidence_id": 4,
+        "sentence_id": "931;932",
+        "score": -0.4536634982,
+        "pre_evidence": "2004–05. 2005–06. 2006–07. 2007–08. 2008–09. 2009–10. 2010–11. 2011–12. 2012–13. 2013–14. 2014–15. 2015–16.",
+        "evidence": "2016–17. 2017–18.",
+        "post_evidence": "2018–19. 2019–20. 2020–21. 2021–22. show v t e 2016–17 in Polish football «  2015–16 2017–18  » Domestic leagues Men."
+      },
+      {
+        "evidence_id": 2,
+        "sentence_id": "10;11",
+        "score": -0.39520671960000003,
+        "pre_evidence": "Polish Cup Country   Poland Teams 68 Champions Arka Gdynia Runners-up Lech Poznań Matches played 69 Goals scored 219 (3.17 per match) Top goal scorer(s)",
+        "evidence": "Rafał Jankowski Kamil Zapolnik (4 goals) ← 2015–16 2017–18 →. The 2016–17 Polish Cup was the sixty-third season of the annual Polish football knockout tournament. It began on 16 July 2016 with the first matches of the Preliminary Round and ended on 2 May 2017 with the Final at PGE Narodowy.",
+        "post_evidence": "Winners of the competition will qualify for the qualifying tournament of the 2017–18 UEFA Europa League."
+      },
+      {
+        "evidence_id": 3,
+        "sentence_id": "742;743",
+        "score": -0.3982912898,
+        "pre_evidence": "Rafał Siemaszko. Arka Gdynia. Szymon Sobczak. Stal Mielec. Karol Zieliński. Kotwica Kołobrzeg. See also. 2016–17",
+        "evidence": "Ekstraklasa. 2016–17 I liga.",
+        "post_evidence": "Notes. ^ Jump up to: a b Regional cup winners were assured to be hosts of both the preliminary round and the first round games, regardless of their and their opponents' relative position in the league pyramid."
+      },
+      {
+        "evidence_id": 1,
+        "sentence_id": "98",
+        "score": -0.3215593398,
+        "pre_evidence": "Ostrowiec Świętokrzyski (Świętokrzyskie) Rominta Gołdap (Warmian-Masurian) KKS Kalisz (Greater Poland) Świt Skolwin (West Pomeranian) Source: 90minut.pl. Notes.",
+        "evidence": "Zawisza did not receive a license for the 2016–17 season and withdrew from the competition.",
+        "post_evidence": "Dolcan dissolved during the 2015–16 season. Okocimski dissolved during the 2015–16 season. Nadwiślan withdrew from the competition."
+      }
+    ]
+  },
+  {
+    "claim_id": "Q87739744$3D40C532-2FD3-4AE7-ADF1-3961C67A56B9",
+    "reference_id": "f5e78b84803a84ce5f6e5f02784dc7dd52d80739",
+    "affirmation": "The 2020 Guernsey COVID-19 lockdown is an organized response related to the 2020 COVID-19 pandemic in Guernsey.",
+    "reference_url": "https://www.bbc.co.uk/news/live/world-europe-guernsey-51999470?ns_mchannel=social&ns_source=twitter&ns_campaign=bbc_live&ns_linkname=5e7a5199276ca90663acc23d%26%27Strict%27%20lockdown%20measures%20from%20midnight%262020-03-24T19%3A00%3A54.329Z&ns_fee=0&pinned_post_locator=urn:asset:b2bb241b-8081-4dda-906a-73efd8e36889&pinned_post_asset_id=5e7a5199276ca90663acc23d&pinned_post_type=share",
+    "g_id": -1,
+    "evidence_list": [
+      {
+        "evidence_id": 1,
+        "sentence_id": "23;24",
+        "score": -0.9869093299,
+        "pre_evidence": "Your Money Market Data Companies Economy Global Car Industry Business of Sport Politics Politics Home Parliaments Brexit Tech Science Health Family & Education Family & Education Home Young Reporter Entertainment & Arts Stories In Pictures Newsbeat Reality Check Long Reads Disability UK   England N. Ireland Scotland Alba Wales Cymru Isle of Man Guernsey Guernsey selected Jersey Local News Guernsey. Breaking Breaking news Close breaking news.",
+        "evidence": "Media player Close player Close player Close player Guernsey updates on coronavirus: 23-27 March 23 March 2020 23 March 2020 And we'll keep you signed in. Sign in or Register Why sign in to the BBC?",
+        "post_evidence": "I'll do it later Got a TV Licence? You need one to watch live TV on any channel or device, and BBC programmes on iPlayer."
+      },
+      {
+        "evidence_id": 3,
+        "sentence_id": "36;37",
+        "score": -0.9953203201,
+        "pre_evidence": "Scotland Alba Wales Cymru Isle of Man Guernsey Guernsey selected Jersey Local News Sections Home War in Ukraine Coronavirus Coronavirus Home",
+        "evidence": "Your Coronavirus Stories Climate UK UK selected UK Home England N. Ireland Scotland Alba Wales Cymru Isle of Man Guernsey Guernsey selected Jersey Local News World World selected World Home Africa Asia Australia Europe Europe selected Latin America Middle East US & Canada Business Business Home Your Money Market Data Companies Economy Global Car Industry Business of Sport Politics Politics Home Parliaments Brexit Tech Science Health Family & Education Family & Education Home Young Reporter Entertainment & Arts Stories In Pictures Newsbeat Reality Check Long Reads Disability.",
+        "post_evidence": "BBC News Services On your mobile On smart speakers Get news alerts Contact BBC News. Documentaries on the BBC Iplayer Adult entertainment's #MeToo explored bbc iplayer Iplayer Sampling Italy's finest foods bbc iplayer Iplayer 'I drank myself into dependence' bbc iplayer Iplayer Could Saffie have been saved?"
+      },
+      {
+        "evidence_id": 4,
+        "sentence_id": "9;10",
+        "score": -0.9954863191000001,
+        "pre_evidence": "We use cookies to give you the best online experience. Please let us know if you agree to all of these cookies.",
+        "evidence": "Please let us know if you agree to all of these cookies. Yes, I agree.",
+        "post_evidence": "Yes, I agree. No, take me to settings. No, take me to settings. Homepage Accessibility links Skip to content Accessibility Help Sign in Notifications Home News Sport Weather iPlayer"
+      },
+      {
+        "evidence_id": 0,
+        "sentence_id": "31;32",
+        "score": -0.9647794366,
+        "pre_evidence": "You need one to watch live TV on any channel or device, and BBC programmes on iPlayer. It’s the law. Find out more I have a TV Licence. Watch now. I don’t have a TV Licence.",
+        "evidence": "Summary Updates for 23-27 March. Our live coverage continues on Monday Guernsey residents told to 'stay at home' Non-essential shops and community spaces closed All public gatherings of more than two people banned Thirty-six confirmed cases from more than 500 test results Anyone with clinical questions can call 01481 756938 or 756969 between 08:00-22:00 daily Latest advice from the States is available at gov.gg/coronavirus.",
+        "post_evidence": "News Navigation Sections UK Home England N. Ireland Scotland Alba Wales Cymru Isle of Man Guernsey Guernsey selected Jersey Local News Sections Home War in"
+      },
+      {
+        "evidence_id": 2,
+        "sentence_id": "20;21",
+        "score": -0.9947409034,
+        "pre_evidence": "BBC News News Navigation Sections Home War in Ukraine Coronavirus Climate UK UK selected World World selected Business Politics Tech Science Health Family & Education Entertainment & Arts More More sections Stories In Pictures Newsbeat Reality Check Long Reads Disability UK selected England N. Ireland Scotland Alba Wales Cymru Isle of Man Guernsey Guernsey selected Jersey More More sections Local News Home War in Ukraine Coronavirus Coronavirus Home",
+        "evidence": "Your Coronavirus Stories Climate UK UK selected UK Home England N. Ireland Scotland Alba Wales Cymru Isle of Man Guernsey Guernsey selected Jersey Local News World World selected World Home Africa Asia Australia Europe Europe selected Latin America Middle East US & Canada Business Business Home Your Money Market Data Companies Economy Global Car Industry Business of Sport Politics Politics Home Parliaments Brexit Tech Science Health Family & Education Family & Education Home Young Reporter Entertainment & Arts Stories In Pictures Newsbeat Reality Check Long Reads Disability UK   England N. Ireland Scotland Alba Wales Cymru Isle of Man Guernsey Guernsey selected Jersey Local News Guernsey.",
+        "post_evidence": "Breaking Breaking news Close breaking news. Media player Close player Close player Close player Guernsey updates on coronavirus: 23-27 March 23 March 2020 23 March 2020 And we'll keep you signed in."
+      }
+    ]
+  },
+  {
+    "claim_id": "Q100561797$6CE39125-976F-4A05-9752-5708B44B8E43",
+    "reference_id": "c76b2a485828dd37029779c87b1b7b40b8af383f",
+    "affirmation": "Restrictive Trade Practices (Jewellery, Watches and Clocks) Order, 1968 has a citation of S.I. No. 80/1968.",
+    "reference_url": "https://www.irishstatutebook.ie/eli/1968/si/80/made/en/print",
+    "g_id": -1,
+    "evidence_list": [
+      {
+        "evidence_id": 1,
+        "sentence_id": "48",
+        "score": 0.9998987913,
+        "pre_evidence": "Ionstraimí Reachtúla. 1968. S.I. No. 80/1968- Restrictive Trade Practices (Jewellery, Watches and Clocks) Order, 1968. S.I.",
+        "evidence": "No. 80/1968- Restrictive Trade Practices (Jewellery, Watches and Clocks) Order, 1968.",
+        "post_evidence": "View SI Amharc ar an IR. Amendments Leasuithe. S.I. No. 80 of 1968. RESTRICTIVE TRADE PRACTICES (JEWELLERY, WATCHES AND CLOCKS)"
+      },
+      {
+        "evidence_id": 0,
+        "sentence_id": "46",
+        "score": 0.9998987913,
+        "pre_evidence": "Statutory Instruments. Advanced Search Cuardach Casta. Home Baile. Statutory Instruments Ionstraimí Reachtúla. 1968. S.I.",
+        "evidence": "No. 80/1968- Restrictive Trade Practices (Jewellery, Watches and Clocks) Order, 1968.",
+        "post_evidence": "S.I. No. 80/1968- Restrictive Trade Practices (Jewellery, Watches and Clocks) Order, 1968. View SI Amharc ar an IR."
+      },
+      {
+        "evidence_id": 4,
+        "sentence_id": "84;85",
+        "score": 0.7293447256000001,
+        "pre_evidence": "GIVEN under my Official Seal, this 10th day of April, 1968. SEOIRSE Ó COLLA, Minister for Industry and Commerce.",
+        "evidence": "EXPLANATORY NOTE. The effect of this Order is to prohibit certain restrictive trade practices in relation to the supply and distribution to retailers of jewellery, watches and clocks.",
+        "post_evidence": "The Order requires to be confirmed by an Act of the Oireachtas before it will have the force of law."
+      },
+      {
+        "evidence_id": 3,
+        "sentence_id": "54;55",
+        "score": 0.9233478308,
+        "pre_evidence": "Amendments Leasuithe. S.I. No. 80 of 1968. RESTRICTIVE TRADE PRACTICES (JEWELLERY, WATCHES AND CLOCKS)",
+        "evidence": "ORDER, 1968. I, SEOIRSE Ó COLLA, Minister for Industry and Comerce, having considered a report of the Fair Trade Commission of an enquiry under section 7 of the Restrictive Trade Practices Act, 1953 (No. 14 of 1953), as amended by section 2 of the Restrictive Trade Practices (Amendment) Act, 1959 (No. 37 of 1959), into the conditions which obtain in regard to the supply and distribution to retailers of jewellery, watches and clocks, hereby, in exercise of the powers conferred on me by section 9 of the said Restrictive Trade Practices Act, 1953, order as follows: 1.",
+        "post_evidence": "This Order may be cited as the Restrictive Trade Practices (Jewellery, Watches and Clocks) Order, 1968. 2."
+      },
+      {
+        "evidence_id": 2,
+        "sentence_id": "56;57",
+        "score": 0.9998118877000001,
+        "pre_evidence": "I, SEOIRSE Ó COLLA, Minister for Industry and Comerce, having considered a report of the Fair Trade Commission of an enquiry under section 7 of the Restrictive Trade Practices Act, 1953 (No. 14 of 1953), as amended by section 2 of the Restrictive Trade Practices (Amendment) Act, 1959 (No. 37 of 1959), into the conditions which obtain in regard to the supply and distribution to retailers of jewellery, watches and clocks, hereby, in exercise of the powers conferred on me by section 9 of the said Restrictive Trade Practices Act, 1953, order as follows: 1.",
+        "evidence": "This Order may be cited as the Restrictive Trade Practices (Jewellery, Watches and Clocks) Order, 1968. 2. In this order—. \"the Commission\" means the Fair Trade Commission; \"goods\" means jewellery made wholly or mainly of precious metals, whether set with precious stones or not, and watches and clocks; \"retailer\" means a person who sells goods by retail or offers goods for sale by retail; \"supplier\" means a person who manufactures or assembles goods or sells goods by wholesale or offers goods for sale by wholesale.",
+        "post_evidence": "3. A person shall not induce or compel a supplier by threats or any other means to withhold goods from a retailer or sell goods, or offer goods for sale, to a retailer upon terms or subject to conditions that are less favourable than the terms or conditions upon or subject to which goods are sold or offered for sale to another retailer, due allowance being made for any differences in the circumstances of the sales or offers. 4."
+      }
+    ]
+  },
+  {
+    "claim_id": "Q106979638$0BB0B57E-545A-45CA-A6C0-0C86E7AB9790",
+    "reference_id": "65721fce0505785f03861baddc9c8f8c160b665b",
+    "affirmation": "EIB INFO 1-2010 (n°137) was published on 24/03/2010.",
+    "reference_url": "https://www.eib.org/en/publications/eib-information-1-2010-n137",
+    "g_id": -1,
+    "evidence_list": [
+      {
+        "evidence_id": 0,
+        "sentence_id": "261",
+        "score": 0.5424699187,
+        "pre_evidence": "EIB open data. Open learning: resources for learners and researchers. Publications. Find a publication.",
+        "evidence": "EIB INFO 1-2010 (n°137) Deutsch.",
+        "post_evidence": "English. français. italiano. Publication information. 24 Mar 2010. PDF. English (EN) français (FR) Deutsch (DE) italiano (IT) Description."
+      },
+      {
+        "evidence_id": 1,
+        "sentence_id": "306;307",
+        "score": -0.10052434360000001,
+        "pre_evidence": "28 February 2022. Public-private partnerships (PPPs) financed by the European Investment Bank from 1990 to 2021.",
+        "evidence": "This report is part of EPEC’s work on monitoring developments in the public-private partnership (PPP) market and is intended to provide an overview of the role played by the EIB in financing PPP projects inside and outside of Europe since 1990. EPEC.",
+        "post_evidence": "PPP. Ppp-market-updates. 1. GET OUR NEWSLETTER. Receive updates of the EIB Group’s activities in Europe and around the world."
+      },
+      {
+        "evidence_id": 4,
+        "sentence_id": "304",
+        "score": -0.5128519535,
+        "pre_evidence": "These funds contribute to sustainable and inclusive development in the region, and to promoting climate action. Ecuador. Africa, Caribbean, Pacific countries + OCT. Asia and Latin America. Development.",
+        "evidence": "28 February 2022.",
+        "post_evidence": "Public-private partnerships (PPPs) financed by the European Investment Bank from 1990 to 2021. This report is part of EPEC’s work on monitoring developments in the public-private partnership (PPP) market and is intended to provide an overview of the role played by the EIB in financing PPP projects inside and outside of Europe since 1990."
+      },
+      {
+        "evidence_id": 3,
+        "sentence_id": "296;297",
+        "score": -0.3736684918,
+        "pre_evidence": "An brief overview of the recently published revised set of EIB Environmental and Social Standards. Environment. Climate action and environment.",
+        "evidence": "3 March 2022. EIB Group activity in Latin America and the Caribbean in 2021.",
+        "post_evidence": "The European Investment Bank (EIB), the EU bank, continued to support Latin America and the Caribbean, providing €742 million of financing for 11 projects in 2021."
+      },
+      {
+        "evidence_id": 2,
+        "sentence_id": "266",
+        "score": -0.3254487216,
+        "pre_evidence": "Find a publication. EIB INFO 1-2010 (n°137) Deutsch. English. français. italiano. Publication information.",
+        "evidence": "24 Mar 2010.",
+        "post_evidence": "PDF. English (EN) français (FR) Deutsch (DE) italiano (IT) Description. Corporate Issues. EIB continues to deliver."
+      }
+    ]
+  },
+  {
+    "claim_id": "Q77596854$32e514fa-4c01-8009-5e79-da01298a9c11",
+    "reference_id": "8aaf28f79d3f11d2725fd0c1eb0c4f5f3eef0048",
+    "affirmation": "Lucha Electoral was created in 1911.",
+    "reference_url": "https://www.loc.gov/item/2001241171/",
+    "g_id": -1,
+    "evidence_list": [
+      {
+        "evidence_id": 0,
+        "sentence_id": "112;113",
+        "score": -0.0741217285,
+        "pre_evidence": "Contributor: Junta Cantonal De Exposición En Orizaba. Date: 1881. Newspaper. El gladiador: Date: 1880. Newspaper. El reproductor: Date: 1876. Newspaper.",
+        "evidence": "Lucha electoral. Date: 1911.",
+        "post_evidence": "Newspaper. Boletín del Hospicio de Orizaba: Contributor: Hospicio De Orizaba. Date: 18?? You might also like."
+      },
+      {
+        "evidence_id": 1,
+        "sentence_id": "72",
+        "score": -0.2017909139,
+        "pre_evidence": "Dublin Core Record. Part of. Library of Congress Online Catalog. (1,241,487) Format. Newspaper. Dates.",
+        "evidence": "1911.",
+        "post_evidence": "Locations. Llave. Mexico. Orizaba. Veracruz. Veracruz-Llave. City. Orizaba. Country. Mexico. State. Veracruz-Llave."
+      },
+      {
+        "evidence_id": 2,
+        "sentence_id": "50;51",
+        "score": -0.2253602892,
+        "pre_evidence": "- Veracruz-Llave (Mexico: State)--Newspapers. - Orizaba (Veracruz-Llave, Mexico)--Newspapers. - Mexico. - Mexico--Orizaba (Veracruz-Llave) - Mexico--Veracruz-Llave (State) - Mexico--Veracruz-Llave--Orizaba. Genre. Newspapers. Notes. - Weekly.",
+        "evidence": "- Began in 1911. - Description based on: Año 1, núm. 9 (agosto 13 de 1911).",
+        "post_evidence": "- Microfilm. Aug. 13 1911 Austin, TX: Filmed by Southwest Micropublishing, El Paso, TX on behalf of Nettie Lee Benson Latin American Collection, General Libraries, University of Texas at Austin, 2001."
+      },
+      {
+        "evidence_id": 4,
+        "sentence_id": "108",
+        "score": -0.8388015032,
+        "pre_evidence": "La emulación: Contributor: Junta Cantonal De Exposición En Orizaba. Date: 1881. Newspaper. El gladiador:",
+        "evidence": "Date: 1880.",
+        "post_evidence": "Newspaper. El reproductor: Date: 1876. Newspaper. Lucha electoral. Date: 1911. Newspaper. Boletín del Hospicio de Orizaba:"
+      },
+      {
+        "evidence_id": 3,
+        "sentence_id": "105",
+        "score": -0.695571661,
+        "pre_evidence": "More Newspapers like this. Newspaper. La emulación: Contributor: Junta Cantonal De Exposición En Orizaba.",
+        "evidence": "Date: 1881.",
+        "post_evidence": "Newspaper. El gladiador: Date: 1880. Newspaper. El reproductor: Date: 1876. Newspaper. Lucha electoral."
+      }
+    ]
+  },
+  {
+    "claim_id": "Q471430$28613F1B-16BA-4541-9B05-7A1B93473866",
+    "reference_id": "c7a82981831435a101836441b668896ff7c0f48a",
+    "affirmation": "Synagoge Halderstraße is located between the main train station and the Königsplatz tram hub.",
+    "reference_url": "https://en.wikivoyage.org/wiki/Augsburg?oldid=3782944",
+    "g_id": -1,
+    "evidence_list": [
+      {
+        "evidence_id": 4,
+        "sentence_id": "200",
+        "score": -0.2512746453,
+        "pre_evidence": "Very cheap, clean and friendly chinese fastfood- looks like a McDonald's but offers Chinese food instead of burgers.",
+        "evidence": "It's in the middle of the university district.",
+        "post_evidence": "Nam Hoa. Local chain of Asian fast food, very cheap and really yummy! (€2.50 for a noodle dish that makes you full.)"
+      },
+      {
+        "evidence_id": 1,
+        "sentence_id": "203;204",
+        "score": 0.09261209520000001,
+        "pre_evidence": "It's in the middle of the university district. Nam Hoa. Local chain of Asian fast food, very cheap and really yummy!",
+        "evidence": "(€2.50 for a noodle dish that makes you full.) Has 3 central restaurants, one in Bahnhofsstraße close to the train station, one in the middle of the Königsplatz tram stop and one on Moritzplatz, close to the tram stop.",
+        "post_evidence": "Lots of students come here to eat. Razz Fazz Finger food, Moritzplatz ( at the tram stop ). Falafel and samosas lovingly made from fresh ingredients."
+      },
+      {
+        "evidence_id": 0,
+        "sentence_id": "129;130",
+        "score": 0.9911479354,
+        "pre_evidence": "The museum is in an old factory hall. Adults €4, concessions €3, Sunday €1, children under 18 are always free.",
+        "evidence": "48.365556 10.891944 11 NOT EXISTING LISTING IMAGE Synagogue, Halderstraße 6-8 ( Between the main train station and Königsplatz tram hub. ), ☏ +49 821 513658, office@jkmas.de. Mo-Th 09:00-18:00; Fri 09:00-16:00; Su,PH 10:00-17:00.",
+        "post_evidence": "Augsburg's beautiful synagogue was built between 1914 and 1917 in an \"Art Nouveau\" style with oriental elements."
+      },
+      {
+        "evidence_id": 3,
+        "sentence_id": "270;271",
+        "score": -0.2296168804,
+        "pre_evidence": "Living-room atmosphere with retro mismatched chairs and sofas salvaged from somewhere. Red walls and wallpaper. Nice music, good drinks.",
+        "evidence": "On the opposite side of the street is the disco & club Schwarzes Schaf. Kantine ( it's even further from the center than Rockfabrik, but you can get here with bus 35 direction \"Pfersee Süd\", get off at \"Kulturpark West\"; you can first go to \"Oberhausen Bahnhof\" with the suburban train or the tram and then get into bus 35, because bus 35 is some kind of a circle bus around the city center ).",
+        "post_evidence": "Just like Rockfabrik, this club has a historical background: The whole area here is an old US casern from the occupation times."
+      },
+      {
+        "evidence_id": 2,
+        "sentence_id": "210;211",
+        "score": -0.041701331700000004,
+        "pre_evidence": "The food is take-away. Healthiest (and filling) vegetarian fast food in all the city for a cheap price.",
+        "evidence": "Cosmos Heart Cafe, Traunerpassage ( between Steingasse and Karolinenstraße, near Rathaus Platz ). Small, bright and cozy cafe with teas, coffee, and light vegetarian food like sandwiches, bagels and homemade cake.",
+        "post_evidence": "At midday lunch is served. The staff are very friendly and bilingual. Quiet and intimate. The Stadtmarkt or city market, enter from Fuggerstraße or Annastraße, has fresh fruits or vegetables as well as the Fleischhalle and Viktualienhalle, which have various budget options available, including typical Bavarian, Greek, Thai, sushi and more."
+      }
+    ]
+  },
+  {
+    "claim_id": "Q7662114$21A3C348-28C4-429D-A691-1AAAA2C54537",
+    "reference_id": "1b6a1b968aab67dece0c691a585314d840b48789",
+    "affirmation": "Synchronised died on 14/04/2012.",
+    "reference_url": "https://www.bbc.co.uk/sport/horse-racing/17453652",
+    "g_id": -1,
+    "evidence_list": [
+      {
+        "evidence_id": 1,
+        "sentence_id": "21;22",
+        "score": -0.1473739445,
+        "pre_evidence": "My Sport Match of the Day Sports Personality 5 Live Sport Sport on the BBC News Feeds Help & FAQs Horse Racing Results Calendar.",
+        "evidence": "Grand National: Neptune Collonges seals dramatic victory By Frank Keogh BBC Sport at Aintree Last updated on 14 April 201214 April 2012.From the section Horse Racing Neptune Collonges beat Sunnyhillboy in the closest-ever Grand National finish but a dramatic race was marred by two horse deaths. The grey, a 33-1 chance ridden by Daryl Jacob, got up in the last stride to win after a photo finish and give champion trainer Paul Nicholls his first win in the big race in 53 runners.",
+        "post_evidence": "Katie Walsh, bidding to become the first female jockey to triumph, was third on Seabass with Cappa Bleu fourth."
+      },
+      {
+        "evidence_id": 4,
+        "sentence_id": "50;51",
+        "score": -0.4643347263,
+        "pre_evidence": "Daryl Jacob facts Jacob was appointed second jockey to Paul Nicholls last summer He won on Zarkander in the Triumph Hurdle at last year's Cheltenham Festival",
+        "evidence": "He also rode The Listener to success in the Lexus Chase (Dec 06) and the Hennessy Gold Cup (Feb 08) He was a close friend of Irish jockey Kieran Kelly who died in a fall in a race in Ireland in 2003 Hales had mixed emotions as One Man, probably the best horse he ever owned, was killed in a fall at the Grand National meeting in 1998.",
+        "post_evidence": "\"When he crossed the line I thought he might have got it,\" he said. \"My first thought was if he has got it Paul has won the trainers' championship."
+      },
+      {
+        "evidence_id": 3,
+        "sentence_id": "36",
+        "score": -0.4547666609,
+        "pre_evidence": "Neptune Collonges and Sunnyhillboy (16-1) came to the fore and tussled for the lead up the straight, before the Nicholls-trained horse took victory on the line.",
+        "evidence": "Winning owner John Hales said immediately afterwards the horse, the first grey winner since Nicolas Silver in 1961, would retire.",
+        "post_evidence": "Cappa Bleu finished fourth with In Compliance in fifth. A total of 15 horses out of the 40 starters completed the race."
+      },
+      {
+        "evidence_id": 0,
+        "sentence_id": "30;31",
+        "score": -0.08972611280000001,
+        "pre_evidence": "Nobody should under-estimate it- this is very serious for everyone in the racing industry. A big dark cloud hangs over the Grand National. Its future is in a certain amount of doubt.\"",
+        "evidence": "Synchronised, a stable-mate of runner-up Sunnyhillboy, had been seeking to become the first horse to complete steeplechasing's big-race double in the same season but got loose on the way to the start after unseating champion jockey AP McCoy. He was cleared to race but fell at the sixth fence, Becher's Brook, only to continue for five more fences before suffering a fracture at the 11th fence.",
+        "post_evidence": "According to Pete suffered a fractured leg when he was brought down after jumping the 22nd fence [Becher's Brook second time round], when On His Own fell in front of him."
+      },
+      {
+        "evidence_id": 2,
+        "sentence_id": "24;25",
+        "score": -0.34427925940000004,
+        "pre_evidence": "Katie Walsh, bidding to become the first female jockey to triumph, was third on Seabass with Cappa Bleu fourth.",
+        "evidence": "Two horses- Cheltenham Gold Cup winner Synchronised and According to Pete- suffered fatal injuries.",
+        "post_evidence": "Analysis Cornelius Lysaght BBC horse racing correspondent \"There is no doubt this is a black day for the Grand National and for horse racing."
+      }
+    ]
+  },
+  {
+    "claim_id": "Q6779290$1714B61A-AC65-4F5D-AEBF-88F52683260A",
+    "reference_id": "48b94bf95f53fface288d27c0d059bcf059e2144",
+    "affirmation": "Mary Daly was born on 24/08/1896.",
+    "reference_url": "https://adb.anu.edu.au/biography/daly-dame-mary-dora-may-12396",
+    "g_id": -1,
+    "evidence_list": [
+      {
+        "evidence_id": 1,
+        "sentence_id": "80",
+        "score": -0.017693096800000002,
+        "pre_evidence": "Related Entries in NCB Sites view family tree. MacMahon, John Stephen (brother) Daly, Anne (aunt by marriage) Citation details.",
+        "evidence": "Ellen Warne, 'Daly, Dame Mary Dora (May) (1896–1983)', Australian Dictionary of Biography, National Centre of Biography, Australian National University, https://adb.anu.edu.au/biography/daly-dame-mary-dora-may-12396/text22281, published first in hardcopy 2007, accessed online 8 March 2022.",
+        "post_evidence": "This article was published in hardcopy in Australian Dictionary of Biography, Volume 17, (Melbourne University Press), 2007."
+      },
+      {
+        "evidence_id": 2,
+        "sentence_id": "38;39",
+        "score": -0.16256539520000002,
+        "pre_evidence": "She then worked in her father’s law firm and became active in the State division of the Australian Red Cross Society and the Voluntary Aid Detachments.",
+        "evidence": "Her immediate family provided formidable examples of professional success and social service: her father was an alderman of the municipal council, justice of the peace, deputy-coroner and member of the local hospital committee; several of her sisters and brothers (including John MacMahon) pursued careers in law or medicine. These family characteristics were reinforced when, at St Canice’s Church, Darlinghurst, on 3 January 1923, she married John Joseph Daly (d.1953), medical practitioner, whose family included five aunts involved in charity work in Melbourne.",
+        "post_evidence": "One of them, Mother Berchmans, was the influential founder of St Vincent’s Hospital: May’s son and daughter carried Berchmans as their second name."
+      },
+      {
+        "evidence_id": 3,
+        "sentence_id": "30",
+        "score": -0.2274975777,
+        "pre_evidence": "Older articles are being reviewed with a view to bringing them into line with contemporary values but the original text will remain available for historical context. Hide message.",
+        "evidence": "Daly, Dame Mary Dora (May) (1896–1983) by Ellen Warne.",
+        "post_evidence": "This article was published: in the. Australian Dictionary of Biography, Volume 17. , 2007. online in 2007."
+      },
+      {
+        "evidence_id": 0,
+        "sentence_id": "35",
+        "score": 0.9998570681000001,
+        "pre_evidence": "This article was published: in the. Australian Dictionary of Biography, Volume 17. , 2007. online in 2007. View Previous Version.",
+        "evidence": "Dame Mary Dora (May) Daly (1896-1983), charity worker, was born on 24 August 1896 at Cootamundra, New South Wales, eldest child of Australian-born parents Thomas Patrick MacMahon, solicitor, and his wife Mary Ellen, née O’Donnell.",
+        "post_evidence": "‘May’ was educated at the Loreto convent at Normanhurst, Sydney, and Loreto Abbey, Ballarat, Victoria."
+      },
+      {
+        "evidence_id": 4,
+        "sentence_id": "36;37",
+        "score": -0.2440600842,
+        "pre_evidence": "Dame Mary Dora (May) Daly (1896-1983), charity worker, was born on 24 August 1896 at Cootamundra, New South Wales, eldest child of Australian-born parents Thomas Patrick MacMahon, solicitor, and his wife Mary Ellen, née O’Donnell.",
+        "evidence": "‘May’ was educated at the Loreto convent at Normanhurst, Sydney, and Loreto Abbey, Ballarat, Victoria. She then worked in her father’s law firm and became active in the State division of the Australian Red Cross Society and the Voluntary Aid Detachments.",
+        "post_evidence": "Her immediate family provided formidable examples of professional success and social service: her father was an alderman of the municipal council, justice of the peace, deputy-coroner and member of the local hospital committee; several of her sisters and brothers (including John MacMahon) pursued careers in law or medicine."
+      }
+    ]
+  },
+  {
+    "claim_id": "Q95109633$593A1AC1-F648-416F-986D-C91DBC634186",
+    "reference_id": "0e0dcc2b6f98cec9c65db730041977bac15ae914",
+    "affirmation": "Frida Prifer died of homicide.",
+    "reference_url": "https://yvng.yadvashem.org/nameDetails.html?itemId=1018275",
+    "g_id": -1,
+    "evidence_list": [
+      {
+        "evidence_id": 0,
+        "sentence_id": "156;157",
+        "score": 0.48814994100000003,
+        "pre_evidence": "Frida Freiber Prifer nee Zomerman was born in Ulaszkowce, Poland in 1910 to Barukh and Etel. She was a seamstress and married to Tzvi. Prior to WWII she lived in Horodenka, Poland.",
+        "evidence": "During the war she was in Horodenka, Poland. Frida was murdered in the Shoah (according to this source).",
+        "post_evidence": "This information is based on a Page of Testimony (displayed here) submitted by her brother, Tzvi Zomerman."
+      },
+      {
+        "evidence_id": 1,
+        "sentence_id": "152;153",
+        "score": -0.1392242163,
+        "pre_evidence": "The only surviving visual evidence of the process leading to mass murder The Auschwitz Album – Guidelines for Educators. Frida Freiber Prifer. Facebook. Twitter. Pinterest.",
+        "evidence": "AddThis. Frida Freiber Prifer nee Zomerman was born in Ulaszkowce, Poland in 1910 to Barukh and Etel.",
+        "post_evidence": "She was a seamstress and married to Tzvi. Prior to WWII she lived in Horodenka, Poland. During the war she was in Horodenka, Poland."
+      },
+      {
+        "evidence_id": 2,
+        "sentence_id": "148",
+        "score": -0.8694607615000001,
+        "pre_evidence": "The only surviving visual evidence of the process leading to mass murder The Auschwitz Album – Guidelines for Educators.",
+        "evidence": "Frida Freiber Prifer.",
+        "post_evidence": "Facebook. Twitter. Pinterest. AddThis. Frida Freiber Prifer nee Zomerman was born in Ulaszkowce, Poland in 1910 to Barukh and Etel."
+      },
+      {
+        "evidence_id": 4,
+        "sentence_id": "98;99",
+        "score": -0.9478579760000001,
+        "pre_evidence": "Int. Holocaust Remembrance Day. Names. Download Pages of Testimony. Survivor Forms. Bar/Bat Mitzvah Twinning Program.",
+        "evidence": "The Shoah Victims' Names Recovery Project. Righteous.",
+        "post_evidence": "About the Righteous. About the Program. Righteous Database. \"I Am My Brother's Keeper\". A Tribute to the Righteous."
+      },
+      {
+        "evidence_id": 3,
+        "sentence_id": "160;161",
+        "score": -0.9408009052,
+        "pre_evidence": "This information is based on a Page of Testimony (displayed here) submitted by her brother, Tzvi Zomerman. Map.",
+        "evidence": "During the Shoah, Jews were murdered in a variety of ways, among them gassing, shooting, burning, drowning or burial alive, exhaustion through forced labor, starvation, epidemic diseases, deprivation of medical care and minimal hygienic conditions, and more. Some Jews took their own lives in order to escape arrest and further persecution, or to end their hopeless, relentless suffering.",
+        "post_evidence": "Submit Additions/Corrections. Last Name Freiber Last Name Prifer First Name Frida Maiden Name Zomerman Gender Female Date of Birth 1910 Place of Birth Ulaszkowce,Czortkow,Tarnopol,"
+      }
+    ]
+  },
+  {
+    "claim_id": "Q58485125$0B087946-63A0-4D69-BAEA-AD52DFBE2C6F",
+    "reference_id": "c714ca621d1fe1ca35f20e01a72587d23bdd8e1e",
+    "affirmation": "Navjeevan's original language is Hindi.",
+    "reference_url": "https://indiancine.ma/BTW",
+    "g_id": -1,
+    "evidence_list": [
+      {
+        "evidence_id": 4,
+        "sentence_id": "11;12",
+        "score": -0.662133038,
+        "pre_evidence": "Teesmar Khan 1934 Vaman Avtar 1934 Bahar-e-Suleman i (J.P. Advani) 1935 Farebi Duniya (J.P. Advani) 1935 Shah Behram (J.P. Advani) 1935",
+        "evidence": "Joymati (Jyotiprasad Agarwala) 1935 Preet Ki Reet (Bapurao Apte) 1935 Ratan Manjari (J. Arastani) 1935 Bharat Ki Beti (Premankur Atorthy) 1935 Bhikharan (Premankur Atorthy) 1935",
+        "post_evidence": "Karwan-e-Hayat (Premankur Atorthy … hunder) 1935 Jawani Ka Nasha (Manzoor Ahmed Nazar Azmabadi) 1935 Dr Madhurika (Sarvottam Badami) 1935"
+      },
+      {
+        "evidence_id": 0,
+        "sentence_id": "51;52",
+        "score": 0.1991233975,
+        "pre_evidence": "Mard-e-Maidan (Anant Desai) 1935 Dard-e-Ulfat (Dhirubhai Desai) 1935 Delhi Ka Thug (Dhirubhai Desai) 1935 Lal Chitta (Dhirubhai Desai) 1935",
+        "evidence": "Navjeevan M. Bhavnani Year: 1935; Language: Hindi IMDb ID: 0156831 M. Bhavnani (Director)-  Show Filmography Mohan Dayaram Bhavnani (1903-62) Hindi director born in Hyderabad, Sind. Studied at College of Technology, Manchester (1921-4), then studied film-making in Germany at UFA (1924).",
+        "post_evidence": "Contracted to Kohinoor (1925-6) where his Sulochana films were the earliest efforts in the Indian cinema to create a Hollywood-type movie star, e.g. Cinema Ni Rani where she plays a famous actress with whom the painter hero falls in love, or Wildcat of Bombay where she played multiple roles."
+      },
+      {
+        "evidence_id": 1,
+        "sentence_id": "54;55",
+        "score": -0.3648032546,
+        "pre_evidence": "Contracted to Kohinoor (1925-6) where his Sulochana films were the earliest efforts in the Indian cinema to create a Hollywood-type movie star, e.g. Cinema Ni Rani where she plays a famous actress with whom the painter hero falls in love, or Wildcat of Bombay where she played multiple roles.",
+        "evidence": "Joined Imperial (1927-9), where he made Khwab-e-Hasti, adapted from the novel Dreamland (later also adapted by N. Taurog’s Strike me Pink, 1936). Scripted by A.S. Desai, this film is not to be confused with Kashmiri’s play of the same title.",
+        "post_evidence": "Vasantsena was the first Kannada intertitled film. Became independent producer with Indian Art Prod."
+      },
+      {
+        "evidence_id": 2,
+        "sentence_id": "31;32",
+        "score": -0.5125501752,
+        "pre_evidence": "Rashk-e-Laila (Nanubhai Vakil) 1934 Seva Sadan (Nanubhai Vakil) 1934 Saubhagya Lakshmi (V.M. Vyas) 1934 Veer Bharat (Homi Wadia) 1934",
+        "evidence": "Baag-e-Misar (J.B.H. Wadia) 1934 Kala Gulab (J.B.H. Wadia) 1934 Vaman Avatar (J.B.H. Wadia) 1934 Ajit Yoddho 1934 Amina 1934 Fida-e-Tauheen 1934 Hoore Baghdad 1934 Hoor-e-Murakak 1934 Keranir Jiban 1934 Kismet Ka Shikar 1934 Kovalan 1934 Krishna Leela 1934 Krishna Murari 1934 Noor-e-Islam 1934 Noorie 1934 Phantom of the Hills 1934 Rajdanda 1934 Sardar Mansoor's Song 1934 Seeta Vanavasam 1934 Shah-e-Iran 1934 Shareef Badmash 1934 Inquilab (Debaki Bose) 1935 Jeevan Natak (Debaki Bose) 1935 Dharam Ki Devi (Hiren Bose) 1935",
+        "post_evidence": "Selima (Modhu Bose) 1935 Bhagya Chakra (Nitin Bose) 1935 Dhoop Chhaon (Nitin Bose) 1935 Wamaq Azra (Tarit Bose) 1935"
+      },
+      {
+        "evidence_id": 3,
+        "sentence_id": "56",
+        "score": -0.5598022938,
+        "pre_evidence": "Joined Imperial (1927-9), where he made Khwab-e-Hasti, adapted from the novel Dreamland (later also adapted by N. Taurog’s Strike me Pink, 1936). Scripted by A.S. Desai, this film is not to be confused with Kashmiri’s play of the same title.",
+        "evidence": "Vasantsena was the first Kannada intertitled film.",
+        "post_evidence": "Became independent producer with Indian Art Prod. (1931-2). Returned to Germany to study sound film technique."
+      }
+    ]
+  },
+  {
+    "claim_id": "Q56818480$2D60B386-F18B-43B3-9B76-C5B4BE960D2A",
+    "reference_id": "0280723077b22b8f9cf2c636fa889db510e0272d",
+    "affirmation": "The Department of Finance is the administrator of the Appropriation Act (No. 1) 1990-1991.",
+    "reference_url": "https://www.legislation.gov.au/Details/C2004A04029",
+    "g_id": -1,
+    "evidence_list": [
+      {
+        "evidence_id": 4,
+        "sentence_id": "117",
+        "score": 0.3708193898,
+        "pre_evidence": "(2) Where, immediately before this Act commences, there was in force an agreement between the Minister for Administrative Services and the Minister for Finance whereby certain receipts for the 1990-91 financial year in respect of the Commonwealth Bureau of Meteorology might be credited to a revenue account established in the Commonwealth Public-Account to meet running costs referred to in Division 118 of the Supply and Appropriation Acts for that year causing an equal amount to be taken to have been appropriated to those running costs: (a) that agreement has effect, and is taken at all times to have had effect, as if it had provided that those receipts might be credited instead to a revenue account established in the Commonwealth Public Account to meet running costs referred to in Division 146 of the Supply and Appropriation Acts for that year causing an equal amount to have been taken to be appropriated to those running costs; and (b) any money that, before this Act commences, was credited, under the agreement, to the first-mentioned revenue account is taken to have been credited to the second-mentioned revenue account; and (c) any money that, before this Act commences, was taken, because of the operation of the agreement, to have been appropriated to running costs referred to in Division 118 is taken to have been appropriated to running costs referred to in Division 146. The National Science and Technology Centre 13.",
+        "evidence": "(1) If a body to be known as the National Science and Technology Centre is established by legislation before 1 July 1991, this Act has effect, and is taken at all times to have had effect, as if the appropriation of an amount to the Department of the Arts, Sport, the Environment, Tourism and Territories under Division 154 of Schedule 3 to this Act were: (a) an appropriation to that body of so much of that amount as is determined, in writing, by the Minister for finance to be required for the purposes of that body in respect of the period commencing on the establishment of the body and ending on 30 June 1991; and (b) an appropriation of the balance of that amount to the Department for the purpose of meeting running costs incurred by the Department preparatory to the establishment of the body.",
+        "post_evidence": "(2) Any determination made under section 9 of the Supply Act (No. 1) 1990-91 is taken, for the purposes of a determination under subsection (1), to form part of the latter determination and to have been made in respect of the period referred to in paragraph (1)(a)."
+      },
+      {
+        "evidence_id": 2,
+        "sentence_id": "357;358",
+        "score": 0.4111784995,
+        "pre_evidence": "Compensation and legal expenses........... 3 200 3 000 — Total: Division 305 42 825 000 36 648 100 35 073 460 Division 306.— RETIREMENT BENEFITS OFFICE 1.—Running Costs (net appropriation — see section 9) 23 340 000 18 158 378 17 987 300 Department of Finance—continued 1990-91 1989-90 Appropriation Expenditure $ $ $ 2.—Property Operating Expenses 1 835 000 2 201 000 1 962 688 3.—Other Services 01.",
+        "evidence": "Compensation and ieeal expenses........... 53 000 152 000 141 352 02. Payments under subsection 34A (1) of the Audit Act 1901............................... 220 000 200 000 199 999 273 000 352 000 341 351 Total: Division 306 25 448 000 20 711 378 20 291 339 Total: Department of Finance......................... 170 779 000 172 218 394 166 859 622 ADVANCE TO THE MINISTER FOR FINANCE 1990-91 1989-90 Appropriation Expenditure $ $ $ Division 310.—ADVANCE TO THE MINISTER FOR FINANCE To enable the Minister for Finance: (a) to make advances that will be recovered during the financial year, in respect of expenditure that is expenditure for the ordinary annual services of the Government; (b) to make money available for expenditure: (i) that the Minister for Finance is satisfied is expenditure that is urgently required and: (A) was unforeseen until after the last day on which it was practicable to include appropriation for that expenditure in the Bill for this Act before the introduction of that Rill into the House of Representatives; or (B) was erroneously omitted from, or understated in, the Bill for this Act; and (ii) particulars of which will afterwards be submitted to the Parliament; being expenditure for the ordinary annual services of the Government; and (c) to make money available for expenditure, being expenditure for the ordinary annual services of the Government, pending authorisation under section 32 of the Audit Act 1901 to that expenditure....... 170 000 000 170 000 000 *",
+        "post_evidence": "* Expenditure is shown under the appropriation to which it has been charged. DEPARTMENT OF FOREIGN AFFAIRS AND TRADE SUMMARY Appropriation — 1990-91, Heavy figures Expenditure — 1989-90, Light figures Division Running Costs Other Services Total $ $ S 315 Administrative............................................... 336 048 500 68 098 500 404 147 000 315 122 537 75 357 308 390 459 845 316 Australia-Japan Foundation........................... 569 000 968 000 1 537 000 504 094 968 000 1 472 094 317 Australian International Development Assistance Bureau....................................................... 27 636 300 1 002 474 700 1 030 111 000 27 385 810 1 028 840 442 1 056 226 252 318 Australian Secret Intelligence Service............ — 21 105 000 21 105 000 — 20 731 000 20 731 000 319 Australian Centre for International Agricultural Research.................................................... — 17 000 000 17 000 000 — 17 400 000 17 400 000 Total............................................................. 364 253 800 1 109 646 200 1 473 900 000 343 012 441 1 143 276 750 1 486 289 191 DEPARTMENT OF FOREIGN AFFAIRS AND TRADE 1990-91 1989-90 Appropriation Expenditure Division 315.—ADMINISTRATIVE $ $ $ 1.—Running Costs (net appropriation — see section 9) 336 048 500 315 252 500 315 122 537 2.—Property Operating Expenses..................... 10 948 000 11 250 200 10 991 468 3.—Other Services 01.Destitute Australians abroad — Relief including funeral expenses................................................... 109 800 110 300 109 468 02."
+      },
+      {
+        "evidence_id": 3,
+        "sentence_id": "355;356",
+        "score": 0.37845695020000003,
+        "pre_evidence": "Loan servicing — Loans of (Canberra Commercial Development Authority.......................... 5 619 000 2 763 000 2 749 211 08.",
+        "evidence": "Aborigines and Torres Strait Islanders — War gratuities 1 000 4 000 3 950 Interest on trustee moneys (for payment to the Defence Service Homes Insurance Trust Account) — 4 000 — 42 423 000 58 048 274 56 374 682 Total: Division 304 102 506 000 114 858 916 111 494 823 Division 305.—AUSTRALIAN NATIONAL AUDIT OFFICE 1.—Running Costs (net appropriation — see section 9) 35 208 400 30 273 100 29 754 576 2.—Property Operating Expenses.................. 7 613 400 6 372 000 5 318 884 3.—Other Services 01. Compensation and legal expenses........... 3 200 3 000 — Total: Division 305 42 825 000 36 648 100 35 073 460 Division 306.— RETIREMENT BENEFITS OFFICE 1.—Running Costs (net appropriation — see section 9) 23 340 000 18 158 378 17 987 300 Department of Finance—continued 1990-91 1989-90 Appropriation Expenditure $ $ $ 2.—Property Operating Expenses 1 835 000 2 201 000 1 962 688 3.—Other Services 01.",
+        "post_evidence": "Compensation and ieeal expenses........... 53 000 152 000 141 352 02. Payments under subsection 34A (1) of the Audit Act 1901............................... 220 000 200 000 199 999 273 000 352 000 341 351 Total: Division 306 25 448 000 20 711 378 20 291 339 Total: Department of Finance......................... 170 779 000 172 218 394 166 859 622 ADVANCE TO THE MINISTER FOR FINANCE 1990-91 1989-90 Appropriation Expenditure $ $ $ Division 310.—ADVANCE TO THE MINISTER FOR FINANCE To enable the Minister for Finance: (a) to make advances that will be recovered during the financial year, in respect of expenditure that is expenditure for the ordinary annual services of the Government; (b) to make money available for expenditure: (i) that the Minister for Finance is satisfied is expenditure that is urgently required and: (A) was unforeseen until after the last day on which it was practicable to include appropriation for that expenditure in the Bill for this Act before the introduction of that Rill into the House of Representatives; or (B) was erroneously omitted from, or understated in, the Bill for this Act; and (ii) particulars of which will afterwards be submitted to the Parliament; being expenditure for the ordinary annual services of the Government; and (c) to make money available for expenditure, being expenditure for the ordinary annual services of the Government, pending authorisation under section 32 of the Audit Act 1901 to that expenditure....... 170 000 000 170 000 000 *"
+      },
+      {
+        "evidence_id": 0,
+        "sentence_id": "62",
+        "score": 0.6038812399,
+        "pre_evidence": "Bookmark. this version | go to latest. Home. Acts. No longer in force. As Made. Details: C2004A04029.",
+        "evidence": "Appropriation Act (No. 1) 1990-91.",
+        "post_evidence": "- C2004A04029. No longer in force. View Series. Act No. 98 of 1990 as made. An Act to appropriate certain sums out of the Consolidated Revenue Fund for the service of the year ending on 30 June 1991, and for related purposes."
+      },
+      {
+        "evidence_id": 1,
+        "sentence_id": "439;440",
+        "score": 0.466609329,
+        "pre_evidence": "Compensation and legal expenses.............. 250 000 556 000 137 776 03. Assistance For union restructuring..............",
+        "evidence": "750 000 450 000 268 140 04. Migrant workers Participation Scheme........ 718 000 676 000 640 000 Total: Division 365 56 423 000 57 558 349 52 753 478 Division 366.—AFFIRMATIVE ACTION AGENCY 1.—Running Costs (net appropriation — see section 9) 1 505 000 1 433 000 1 326 197 2.—Property Operating Expenses..................... 236 000 240 000 233 796 Total: Division 366 1 741 000 1 673 000 1 559 993 Division 367.—AUSTRALIAN TRADE UNION TRAINING AUTHORITY 1.—for expenditure under the Trade Union Training Authority Act 1975 — Operating expenses...... 9 465 000 8 945 000 8 944 999 Division 368.—AUSTRALIAN INDUSTRIAL REGISTRY 1.—Running Costs (net appropriation — see section 9) 25 659 000 23 863 000 23 444 090 2.—Property Operating Expenses..................... 9 275 000 9 580 000 9 413 949 3.—Other Services Payments under subsection 34A(1) of the Audit Act 1901 — 68 000 67 593 Total: Division 368 34 934 000 33 511 000 32 925 632 Department of Industrial Relations—continued 1990-91 1989-90 Appropriation Expenditure $ $ $ Division 369.—NATIONAL OCCUPATIONAL HEALTH AND SAFETY COMMISSION 1.—For expenditure under the National Occupational Health and Safety Commission Act 1985 — Operating expenses...................................................... 17 884 000 19 432 000 19 432 000 Division 370.—REMUNERATION TRIBUNAL 1.—Running Costs (net appropriation — see section 9) 923 000 869 000 601 509 2.—Property Operating Expenses....................... 214 000 246 000 191 693 Total: Division 370 1 137 000 1 115 000 793 202 Division 371.—COMMISSION FOR THE SAFETY, REHABILITATION AND COMPENSATION OF COMMONWEALTH EMPLOYEES 1.—For expenditure under the Commonwealth Employees’ Rehabilitation and Compensation Act 1988 — Operating expenses.................................... 179 352 000 165 270 000 154 278 500 Total: Department of Industrial Relations.......... 300 936 000 287 504 349 270 687 804 DEPARTMENT OF INDUSTRY, TECHNOLOGY AND COMMERCE SUMMARY Appropriation — 1990-91, Heavy figures Expenditure— 1989-90, Light figures Division Running Costs Other Services Total $ $ $ 380 Administrative............................................... 59 224 000 227 268 500 286 492 500 53 838 689 168 582 496 222 421 185 381 Australian Customs Service........................... 239 144 200 31 354 800 270 499 000 225 647 010 30 382 548 256 029 558 382 Australian Institute of Marine Science........... — 11 794 300 11 794 300 — 11 375 100 11 375 100 383 Australian Nuclear Science and Technology Organisation............................................... — 44 026 500 44 026 500 — 46 414 900 46 414 900 384 Australian Trade Commission........................ — 268 655 000 268 655 000 — 297 481 000 297 481 000 385 Automotive Industry Authority...................... 1 063 300 7 500 000 8 563 300 863 210 8 271 420 9 134 630 386 Commonwealth Scientific and Industrial Research Organisation............................................... — 391 384 400 391 384 400 — 363 007 500 363 007 500 387 Australian Manufacturing Council Secretariat 2 784 500 — 2 784 500 2 668 386 — 2 668 386 388 National Standards Commission.................... — 1 221 200 1 221 200 — 1 271 300 1 271 300 389 Patent, Trade Marks and Designs Office........",
+        "post_evidence": "32 733 300 5 144 100 37 877 400 29 612 177 4 385 425 33 997 602 390 Anti-Dumping Authority................................ 843 600 — 843 600 708 689 — 708 689 391 Textiles, Clothing and Footwear Development Authority................................................................... 1 253 300 9 900 000 11 153 300 1 063 244 5 394 525 6 457 769 Total............................................................."
+      }
+    ]
+  },
+  {
+    "claim_id": "q78481$301A2329-16FE-4FB8-BDE2-1CF747B088C2",
+    "reference_id": "c7979b6682e7e0701e57657323a7cd9b38ae5ec1",
+    "affirmation": "Richard Adolf Zsigmondy is a chemist.",
+    "reference_url": "https://www.nndb.com/people/338/000100038/",
+    "g_id": -1,
+    "evidence_list": [
+      {
+        "evidence_id": 3,
+        "sentence_id": "13",
+        "score": -0.32549124960000003,
+        "pre_evidence": "This allows quantification, measurement, and tracking of colloidal particles, smoke particles, and other extremely small objects.",
+        "evidence": "After attending college Zsigmondy worked for a glass manufacturing company for several years, then quit to pursue his own research in a laboratory at his home, where he designed the ultramicroscope and did much of his early research into colloids.",
+        "post_evidence": "He entered academia in 1907, and introduced an improved immersion ultramicroscope in 1913. His brother, mathematician Karl Zsigmondy (1867-1925), devised Zsigmondy's theorem in 1882, a calculation used in group theory."
+      },
+      {
+        "evidence_id": 0,
+        "sentence_id": "20;21",
+        "score": 0.7784585953000001,
+        "pre_evidence": "Annemarie Zsigmondy HuckelDaughter: Käthe Zsigmondy University: BS, Vienna University of Technology (1887) University: PhD, University of Munich (1890)",
+        "evidence": "Lecturer: University of Graz (1907-08) Professor: Institute for Inorganic Chemistry, University of Göttingen (1908-29) Schott Glass Manufacturing Company 1897-1900 Nobel Prize for Chemistry 1925 Lunar Crater Zsigmondy (59.7° N, 104.7° W, 65 km diameter) Austrian Ancestry German Ancestry Hungarian Ancestry Author of books: Kolloid-und dem Ultramikroskop (Colloids and the Ultramicroscope) (1909, non-fiction)Kolloidchemie (Colloidal Chemistry) (1912, non-fiction)Die Chemie von Kolloiden (The Chemistry of Colloids) (1917, non-fiction)Das Kolloide Gold (About the Colloidal Gold) (1925, non-fiction; with Peter A. Thiessen) Do you know something we don't?",
+        "post_evidence": "Submit a correction or make a comment about this profile Copyright ©2019 Soylent Communications."
+      },
+      {
+        "evidence_id": 4,
+        "sentence_id": "18;19",
+        "score": -0.3655709922,
+        "pre_evidence": "His brother, mathematician Karl Zsigmondy (1867-1925), devised Zsigmondy's theorem in 1882, a calculation used in group theory. Arteriosclerosis (hardening of the arteries). Father: Adolf Zsigmondy (dentist, d. 1880)Mother:",
+        "evidence": "Irma von Szakmary ZsigmondyBrother: Karl Zsigmondy (mathematician, b. 27-Mar-1867, d. 14-Oct-1925)Wife: Laura Luise Müller Zsigmondy (m. 1903)Daughter: Annemarie Zsigmondy HuckelDaughter: Käthe Zsigmondy University: BS, Vienna University of Technology (1887) University: PhD, University of Munich (1890)",
+        "post_evidence": "Lecturer: University of Graz (1907-08) Professor: Institute for Inorganic Chemistry, University of Göttingen (1908-29) Schott Glass Manufacturing Company 1897-1900 Nobel Prize for Chemistry 1925 Lunar Crater Zsigmondy (59.7° N, 104.7° W, 65 km diameter) Austrian Ancestry German Ancestry Hungarian Ancestry Author of books: Kolloid-und dem Ultramikroskop (Colloids and the Ultramicroscope) (1909, non-fiction)Kolloidchemie (Colloidal Chemistry) (1912, non-fiction)Die Chemie von Kolloiden (The Chemistry of Colloids) (1917, non-fiction)Das Kolloide Gold"
+      },
+      {
+        "evidence_id": 1,
+        "sentence_id": "9;10",
+        "score": 0.7300716043000001,
+        "pre_evidence": "Search: All Names. Living people. Dead people. Band Names. Book Titles. Movie Titles. Full Text. for.",
+        "evidence": "Richard Zsigmondy AKA Richard Adolf Zsigmondy Born: 1-Apr-1865Birthplace: Vienna, AustriaDied: 23-Sep-1929Location of death: Göttingen, GermanyCause of death: unspecified Remains: Buried, Göttingen City Cemetery, Göttingen, Germany Gender: MaleRace or Ethnicity: WhiteSexual orientation: StraightOccupation: Chemist, Inventor Nationality: AustriaExecutive summary: Ultramicroscope German scientist Richard Zsigmondy won the Nobel Prize for Chemistry in 1925, \"for his demonstration of the heterogeneous nature of colloid solutions (substances consisting of particles larger than atoms but too small to be visible to the naked eye or through conventional microscopes) and for the methods he used, which have since then become fundamental in modern colloid chemistry.\"",
+        "post_evidence": "As a cornerstone of his work, in 1903 he invented the ultramicroscope (also called a black-backdrop microscope), which projects high-intensity illumination at right angles, using scattered light to indicate the presence of particles."
+      },
+      {
+        "evidence_id": 2,
+        "sentence_id": "14;15",
+        "score": -0.0633876622,
+        "pre_evidence": "After attending college Zsigmondy worked for a glass manufacturing company for several years, then quit to pursue his own research in a laboratory at his home, where he designed the ultramicroscope and did much of his early research into colloids.",
+        "evidence": "He entered academia in 1907, and introduced an improved immersion ultramicroscope in 1913. His brother, mathematician Karl Zsigmondy (1867-1925), devised Zsigmondy's theorem in 1882, a calculation used in group theory.",
+        "post_evidence": "Arteriosclerosis (hardening of the arteries). Father: Adolf Zsigmondy (dentist, d. 1880)Mother: Irma von Szakmary ZsigmondyBrother: Karl Zsigmondy (mathematician, b. 27-Mar-1867, d. 14-Oct-1925)Wife: Laura Luise Müller Zsigmondy (m. 1903)Daughter:"
+      }
+    ]
+  },
+  {
+    "claim_id": "Q101016161$793A1293-475B-44B0-9DCF-73DB9C9837FD",
+    "reference_id": "9b4af99ab871962e4111a509fa4498f45691d1ca",
+    "affirmation": "The University of North Carolina at Charlotte Department of History is devoted to the study of history.",
+    "reference_url": "https://history.charlotte.edu/",
+    "g_id": -1,
+    "evidence_list": [
+      {
+        "evidence_id": 3,
+        "sentence_id": "8;9",
+        "score": -0.5633543134,
+        "pre_evidence": "Community. Current Students. Faculty & Staff. Parents & Family. Prospective Students. Campus Resources.",
+        "evidence": "My UNC. Charlotte.",
+        "post_evidence": "Directory. Campus. Events. Library. Prospective Students. About UNC Charlotte. Campus Life. Admissions."
+      },
+      {
+        "evidence_id": 2,
+        "sentence_id": "34;35",
+        "score": -0.3188103735,
+        "pre_evidence": "Student Health Center. Alumni and Friends. Alumni Association. Advancement. Foundation. Make a Gift.",
+        "evidence": "Toggle navigation. Department of History College of Liberal Arts & Sciences.",
+        "post_evidence": "Facebook Twitter. About Us About Us. Our Values. Journals. Photos. Department Newsletter. Giving to History."
+      },
+      {
+        "evidence_id": 4,
+        "sentence_id": "102",
+        "score": -0.565433979,
+        "pre_evidence": "Indigenous communities proclaimed instead “land to its original owners” and sought to link the ruling party discourse on nationalism with their own long-standing demands... Public History students land prestigious internships. April 16, 2021.",
+        "evidence": "This summer, students in our public history program will be gaining valuable experience while also applying the skills and knowledge of the classroom in a real-world environment.",
+        "post_evidence": "Two students, Kaila Dollard and Sylvia Marshall, will hold highly sought after internships with the Smithsonian National Museum of American History."
+      },
+      {
+        "evidence_id": 1,
+        "sentence_id": "114",
+        "score": -0.2716961801,
+        "pre_evidence": "https://uncpress.org/book/9781469662671/no-common-ground/ Tindal named director of Harvard Museums of Science and Culture.",
+        "evidence": "History and Africana Studies graduate and a former Visiting Lecturer.",
+        "post_evidence": "April 14, 2021. https://news.harvard.edu/gazette/story/2021/04/tindal-named-director-of-harvard-museums-of-science-culture/ Volume 7: The Central Powers In Russia's Great War And Revolution: Enemy Visions And Encounters, 1914-22."
+      },
+      {
+        "evidence_id": 0,
+        "sentence_id": "103;104",
+        "score": 0.1118310839,
+        "pre_evidence": "This summer, students in our public history program will be gaining valuable experience while also applying the skills and knowledge of the classroom in a real-world environment.",
+        "evidence": "Two students, Kaila Dollard and Sylvia Marshall, will hold highly sought after internships with the Smithsonian National Museum of American History. Two more students will be making their mark with local organizations – Sydney Johnson at the Charlotte Museum of History, and Kayla Schultz for the Charlotte Pride History Project.",
+        "post_evidence": "Internships are a valuable way for students to gain... No Common Ground. A book by Karen L. Cox. April 14, 2021."
+      }
+    ]
+  },
+  {
+    "claim_id": "Q54834370$690CBB3D-6522-4947-A6AB-62835B12B40A",
+    "reference_id": "72752631cfe33b689c36aabc40387f4e42d32baf",
+    "affirmation": "The Save-A-Pet Adoption Center has a total revenue of 3680174 United States dollars.",
+    "reference_url": "https://www.charitynavigator.org/ein/237304570",
+    "g_id": -1,
+    "evidence_list": [
+      {
+        "evidence_id": 1,
+        "sentence_id": "179",
+        "score": -0.12697106600000002,
+        "pre_evidence": "We changed our in-person 5K fundraiser to a virtual one. We had slightly few participants which was offset by the reduced expenses of not needing a venue.",
+        "evidence": "Our formal dinner and auction gala event of 38 years, became a virtual online auction with a significant reduction in revenue.",
+        "post_evidence": "We were able to add several mini fundraisers to supplement a small portion of lost revenue. Innovations the organization intends to continue permanently after the pandemic: We will continue to do the most successful of our mini fundraisers such as the Mum Sale."
+      },
+      {
+        "evidence_id": 0,
+        "sentence_id": "49",
+        "score": -0.08716604110000001,
+        "pre_evidence": "Dividing these net available assets in the most recent year by a charity's average total expenses, yields the working capital ratio.",
+        "evidence": "We calculate the charity's average total expenses over its three most recent fiscal years.",
+        "post_evidence": "Source: IRS Form 990 Program Expense Growth 1.65% We compute the average annual growth of program expenses using the following formula: [(Yn/Y0)(1/n)]-1, where Y0 is a charity's program expenses in the first year of the interval analyzed, Yn is the charity's program expenses in the most recent year, and n is the interval of years passed between Y0 and Yn."
+      },
+      {
+        "evidence_id": 4,
+        "sentence_id": "156",
+        "score": -0.1651072651,
+        "pre_evidence": "This chart displays the trend of revenue and expenses over the past several years for this organization, as reported on their IRS Form 990.",
+        "evidence": "Revenue Expenses FY2017 FY2018 FY2019 0 1M 2M 3M 4M FY Revenue Expenses FY2017 $3,680,174.00 $1,746,870.00 FY2018 $2,668,872.00 $1,720,320.00 FY2019 $2,991,135.00 $1,958,087.00 Expenses Salary of Key Persons Presented here are this organizations key compensated staff members as identified by our analysts.",
+        "post_evidence": "This compensation data includes salary, cash bonuses and expense accounts and is displayed exactly how it is reported to the IRS."
+      },
+      {
+        "evidence_id": 2,
+        "sentence_id": "180",
+        "score": -0.1314475387,
+        "pre_evidence": "Our formal dinner and auction gala event of 38 years, became a virtual online auction with a significant reduction in revenue.",
+        "evidence": "We were able to add several mini fundraisers to supplement a small portion of lost revenue.",
+        "post_evidence": "Innovations the organization intends to continue permanently after the pandemic: We will continue to do the most successful of our mini fundraisers such as the Mum Sale."
+      },
+      {
+        "evidence_id": 3,
+        "sentence_id": "193;194",
+        "score": -0.1511288285,
+        "pre_evidence": "This beta feature is currently viewable only on desktop or tablet screens. Check back later for updates.",
+        "evidence": "Largest Programs Largest Programs Save-A-Pet, Inc. reported its largest program on its FY 2019 Form 990 as: $1,512,380 Spent in most recent FY 100% Percent of program expenses Animal Shelter Operation   Leadership & Adaptability This score provides an assessment of the organization's leadership capacity, strategic thinking and planning, and ability to innovate or respond to changes in constituent demand/need or other relevant social and economic conditions to achieve the organization's mission.",
+        "post_evidence": "Leadership & Adaptability Score Not Currently Scored Save-A-Pet, Inc. is currently not eligible for a Leadership & Adaptability score because we have not received its L&A survey responses."
+      }
+    ]
+  },
+  {
+    "claim_id": "Q99685431$131E57C9-49B6-43C7-84FC-61426F1AF002",
+    "reference_id": "6d8ce4b1b011d51ea1ca4901fa8456909bc09413",
+    "affirmation": "The International Tax Enforcement (Grenada) Order 2011 applies to the jurisdiction of the United Kingdom.",
+    "reference_url": "https://www.bailii.org/uk/legis/num_reg/2011/uksi_20111687_en_1.html",
+    "g_id": -1,
+    "evidence_list": [
+      {
+        "evidence_id": 0,
+        "sentence_id": "8;9",
+        "score": 0.30312973260000003,
+        "pre_evidence": "[Multidatabase Search] [Help] [Feedback] United Kingdom Statutory Instruments You are here: BAILII >>",
+        "evidence": "Databases >> United Kingdom Statutory Instruments >> The International Tax Enforcement (Grenada) Order 2011 No. 1687 URL: http://www.bailii.org/uk/legis/num_reg/2011/uksi_20111687_en_1.html.",
+        "post_evidence": "[New search] [Printable PDF version] [Help] Statutory Instruments 2011 No. 1687 Taxes The International Tax Enforcement (Grenada) Order 2011 Made 13th July 2011 At the Court at Buckingham Palace, the 13th day of July 2011 Present, The Queen's Most Excellent Majesty in Council"
+      },
+      {
+        "evidence_id": 1,
+        "sentence_id": "14;15",
+        "score": 0.28605645900000004,
+        "pre_evidence": "A draft of this Order was laid before the House of Commons in accordance with section 173(7) of the Finance Act 2006(1) and approved by a resolution of that House.",
+        "evidence": "Accordingly, Her Majesty, in exercise of the powers conferred upon Her by section 173(1) to (3) of the Finance Act 2006, by and with the advice of Her Privy Council, orders as follows- Citation 1. This Order may be cited as the International Tax Enforcement (Grenada) Order 2011.",
+        "post_evidence": "Tax information exchange agreement to have effect 2. It is declared that- (a)the agreement set out in the Schedule to this Order has been made with the Government of Grenada with a view to the exchange of information foreseeably relevant to the administration or enforcement or recovery of the taxes, and debts relating to the taxes, covered by the agreement; and (b)it is expedient that the agreement should have effect."
+      },
+      {
+        "evidence_id": 3,
+        "sentence_id": "12;13",
+        "score": 0.1650277525,
+        "pre_evidence": "The International Tax Enforcement (Grenada) Order 2011 No. 1687 URL: http://www.bailii.org/uk/legis/num_reg/2011/uksi_20111687_en_1.html. [New search] [Printable PDF version]",
+        "evidence": "[Help] Statutory Instruments 2011 No. 1687 Taxes The International Tax Enforcement (Grenada) Order 2011 Made 13th July 2011 At the Court at Buckingham Palace, the 13th day of July 2011 Present, The Queen's Most Excellent Majesty in Council A draft of this Order was laid before the House of Commons in accordance with section 173(7) of the Finance Act 2006(1) and approved by a resolution of that House.",
+        "post_evidence": "Accordingly, Her Majesty, in exercise of the powers conferred upon Her by section 173(1) to (3) of the Finance Act 2006, by and with the advice of Her Privy Council, orders as follows- Citation 1."
+      },
+      {
+        "evidence_id": 2,
+        "sentence_id": "0",
+        "score": 0.27321407200000003,
+        "pre_evidence": "",
+        "evidence": "﻿. The International Tax Enforcement (Grenada) Order 2011 No. 1687.",
+        "post_evidence": "[Home] [Databases] [World Law] [Multidatabase Search] [Help] [Feedback] United Kingdom Statutory Instruments"
+      },
+      {
+        "evidence_id": 4,
+        "sentence_id": "17",
+        "score": -0.3902670741,
+        "pre_evidence": "This Order may be cited as the International Tax Enforcement (Grenada) Order 2011. Tax information exchange agreement to have effect 2.",
+        "evidence": "It is declared that- (a)the agreement set out in the Schedule to this Order has been made with the Government of Grenada with a view to the exchange of information foreseeably relevant to the administration or enforcement or recovery of the taxes, and debts relating to the taxes, covered by the agreement; and (b)it is expedient that the agreement should have effect.",
+        "post_evidence": "Judith Simpson Clerk of the Privy Council Article 2 SCHEDULE EXPLANATORY NOTE (This note is not part of the Order)"
+      }
+    ]
+  },
+  {
+    "claim_id": "Q99685323$E9A6AD36-A34F-4EC5-A285-6D50B23B8331",
+    "reference_id": "77340cf24c8ce0ad15b86f0b82d5aa79f539def4",
+    "affirmation": "The A428 Trunk Road (A1/B1428 Great North Road Roundabout, North of Wyboston, Bedfordshire to B1043 Barford Road Roundabout, St Neots, Cambridgeshire) (Temporary 40 Miles Per Hour Speed Restriction) Order 2011 has a citation of SI 2011 No. 574.",
+    "reference_url": "https://www.bailii.org/uk/legis/num_reg/2011/uksi_2011574_en_1.html",
+    "g_id": -1,
+    "evidence_list": [
+      {
+        "evidence_id": 1,
+        "sentence_id": "12",
+        "score": 0.9998961091,
+        "pre_evidence": "[Help] The A428 Trunk Road (A1/B1428 Great North Road Roundabout, North of Wyboston, Bedfordshire to B1043",
+        "evidence": "Barford Road Roundabout, St Neots, Cambridgeshire) (Temporary 40 Miles Per Hour Speed Restriction) Order 2011 No. 574",
+        "post_evidence": "This item of legislation is only available to download and view as PDF. BAILII: Copyright Policy | Disclaimers |"
+      },
+      {
+        "evidence_id": 2,
+        "sentence_id": "4;5",
+        "score": -0.0147036156,
+        "pre_evidence": "[ Multidatabase Search ] [ Help ] [ Feedback ] United Kingdom Statutory Instruments. You are here: BAILII >> Databases >> United Kingdom Statutory Instruments >>",
+        "evidence": "The A428 Trunk Road (A1/B1428 Great North Road Roundabout, North of Wyboston, Bedfordshire to B1043",
+        "post_evidence": "Barford Road Roundabout, St Neots, Cambridgeshire) (Temporary 40 Miles Per Hour Speed Restriction) Order 2011 No. 574."
+      },
+      {
+        "evidence_id": 0,
+        "sentence_id": "6",
+        "score": 0.99990201,
+        "pre_evidence": "Databases >> United Kingdom Statutory Instruments >> The A428 Trunk Road (A1/B1428 Great North Road Roundabout, North of Wyboston, Bedfordshire to B1043",
+        "evidence": "Barford Road Roundabout, St Neots, Cambridgeshire) (Temporary 40 Miles Per Hour Speed Restriction) Order 2011 No. 574.",
+        "post_evidence": "URL: http://www.bailii.org/uk/legis/num_reg/2011/uksi_2011574_en_1.html. [New search] [Printable PDF version]"
+      },
+      {
+        "evidence_id": 4,
+        "sentence_id": "19",
+        "score": -0.120917879,
+        "pre_evidence": "This item of legislation is only available to download and view as PDF. BAILII: Copyright Policy | Disclaimers | Privacy Policy | Feedback | Donate to BAILII.",
+        "evidence": "URL: http://www.bailii.org/uk/legis/num_reg/2011/uksi_2011574_en_1.html.",
+        "post_evidence": ""
+      },
+      {
+        "evidence_id": 3,
+        "sentence_id": "10;11",
+        "score": -0.017177524,
+        "pre_evidence": "URL: http://www.bailii.org/uk/legis/num_reg/2011/uksi_2011574_en_1.html. [New search] [Printable PDF version]",
+        "evidence": "[Help] The A428 Trunk Road (A1/B1428 Great North Road Roundabout, North of Wyboston, Bedfordshire to B1043",
+        "post_evidence": "Barford Road Roundabout, St Neots, Cambridgeshire) (Temporary 40 Miles Per Hour Speed Restriction) Order 2011 No. 574"
+      }
+    ]
+  },
+  {
+    "claim_id": "Q39036991$49885BC2-79FF-41B9-BBD9-D0C4879A695A",
+    "reference_id": "a276dccde68fef6773ad0624d9eff44b990eb88c",
+    "affirmation": "Rei Ayanami is a character in Magma Diver.",
+    "reference_url": "https://evangelion.fandom.com/wiki/Episode:10?oldid=34324#Overview",
+    "g_id": -1,
+    "evidence_list": [
+      {
+        "evidence_id": 2,
+        "sentence_id": "232;233",
+        "score": -0.3668368161,
+        "pre_evidence": "When Shinji replies that it's about thermal expansion, she once again remarks how simple it is; objects expand when heated, and shrink when cooled.",
+        "evidence": "Once again drawing attention to her chest, Asuka asks Shinji if he thought her breasts would grow larger if heated, an embarrassed Shinji sputters \"How would I know?!,\" leading a frustrated Asuka to turn away, seeing him boring. However, as soon as Shinji starts looking at Rei, Asuka tries to attract his attention again, calling \"Look at me!,\" as she dives into the pool.",
+        "post_evidence": "Sandalphon before hatching (Embryo state) Meanwhile, the Eighth Angel, Sandalphon, has been spotted in the crater of Mount Asama, an active volcano."
+      },
+      {
+        "evidence_id": 3,
+        "sentence_id": "39;40",
+        "score": -0.3929847777,
+        "pre_evidence": "Neon Genesis Evangelion: Shinji Ikari Raising Project. Directory. Characters. Shinji Ikari. Misato Katsuragi.",
+        "evidence": "Asuka Langley Soryu. Rei Ayanami.",
+        "post_evidence": "Mari Illustrious Makinami. Gendo Ikari. Ryoji Kaji. Kaworu Nagisa. Angels. Adam. Lilith. Ramiel. Leliel."
+      },
+      {
+        "evidence_id": 4,
+        "sentence_id": "139;140",
+        "score": -0.3929847777,
+        "pre_evidence": "Neon Genesis Evangelion: Shinji Ikari Raising Project. Directory. Characters. Shinji Ikari. Misato Katsuragi.",
+        "evidence": "Asuka Langley Soryu. Rei Ayanami.",
+        "post_evidence": "Mari Illustrious Makinami. Gendo Ikari. Ryoji Kaji. Kaworu Nagisa. Angels. Adam. Lilith. Ramiel. Leliel."
+      },
+      {
+        "evidence_id": 1,
+        "sentence_id": "216;217",
+        "score": -0.0992942527,
+        "pre_evidence": "Honest Game Trailers | Deathloop. Recommended. Honest Game Trailers | Deathloop. X. Advertisement. Overview.",
+        "evidence": "The Evangelion pilots (save for Rei) are excited about their upcoming class trip to Okinawa Island, but they are upset to learn that they cannot leave Tokyo-3, since they have to be on standby in case of an Angel attack. A dormant Angel, Sandalphon, is discovered in an embryonic stage nesting deep in the magma of an active volcano, and in the hopes of gaining greater insight into the Angels, Asuka is sent to capture it by lowering Unit-02 into the magma, while it wears a special giant coolant suit for protection.",
+        "post_evidence": "However, the Angel soon awakes and advances beyond its embryonic stage, forcing Asuka to battle Sandalphon while deep beneath the surface of the magma."
+      },
+      {
+        "evidence_id": 0,
+        "sentence_id": "242;243",
+        "score": -0.0396295004,
+        "pre_evidence": "Asuka volunteers for the mission, but tries to back out when she realizes that the D-Type Equipment she and her Eva will be wearing resembles a fat suit.",
+        "evidence": "She is especially distressed when her beloved Kaji sees her. When Rei tries to volunteer to take Asuka's place in Unit-02, Asuka angrily cuts her short and accepts the mission after all.",
+        "post_evidence": "Unit-02 stabbing Sandalphon. There is then a scene where Kaji and a mysterious woman holding a puppy discuss the dangers of the mission."
+      }
+    ]
+  },
+  {
+    "claim_id": "Q54488972$5b64ba4c-4849-9c27-9403-0a0d8d90d4fc",
+    "reference_id": "19935de3f35744424456818ed50c5a5de187c526",
+    "affirmation": "The Subtle Art of Not Giving a Fuck was published in New York City.",
+    "reference_url": "https://www.loc.gov/item/2016011724/",
+    "g_id": -1,
+    "evidence_list": [
+      {
+        "evidence_id": 1,
+        "sentence_id": "108;109",
+        "score": 0.9554470778,
+        "pre_evidence": "The Subtle Art of Not Giving a Fuck: A Counterintuitive Approach to Living a Good Life. New York, NY: HarperOne. MLA citation style: Manson, Mark, Author.",
+        "evidence": "The Subtle Art of Not Giving a Fuck: A Counterintuitive Approach to Living a Good Life. New York, NY: HarperOne, 2016.",
+        "post_evidence": "More Books/Printed Material like this. Book/Printed Material. Discover your purpose: how to use the 5 life purpose profiles to unlock your hidden..."
+      },
+      {
+        "evidence_id": 2,
+        "sentence_id": "105;106",
+        "score": 0.5858201981,
+        "pre_evidence": "The Subtle Art of Not Giving a Fuck: A Counterintuitive Approach to Living a Good Life. New York, NY: HarperOne, 2016. APA citation style: Manson, M. (2016)",
+        "evidence": "The Subtle Art of Not Giving a Fuck: A Counterintuitive Approach to Living a Good Life. New York, NY: HarperOne.",
+        "post_evidence": "MLA citation style: Manson, Mark, Author. The Subtle Art of Not Giving a Fuck: A Counterintuitive Approach to Living a Good Life."
+      },
+      {
+        "evidence_id": 0,
+        "sentence_id": "102;103",
+        "score": 0.9554470778,
+        "pre_evidence": "Citations are generated automatically from bibliographic data as a convenience, and may not be complete or accurate. Chicago citation style: Manson, Mark, Author.",
+        "evidence": "The Subtle Art of Not Giving a Fuck: A Counterintuitive Approach to Living a Good Life. New York, NY: HarperOne, 2016.",
+        "post_evidence": "APA citation style: Manson, M. (2016) The Subtle Art of Not Giving a Fuck: A Counterintuitive Approach to Living a Good Life."
+      },
+      {
+        "evidence_id": 4,
+        "sentence_id": "59",
+        "score": -0.11472306400000001,
+        "pre_evidence": "While money is nice, caring about what you do with your life is better, because true wealth is about experience.",
+        "evidence": "A much-needed grab-you-by-the-shoulders-and-look-you-in-the-eye moment of real-talk, filled with entertaining stories and profane, ruthless humor, The Subtle Art of Not Giving a F**k is a refreshing slap for a generation to help them lead contented, grounded lives\"-- Provided by publisher.",
+        "post_evidence": "Contributor Names. Manson, Mark, author. Created / Published. New York, NY: HarperOne, 2016. Subject Headings."
+      },
+      {
+        "evidence_id": 3,
+        "sentence_id": "62;63",
+        "score": 0.0133438231,
+        "pre_evidence": "A much-needed grab-you-by-the-shoulders-and-look-you-in-the-eye moment of real-talk, filled with entertaining stories and profane, ruthless humor, The Subtle Art of Not Giving a F**k is a refreshing slap for a generation to help them lead contented, grounded lives\"-- Provided by publisher. Contributor Names. Manson, Mark, author.",
+        "evidence": "Created / Published. New York, NY: HarperOne, 2016.",
+        "post_evidence": "Subject Headings. - Conduct of life. - Self-realization. - SELF-HELP / Motivational & Inspirational."
+      }
+    ]
+  },
+  {
+    "claim_id": "Q100340021$3F60F24A-34B4-433B-8375-4E22669D608B",
+    "reference_id": "41f5efe704e7c88a06a4eb3760fed8245447090b",
+    "affirmation": "Raiffeisen Beograd Loan for SMEs is in the line of credit sector.",
+    "reference_url": "https://www.eib.org/en/projects/pipelines/all/20080816",
+    "g_id": -1,
+    "evidence_list": [
+      {
+        "evidence_id": 4,
+        "sentence_id": "283;284",
+        "score": -0.7754600644,
+        "pre_evidence": "Make available access to long-term funds at affordable interest rates to sectors of economy with least availability of financing – small and medium size enterprise and local authorities.",
+        "evidence": "Sector(s) Credit lines. Proposed EIB finance (Approximate amount) EUR 40 million.",
+        "post_evidence": "Total cost (Approximate amount) Not applicable. Environmental aspects. The financial intermediaries will be requested to ensure compliance of projects with EU directives."
+      },
+      {
+        "evidence_id": 1,
+        "sentence_id": "64;65",
+        "score": -0.0644956082,
+        "pre_evidence": "Overview. back. Loans. back. Overview. Loans for the public sector. Framework loans for the public sector.",
+        "evidence": "Loans for the private sector. Intermediated loans for SMEs, mid-caps and other priorities.",
+        "post_evidence": "Microfinance. Equity. back. Overview. Venture debt. Investments in infrastructure and environmental funds."
+      },
+      {
+        "evidence_id": 2,
+        "sentence_id": "279;280",
+        "score": -0.1838037223,
+        "pre_evidence": "Promoter – Financial Intermediary. Raiffeisen Banka a.d. Beograd. Raiffeisen Leasing d.o.o. Location. Serbia.",
+        "evidence": "Description. Credit line for leasing or Medium and Long Term financing of SME projects, small and medium scale infrastructure projects promoted by local authorities and any size industrial investments in the fields of the knowledge economy, energy and environmental protection.",
+        "post_evidence": "Objectives. Make available access to long-term funds at affordable interest rates to sectors of economy with least availability of financing – small and medium size enterprise and local authorities."
+      },
+      {
+        "evidence_id": 0,
+        "sentence_id": "271",
+        "score": 0.0968286991,
+        "pre_evidence": "Breakdown by region. Breakdown by sector. Recently approved projects. Projects to be financed – explanatory notes.",
+        "evidence": "Raiffeisen Beograd Loan for SMEs.",
+        "post_evidence": "Reference: 20080816. Release date: 25 March 2009. Promoter – Financial Intermediary. Raiffeisen Banka a.d. Beograd."
+      },
+      {
+        "evidence_id": 3,
+        "sentence_id": "71;72",
+        "score": -0.29049792890000004,
+        "pre_evidence": "Intermediated loans for SMEs, mid-caps and other priorities. Microfinance. Equity. back. Overview. Venture debt.",
+        "evidence": "Investments in infrastructure and environmental funds. Investments in SME and mid-cap funds.",
+        "post_evidence": "Guarantees. back. Overview. Credit enhancement for project finance. Guarantees in support of SMEs, mid-caps and other objectives."
+      }
+    ]
+  },
+  {
+    "claim_id": "Q53493661$88566086-4D1E-4637-9690-B140323B04F5",
+    "reference_id": "7beb8d13b3df6308010bc20665127f8d11cf7797",
+    "affirmation": "Henry Thornton was a member of the 1529-36 Parliament.",
+    "reference_url": "https://www.historyofparliamentonline.org/volume/1509-1558/member/thornton-henry-1484-1533",
+    "g_id": -1,
+    "evidence_list": [
+      {
+        "evidence_id": 1,
+        "sentence_id": "53;54",
+        "score": 0.056421835000000004,
+        "pre_evidence": "There were small bequests to Thornton’s nephew and niece, to John Portman, Humphrey Walrond, and servants.",
+        "evidence": "The Tynbrys were executors and residuary legatees, with Sir John Fitzjames†, William Portman, and Guthlac Overton, auditor of St. John’s, as overseers.6 To judge from the witnesses Thornton made his will in London where the fifth session of the Parliament was approaching its close: as the will was to be proved on 23 Apr. 1533 he may have died before the session ended on 7 Apr., perhaps a victim of the epidemic which claimed at least six Members. There is no record of a by-election, although it is possible that Alexander Popham was chosen to take Thornton’s place.",
+        "post_evidence": "Ref Volumes: 1509-1558 Author: Roger Virgoe Notes 1. Did not serve for the full duration of the Parliament."
+      },
+      {
+        "evidence_id": 3,
+        "sentence_id": "49",
+        "score": -0.0931389406,
+        "pre_evidence": "If the ‘Mr. Paulet’ mentioned in the Bridgwater receiver’s accounts during the 1530s was the courtier Sir William Paulet, then Thornton who moved in similar circles and who owned property near Paulet’s seat may have been able to rely on his support to take the senior place. On 21 Nov. 1530 Thornton was licensed to perform his comptrollership by deputy.",
+        "evidence": "The last year of his life was mainly taken up with the dispute over the abbey of Muchelney which he seems to have taken very seriously as affecting his whole position and prestige in the county; he enlisted Cromwell’s influence to procure the election of his candidate, who however had to pay a large sum for the privilege.5 Thornton made his will on 1 Apr. 1533.",
+        "post_evidence": "The only land mentioned is the farm at Buckland, but Thornton also had leases of Ashe manor near Basingstoke, Hampshire, and of the manor of Halse, Somerset, belonging to the order of St. John."
+      },
+      {
+        "evidence_id": 2,
+        "sentence_id": "39;40",
+        "score": -0.0586100072,
+        "pre_evidence": "Related Resources 1509-1558 Members 1509-1558 Constituencies 1509-1558 Parliaments 1509-1558 Surveys. Previous Biography Next Biography.",
+        "evidence": "Constituency Dates BRIDGWATER 1 1529 Family and Education b. by 1484. m. 2da.2 Offices Held Yeoman of the crown by 1505, of the chamber by 1509; keeper, Ilchester gaol, Som. by 1505; bailiff and parker, Curry Mallet, Som. 1509-23; serjeant-at-arms 1513-d.; comptroller of customs, Bridgwater bef.",
+        "post_evidence": "1529; j.p. Som. 1531-d.3 Biography Henry Thornton’s parentage and place of origin are unknown but he was probably from Somerset."
+      },
+      {
+        "evidence_id": 4,
+        "sentence_id": "41",
+        "score": -0.1504800916,
+        "pre_evidence": "m. 2da.2 Offices Held Yeoman of the crown by 1505, of the chamber by 1509; keeper, Ilchester gaol, Som. by 1505; bailiff and parker, Curry Mallet, Som. 1509-23; serjeant-at-arms 1513-d.; comptroller of customs, Bridgwater bef.",
+        "evidence": "1529;",
+        "post_evidence": "j.p. Som. 1531-d.3 Biography Henry Thornton’s parentage and place of origin are unknown but he was probably from Somerset."
+      },
+      {
+        "evidence_id": 0,
+        "sentence_id": "45;46",
+        "score": 0.24694418910000002,
+        "pre_evidence": "He was no longer keeper when in 1512 he took out a general pardon as yeoman aliasgentleman alias pardoner, but he was still a yeoman of the chamber when granted in 1509 the bailiwick and parkership of Curry Mallet.",
+        "evidence": "Four years later he was promoted to be one of the serjeants-at-arms, and the next 20 were to see him become a fairly wealthy and influential man in Somerset.4 The return of two customs officials in Thornton and Hugh Trotter for Bridgwater in 1529 was probably favoured by the town’s recorder, Baldwin Malet, who was unable to take the recorder’s accustomed place in the House owing to his appointment during the summer as solicitor-general. Neither Member appears to have lived in the town and Thornton, at least, was a crown agent who was later to be closely in touch with Cromwell over the election of his nominee as abbot of Muchelney.",
+        "post_evidence": "If the ‘Mr. Paulet’ mentioned in the Bridgwater receiver’s accounts during the 1530s was the courtier Sir William Paulet, then Thornton who moved in similar circles and who owned property near Paulet’s seat may have been able to rely on his support to take the senior place."
+      }
+    ]
+  },
+  {
+    "claim_id": "Q2733261$160F693D-6C7D-436A-91D6-D692E8663F60",
+    "reference_id": "97ffafe0c55a72204c595ade97dd724892157ffe",
+    "affirmation": "Alfred Bertholet died on 24/08/1951.",
+    "reference_url": "https://www.britannica.com/biography/Alfred-Bertholet",
+    "g_id": -1,
+    "evidence_list": [
+      {
+        "evidence_id": 1,
+        "sentence_id": "31",
+        "score": 0.9998122454,
+        "pre_evidence": "The Editors of Encyclopaedia Britannica. •. Edit History. Born: November 9, 1868. Basel. Switzerland. ...",
+        "evidence": "(Show more) Died: August 24, 1951 (aged 82) Switzerland. ...",
+        "post_evidence": "(Show more) Subjects Of Study: Bible. Hebrew Bible. Old Testament. phenomenology of religion. religion. ..."
+      },
+      {
+        "evidence_id": 3,
+        "sentence_id": "122;123",
+        "score": -0.0422849134,
+        "pre_evidence": "Select Citation Style. MLA. APA. Chicago Manual of Style. Britannica, The Editors of Encyclopaedia. \"Alfred Bertholet\".",
+        "evidence": "Encyclopedia Britannica, 5 Nov. 2021, https://www.britannica.com/biography/Alfred-Bertholet. Accessed 8 March 2022.",
+        "post_evidence": "Copy Citation. Share. Share to social media. Facebook. Twitter. URL. https://www.britannica.com/biography/Alfred-Bertholet."
+      },
+      {
+        "evidence_id": 0,
+        "sentence_id": "37;38",
+        "score": 0.9998461604000001,
+        "pre_evidence": "(Show more) Subjects Of Study: Bible. Hebrew Bible. Old Testament. phenomenology of religion. religion. ...",
+        "evidence": "(Show more) See all related content →. Alfred Bertholet, (born Nov. 9, 1868, Basel, Switz.—died Aug. 24, 1951, Münsterlingen), Protestant Old Testament scholar, who also wrote on the phenomenology of religion. After serving as pastor of the German-Dutch church at Leghorn (Livorno) for 18 months, he took his doctorate in Basel (1895) and taught there (1896–1912) and later in Tübingen (1913), Göttingen (1914), and Berlin (1928–39).",
+        "post_evidence": "In biblical criticism he moved progressively toward the school of comparative religion. His Apokryphen und Pseudepigraphen (1906; “Apocrypha and Pseudepigraphia”) was an important contribution to Jewish literary history, and the second volume of Biblische Theologie (1911; “Biblical Theology”), conceived as a history of Old Testament religion, broke new ground."
+      },
+      {
+        "evidence_id": 2,
+        "sentence_id": "40;41",
+        "score": 0.0365230739,
+        "pre_evidence": "After serving as pastor of the German-Dutch church at Leghorn (Livorno) for 18 months, he took his doctorate in Basel (1895) and taught there (1896–1912) and later in Tübingen (1913), Göttingen (1914), and Berlin (1928–39). In biblical criticism he moved progressively toward the school of comparative religion.",
+        "evidence": "His Apokryphen und Pseudepigraphen (1906; “Apocrypha and Pseudepigraphia”) was an important contribution to Jewish literary history, and the second volume of Biblische Theologie (1911; “Biblical Theology”), conceived as a history of Old Testament religion, broke new ground. His works on the history of religion, such as Dynamismus und Personalismus in der Seelenauffassung (1930; “Dynamism and Personalism in the Knowledge of the Soul”), Götterspaltung und Göttervereinigung (1933; “The Division and the Unification of Gods”), and Das Geschlecht der Gottheit (1934; “Sex in Godhood”), also are marked by immense care in the collection of material and by the skill with which problems are laid bare and solutions to them offered.",
+        "post_evidence": "religion. Table of Contents. Introduction. Fast Facts. Related Content. Media. Videos. Images. More."
+      },
+      {
+        "evidence_id": 4,
+        "sentence_id": "28",
+        "score": -0.0583261065,
+        "pre_evidence": "More. Give Feedback. External Websites. By. The Editors of Encyclopaedia Britannica. •. Edit History.",
+        "evidence": "Born: November 9, 1868.",
+        "post_evidence": "Basel. Switzerland. ... (Show more) Died: August 24, 1951 (aged 82) Switzerland. ... (Show more) Subjects Of Study: Bible."
+      }
+    ]
+  },
+  {
+    "claim_id": "Q99607134$2818F414-8F79-4677-8D9F-AD9B7E977A4A",
+    "reference_id": "74188de4f031ca41e7927959f818816dbdfc29af",
+    "affirmation": "The Value Added Tax (Section 55A) (Specified Services and Excepted Supplies) Order 2016 was published in 2016.",
+    "reference_url": "https://www.bailii.org/uk/legis/num_reg/2016/uksi_201612_en_1.html",
+    "g_id": -1,
+    "evidence_list": [
+      {
+        "evidence_id": 4,
+        "sentence_id": "34;35",
+        "score": 0.1819861382,
+        "pre_evidence": "Mel Stride David Evennett Two of the Lords Commissioners of Her Majesty's Treasury 7th January 2016 EXPLANATORY NOTE (This note is not part of the Order)",
+        "evidence": "This Order, which has effect in relation to supplies made on or after the 1st February 2016, applies a reverse charge to specified services of a kind used in missing trader intra-community fraud and excepts some supplies from that charge. Value added tax, as a general rule, requires the supplier of goods or services to account for VAT on those supplies.",
+        "post_evidence": "Section 55A (customers to account for tax on supplies of goods or services of a kind used in missing trader intra-community fraud) of the Value Added Tax Act 1994 (c. 23) requires the recipient, not the supplier, to account for and pay tax on the supply of goods and services which are of a description specified in an order made by the Treasury for that purpose."
+      },
+      {
+        "evidence_id": 1,
+        "sentence_id": "10",
+        "score": 0.9998281002,
+        "pre_evidence": "[Feedback] United Kingdom Statutory Instruments You are here: BAILII >> Databases >> United Kingdom Statutory Instruments >>",
+        "evidence": "The Value Added Tax (Section 55A) (Specified Services and Excepted Supplies) Order 2016 No. 12 URL: http://www.bailii.org/uk/legis/num_reg/2016/uksi_201612_en_1.html.",
+        "post_evidence": "[New search] [Printable PDF version] [Help] Statutory Instruments 2016 No. 12 Value Added Tax The Value Added Tax (Section 55A) (Specified Services and Excepted Supplies)"
+      },
+      {
+        "evidence_id": 3,
+        "sentence_id": "14;15",
+        "score": 0.9198604226,
+        "pre_evidence": "The Value Added Tax (Section 55A) (Specified Services and Excepted Supplies) Order 2016 No. 12 URL: http://www.bailii.org/uk/legis/num_reg/2016/uksi_201612_en_1.html. [New search] [Printable PDF version] [Help] Statutory Instruments 2016",
+        "evidence": "No. 12 Value Added Tax The Value Added Tax (Section 55A) (Specified Services and Excepted Supplies) Order 2016 Made 7th January 2016 Laid before the House of Commons 11th January 2016",
+        "post_evidence": "Coming into force 1st February 2016 The Treasury, in exercise of the powers conferred by section 55A(9), (10), (11) and (14) of the Value Added Tax Act 1994(1), make the following Order: Citation, commencement and effect 1.-(1)"
+      },
+      {
+        "evidence_id": 0,
+        "sentence_id": "1",
+        "score": 0.9998552203000001,
+        "pre_evidence": "﻿.",
+        "evidence": "The Value Added Tax (Section 55A) (Specified Services and Excepted Supplies) Order 2016 No. 12.",
+        "post_evidence": "[Home] [Databases] [World Law] [Multidatabase Search] [Help] [Feedback] United Kingdom Statutory Instruments"
+      },
+      {
+        "evidence_id": 2,
+        "sentence_id": "18",
+        "score": 0.9901242852000001,
+        "pre_evidence": "The Treasury, in exercise of the powers conferred by section 55A(9), (10), (11) and (14) of the Value Added Tax Act 1994(1), make the following Order: Citation, commencement and effect 1.-(1)",
+        "evidence": "This Order may be cited as the Value Added Tax (Section 55A) (Specified Services and Excepted Supplies) Order 2016.",
+        "post_evidence": "(2) This Order comes into force on 1st February 2016 and has effect in relation to supplies made on or after that date."
+      }
+    ]
+  },
+  {
+    "claim_id": "Q56758851$DE595726-582A-47B8-8B4F-839D884FC5FA",
+    "reference_id": "93b6dd98bd5ad2d6d8dd40746cbf4ac688d424f0",
+    "affirmation": "The General Insurance Supervisory Levy Imposition Act 1998 was amended by the Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999.",
+    "reference_url": "https://www.legislation.gov.au/Series/C2004A00316/Amendments",
+    "g_id": -1,
+    "evidence_list": [
+      {
+        "evidence_id": 1,
+        "sentence_id": "83;84",
+        "score": -0.0664656088,
+        "pre_evidence": "C2010A00082 No. 82, 2010. General Insurance Supervisory Levy Imposition Amendment Act 2006. C2006A00042",
+        "evidence": "No. 42, 2006. General Insurance Supervisory Levy Imposition Amendment Act 2005.",
+        "post_evidence": "C2005A00015 No. 15, 2005. Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999."
+      },
+      {
+        "evidence_id": 3,
+        "sentence_id": "78",
+        "score": -0.1820681691,
+        "pre_evidence": "General Insurance Supervisory Levy Imposition Amendment Act 2020. C2020A00057 No. 57, 2020. Statute Law Revision Act (No. 2) 2015. C2015A00145 No. 145, 2015.",
+        "evidence": "Financial Sector Legislation Amendment (Prudential Refinements and Other Measures) Act 2010.",
+        "post_evidence": "C2010A00082 No. 82, 2010. General Insurance Supervisory Levy Imposition Amendment Act 2006. C2006A00042"
+      },
+      {
+        "evidence_id": 2,
+        "sentence_id": "80;81",
+        "score": -0.114841491,
+        "pre_evidence": "Financial Sector Legislation Amendment (Prudential Refinements and Other Measures) Act 2010. C2010A00082",
+        "evidence": "No. 82, 2010. General Insurance Supervisory Levy Imposition Amendment Act 2006.",
+        "post_evidence": "C2006A00042 No. 42, 2006. General Insurance Supervisory Levy Imposition Amendment Act 2005. C2005A00015"
+      },
+      {
+        "evidence_id": 4,
+        "sentence_id": "75",
+        "score": -0.2998342216,
+        "pre_evidence": "Title RegisterId Number. General Insurance Supervisory Levy Imposition Amendment Act 2020. C2020A00057 No. 57, 2020.",
+        "evidence": "Statute Law Revision Act (No. 2) 2015.",
+        "post_evidence": "C2015A00145 No. 145, 2015. Financial Sector Legislation Amendment (Prudential Refinements and Other Measures) Act 2010."
+      },
+      {
+        "evidence_id": 0,
+        "sentence_id": "87",
+        "score": 0.9996036291,
+        "pre_evidence": "No. 42, 2006. General Insurance Supervisory Levy Imposition Amendment Act 2005. C2005A00015 No. 15, 2005.",
+        "evidence": "Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999.",
+        "post_evidence": "C2004A00435 No. 44, 1999."
+      }
+    ]
+  },
+  {
+    "claim_id": "Q56668695$496197BC-8D27-480C-B997-8623B9509E2C",
+    "reference_id": "662c69fe6778bfe3de20b091164edb5de697b2bf",
+    "affirmation": "Dun nan Gall Broch, 215m SW of Craigmore, Isle of Mull is designated as a scheduled monument.",
+    "reference_url": "http://portal.historicenvironment.scot/designation/SM13687",
+    "g_id": -1,
+    "evidence_list": [
+      {
+        "evidence_id": 3,
+        "sentence_id": "62;63",
+        "score": 0.5142043233,
+        "pre_evidence": "Dun nan Gall, is notable among the brochs on this island because of its state of preservation and its well defined and complex internal features.",
+        "evidence": "This monument is significant as an upstanding and the one of the best preserved examples of a broch on Mull. Other examples including Dun Aisgain (Canmore ID 21807) 6km west northwest and Dun Bhuirg (scheduled monument reference SM2348, Canmore ID 21997) 17km south.",
+        "post_evidence": "There is therefore potential for comparative study on a local and national scale to better understand the function of such monuments, their interrelationship and the significance of their placing within the landscape, in particular in relation to our understanding of Iron Age social hierarchy, changing settlement patterns and systems of inheritance."
+      },
+      {
+        "evidence_id": 4,
+        "sentence_id": "95;96",
+        "score": 0.48185595870000003,
+        "pre_evidence": "Scheduled monument records provide an indication of the national importance of the scheduled monument which has been identified by the description and map.",
+        "evidence": "The description and map (see ‘legal documents’ above) showing the scheduled area is the designation of the monument under the Ancient Monuments and Archaeological Areas Act 1979. The statement of national importance and additional information provided are supplementary and provided for general information purposes only.",
+        "post_evidence": "Historic Environment Scotland accepts no liability for any loss or damages arising from reliance on any inaccuracies within the statement of national importance or additional information."
+      },
+      {
+        "evidence_id": 0,
+        "sentence_id": "7;8",
+        "score": 0.9998599887,
+        "pre_evidence": "Skip to content. Historic Environment Scotland Portal. Menu. Home. Search. Downloads. Back to Results.",
+        "evidence": "Scheduled Monument. Dun nan Gall Broch, 215m SW of Craigmore, Isle of Mull SM13687.",
+        "post_evidence": "Status: Designated. Jump To: Documents. Summary. Description. Statement. References. Related Decisions."
+      },
+      {
+        "evidence_id": 2,
+        "sentence_id": "102;103",
+        "score": 0.6219674945,
+        "pre_evidence": "Earlier records will usually be brief. Some information will not have been recorded and the map will not be to current standards.",
+        "evidence": "Even if what is described and what is mapped has changed, the monument is still scheduled. Scheduled monument consent is required to carry out certain work, including repairs, to scheduled monuments.",
+        "post_evidence": "Applications for scheduled monument consent are made to us. We are happy to discuss your proposals with you before you apply and we do not charge for advice or consent."
+      },
+      {
+        "evidence_id": 1,
+        "sentence_id": "89;90",
+        "score": 0.939052999,
+        "pre_evidence": "Dun nan Gall Broch, 215m SW of Craigmore, Isle of Mull 300023497. Case Type Designation Enquiry Status Complete. About Scheduled Monuments.",
+        "evidence": "Historic Environment Scotland is responsible for designating sites and places at the national level. These designations are Scheduled monuments, Listed buildings, Inventory of gardens and designed landscapes and Inventory of historic battlefields.",
+        "post_evidence": "We make recommendations to the Scottish Government about historic marine protected areas, and the Scottish Ministers decide whether to designate."
+      }
+    ]
+  },
+  {
+    "claim_id": "q6307756$1118B26F-E8DC-47D4-BE36-8EFCB00F35FF",
+    "reference_id": "118c61451a28bc22ab85ed64d155cdb6243fe02b",
+    "affirmation": "Juliana Horatia Ewing was born on 03/08/1841.",
+    "reference_url": "http://www.biographi.ca/en/bio/gatty_juliana_horatia_11E.html",
+    "g_id": -1,
+    "evidence_list": [
+      {
+        "evidence_id": 4,
+        "sentence_id": "70;71",
+        "score": -0.0807546303,
+        "pre_evidence": "Marghanita Laski, Mrs. Ewing, Mrs. Molesworth and Mrs. Hodgson Burnett (London, 1950). Christabel Maxwell, Mrs Gatty and Mrs Ewing (London, 1949).",
+        "evidence": "[M. O.] Oliphant et al., Women novelists of Queen Victoria’s reign: a book of appreciations (London, 1897), 298–312. A. I. Hazeltine, “Aunt Judy: Mrs. Gatty and Mrs. Ewing,” Horn Book Magazine (Boston), 16 (1940): 320–30, 457–66. “Juliana Ewing’s world: morality with fun; interpreter of Victorian childhood,” Times Literary Supplement (London), 9 Aug. 1941: 380.",
+        "post_evidence": "Marjorie Thompson, “Mrs. Ewing in Fredericton,” Atlantic Advocate (Fredericton), 55 (1964–65), no.6: 38–42."
+      },
+      {
+        "evidence_id": 0,
+        "sentence_id": "21;22",
+        "score": 0.4592724442,
+        "pre_evidence": "The Acadians For Educators Exploring the Explorers The War of 1812  Canada’s Wartime Prime Ministers The First World War Back to top. OK. Cancel. OK. Source: Courtesy of Wikimedia Commons.",
+        "evidence": "GATTY, JULIANA HORATIA (Ewing), author; b. 3 Aug. 1841 at Ecclesfield (South Yorkshire), England, daughter of Alfred Gatty, the vicar of Ecclesfield, and Margaret Scott, a well-known children’s writer; m. 1 June 1867 Alexander Ewing, and they had no children; d. 13 May 1885 at Bath and was buried at Trull, near Taunton, England.",
+        "post_evidence": "Juliana Horatia Gatty was educated at home, as were her three sisters. Stories by Hans Christian Andersen, the brothers Grimm, and Frederick Marryat were among those read and remembered by the Gatty children."
+      },
+      {
+        "evidence_id": 3,
+        "sentence_id": "27;28",
+        "score": -0.035253856300000004,
+        "pre_evidence": "As well as acting as the family story-teller, Juliana promoted family theatricals and presided over their imaginative games.",
+        "evidence": "Juliana’s earliest literary involvement was as the editor and “principal contributor” to an unpublished family magazine; it continued from 1856 until the early 1870s under various titles but was known mainly as “The Gunpowder Plot Magazine.” Her first published story, “A bit of green,” appeared in Charlotte Mary Yonge’s Monthly Packet in July 1861; it was also one of the stories in her first book, Melchior’s dream and other tales (1862), illustrated by her elder sister and edited by her mother.",
+        "post_evidence": "Most of her subsequent stories and verses were to appear first in Aunt Judy’s Magazine. Shortly after her marriage on 1 June 1867, Juliana Horatia Ewing, as her name would appear on future literary efforts, sailed for Canada with her husband."
+      },
+      {
+        "evidence_id": 1,
+        "sentence_id": "30;31",
+        "score": 0.0322745293,
+        "pre_evidence": "Her first published story, “A bit of green,” appeared in Charlotte Mary Yonge’s Monthly Packet in July 1861; it was also one of the stories in her first book, Melchior’s dream and other tales (1862), illustrated by her elder sister and edited by her mother. Most of her subsequent stories and verses were to appear first in Aunt Judy’s Magazine.",
+        "evidence": "Shortly after her marriage on 1 June 1867, Juliana Horatia Ewing, as her name would appear on future literary efforts, sailed for Canada with her husband. Major Ewing, attached to the 22nd Foot, was posted in Fredericton where the couple remained until their return to England in October 1869.",
+        "post_evidence": "It is clear in her many letters home that, although occasionally homesick, Juliana enjoyed her life in Fredericton, where she lived initially in a large home she named Reka Dom, meaning “house by the river.”"
+      },
+      {
+        "evidence_id": 2,
+        "sentence_id": "11",
+        "score": -0.0240511429,
+        "pre_evidence": "Hide Sidebar First Paragraph Bibliography Images Find Out More How to cite Back to top. ▲ DCB/DBC News New Biographies Minor Corrections Biography of the Day.",
+        "evidence": "LIND, FRANCIS THOMAS – Volume XIV (1911-1920) b. 9 March 1879 in Betts Cove, Nfld.",
+        "post_evidence": "Confederation Responsible Government Sir John A. Macdonald From the Red River Settlement to Manitoba (1812–70)"
+      }
+    ]
+  },
+  {
+    "claim_id": "Q881301$29BA41C5-A7B0-4878-AEA5-82FD1D970B85",
+    "reference_id": "99e42300098c2ff31bdaffe9021e93aeaabae7f4",
+    "affirmation": "David Pryor was a United States representative.",
+    "reference_url": "https://bioguide.congress.gov/search/bio/P000556",
+    "g_id": -1,
+    "evidence_list": [
+      {
+        "evidence_id": 2,
+        "sentence_id": "13;14",
+        "score": -0.3621133268,
+        "pre_evidence": "The 98th United States Congress The 99th United States Congress The 100th United States Congress The 101st United States Congress The 102nd United States Congress",
+        "evidence": "The 103rd United States Congress The 104th United States Congress Bibliography Extended Bibliography Blair, Diane D. \"The Big Three of Late Twentieth-Century Arkansas Politics: Dale Bumpers, Bill Clinton, and David Pryor.\" Arkansas Historical Quarterly 54 (Spring 1995): 53-79.",
+        "post_evidence": "Fenno, Richard, Jr. Senators on the Campaign Trail: The Politics of Representation. Norman: University of Oklahoma Press, 1992."
+      },
+      {
+        "evidence_id": 4,
+        "sentence_id": "16;17",
+        "score": -0.9896023273000001,
+        "pre_evidence": "Arkansas Historical Quarterly 54 (Spring 1995): 53-79. Fenno, Richard, Jr. Senators on the Campaign Trail: The Politics of Representation.",
+        "evidence": "Norman: University of Oklahoma Press, 1992. Pryor, David, with Don Harrell.",
+        "post_evidence": "A Pryor Commitment: The Autobiography of David Pryor. Little Rock: Butler Center Books, 2008. Research Collections University of Arkansas Special Collections Fayetteville, Arkansas Papers: Ca. 1940-1998."
+      },
+      {
+        "evidence_id": 3,
+        "sentence_id": "18;19",
+        "score": -0.7186831236,
+        "pre_evidence": "Fenno, Richard, Jr. Senators on the Campaign Trail: The Politics of Representation. Norman: University of Oklahoma Press, 1992. Pryor, David, with Don Harrell.",
+        "evidence": "A Pryor Commitment: The Autobiography of David Pryor. Little Rock: Butler Center Books, 2008.",
+        "post_evidence": "Research Collections University of Arkansas Special Collections Fayetteville, Arkansas Papers: Ca. 1940-1998."
+      },
+      {
+        "evidence_id": 1,
+        "sentence_id": "28;29",
+        "score": -0.0173262712,
+        "pre_evidence": "University of Arkansas at Little Rock Ottenheimer Library Archives and Special Collections Little Rock, Arkansas Papers: 1970-1972. 4 feet.",
+        "evidence": "Research files, news clippings, correspondence, and photographs relating to his investigations as a congressman of nursing homes and general living conditions of the elderly. Finding aid.",
+        "post_evidence": "CONTACT Office of the House Historian: history@mail.house.gov Office of the Senate Historian: historian@sec.senate.gov Office of Art & Archives, Office of the Clerk: art@mail.house.gov, archives@mail.house.gov Resources Retro Biographical Directory Privacy Policy Copyright Information download"
+      },
+      {
+        "evidence_id": 0,
+        "sentence_id": "1;2",
+        "score": 0.9987263083000001,
+        "pre_evidence": "Back Download { JSON } <XML> PRYOR, David Hampton 1934 –",
+        "evidence": "Overview Biography Congresses Bibliography Research Collections Courtesy U.S. Senate Historical Office 13  US Congresses Served 89th – 92nd (1965 – 1973) 96th – 104th (1979 – 1997) House Years of Service 1965 – 1973 Senate Years of Service 1979 – 1997 State / Territory Arkansas 2  Positions Representative Senator Party Democrat Overview 13  US Congresses Served 89th – 92nd (1965 – 1973) 96th – 104th (1979 – 1997) House Years of Service 1965 – 1973 Senate Years of Service 1979 – 1997 State / Territory Arkansas 2  Positions Representative Senator Party Democrat Biography PRYOR, David Hampton,  (Father of Mark Pryor), a Representative and a Senator from Arkansas; born in Camden, Ouachita County, Ark., August 29, 1934; attended the public schools of Camden; attended Henderson State Teachers College; graduated, University of Arkansas 1957; graduated, University of Arkansas Law School 1964; admitted to the bar in 1964 and commenced practice in Camden; founder and publisher, Ouachita Citizen 1957-1960; elected State representative in 1960 and reelected in 1962 and 1964; elected as a Democrat to the Eighty-ninth Congress, August 9, 1966, by special election, to fill the vacancy caused by the resignation of Oren Harris and at the same time elected to the Ninetieth Congress; reelected to the two succeeding Congresses and served from November 8, 1966, to January 3, 1973; was not a candidate for reelection in 1972 to the House of Representatives, but was an unsuccessful candidate for nomination for the United States Senate; Governor of Arkansas 1975-1979; elected as a Democrat to the United States Senate in 1978; reelected in 1984 and 1990 and served from January 3, 1979, to January 3, 1997; was not a candidate for reelection in 1996; chairman, Special Committee on Aging (One Hundred First through One Hundred Third Congresses); Dean, Clinton School of Public Service, University of Arkansas 2004-; is a resident of Little Rock, Ark.",
+        "post_evidence": "Congresses Congress Position Party State Start Departure 89 Representative Democrat Arkansas 90 Representative Democrat Arkansas 91 Representative Democrat Arkansas 92 Representative Democrat Arkansas 96 Senator Democrat Arkansas 01/03/1979 97 Senator Democrat Arkansas 98 Senator Democrat Arkansas 99 Senator Democrat Arkansas 100"
+      }
+    ]
+  },
+  {
+    "claim_id": "Q336077$8E668BA6-5FBC-4F1C-B279-72D4BD5E9199",
+    "reference_id": "4ac902c4e0d56af326700cf6293959692ad1cb77",
+    "affirmation": "Garnet Wolseley, 1st Viscount Wolseley was born on 04/06/1833.",
+    "reference_url": "http://www.biographi.ca/en/bio/wolseley_garnet_joseph_14E.html",
+    "g_id": -1,
+    "evidence_list": [
+      {
+        "evidence_id": 3,
+        "sentence_id": "125",
+        "score": -0.3493245244,
+        "pre_evidence": "LAURIE, PATRICK GAMMIE (Vol. 13) LÉPINE, AMBROISE-DYDIME (Vol. 15) MACDONALD, ALLAN (Vol. 13) MACDONALD, Sir HUGH JOHN (Vol. 15) MACHRAY, ROBERT (Vol. 13) MACLEOD, JAMES FARQUHARSON (Vol. 12) MAIR, CHARLES (Vol. 15) McINTYRE, ALEXANDER (Vol. 12) MULVEY, STEWART (Vol. 13) NAULT, ANDRÉ (Vol. 15) OTTER, Sir WILLIAM DILLON (Vol. 15) O’DONOGHUE, WILLIAM BERNARD (Vol. 10) PEEBLES, ADAM JOHN LAING (Vol. 13) PRÉVOST, OSCAR (Vol. 12) RICHARDSON, HUGH (1826-1913) (Vol. 14) RITCHOT, NOËL-JOSEPH (Vol. 13) ROBERTSON-ROSS, PATRICK (Vol. 11) ROSS, JAMES (1835-71) (Vol. 10) SCHULTZ, Sir JOHN CHRISTIAN (Vol. 12)",
+        "evidence": "STEELE, Sir SAMUEL BENFIELD (Vol. 14) TACHÉ, ALEXANDRE-ANTONIN (Vol. 12) THOMSON, LEVI (Vol. 16) TWEED, THOMAS ANDREW (Vol. 13) WILLIAMS, Sir WILLIAM FENWICK (Vol. 11) WRIGHT, ALEXANDER WHYTE (Vol. 14) Related Biographies STEPHEN, GEORGE, 1st Baron MOUNT STEPHEN MACDONALD, Sir JOHN ALEXANDER LINDSAY, Sir JAMES ALEXANDER CARTIER, Sir GEORGE-ÉTIENNE ARCHIBALD, Sir ADAMS GEORGE BUTLER, Sir WILLIAM FRANCIS DENISON, FREDERICK CHARLES CANADIEN, JEAN-BAPTISTE, Big John Canadien GOULET, ELZÉAR BUNN, THOMAS CASAULT, LOUIS-ADOLPHE O’DONOGHUE, WILLIAM BERNARD ROSS, JAMES (1835-71) CLARKE, HENRY JOSEPH GLOVER, Sir JOHN HAWLEY KENNEDY, WILLIAM NASSAU ROBERTSON-ROSS, PATRICK WILLIAMS, Sir WILLIAM FENWICK BEDSON, SAMUEL LAWRENCE BOUCHARD, ARTHUR BRUCE, JOHN (1837-93) GIRARD, MARC-AMABLE HERCHMER, WILLIAM MACAULEY MACLEOD, JAMES FARQUHARSON PRÉVOST, OSCAR SCHULTZ, Sir JOHN CHRISTIAN TACHÉ, ALEXANDRE-ANTONIN BLACKWOOD, FREDERICK TEMPLE, 1st Marquess of DUFFERIN and AVA DAVIS, ROBERT ATKINSON DAWSON, SIMON JAMES MACHRAY, ROBERT MULVEY, STEWART RITCHOT, NOËL-JOSEPH TWEED, THOMAS ANDREW BEECHEY, FRANCES ANNE CONSTANTINE, CHARLES DUBUC, Sir JOSEPH ELLIOT, GILBERT JOHN MURRAY-KYNYNMOUND, Viscount MELGUND and 4th Earl of MINTO RICHARDSON, HUGH (1826-1913) WRIGHT, ALEXANDER WHYTE OTTER, Sir WILLIAM DILLON LÉPINE, AMBROISE-DYDIME ALLOWAY, WILLIAM FORBES HUTTON, Sir EDWARD THOMAS HENRY MACDONALD, Sir HUGH JOHN MAIR, CHARLES NAULT, ANDRÉ GRAHAM, WILLIAM MORRIS JOHNSON, EMILY PAULINE GIROUARD, Sir ÉDOUARD PERCY CRANWILL STEELE, Sir SAMUEL BENFIELD THOMSON, LEVI KINGSMILL, Sir CHARLES EDMUND BELL, CHARLES NAPIER DOYLE, Sir CHARLES HASTINGS MacDOUGALL, Sir PATRICK LEONARD MICHEL, Sir JOHN DENISON, GEORGE TAYLOR (1839-1925) RIEL, LOUIS (1844-85) SMITH, DONALD ALEXANDER, 1st Baron STRATHCONA and MOUNT ROYAL.",
+        "post_evidence": "Cite This Article. O. A. Cooke, “WOLSELEY, GARNET JOSEPH, 1st Viscount WOLSELEY,” in Dictionary of Canadian Biography, vol."
+      },
+      {
+        "evidence_id": 4,
+        "sentence_id": "38;39",
+        "score": -0.4053467214,
+        "pre_evidence": "Grant again requested his services on the quartermaster-general’s staff in the 1860 expedition to China. This campaign marked the end of Wolseley’s career as a regimental officer.",
+        "evidence": "In 1861 Wolseley was posted to the Canadian command as assistant quartermaster-general at the time of the Trent crisis [see Sir Charles Hastings Doyle*], but he arrived, on 5 Jan. 1862, after the immediate threat of war with the United States had passed. In garrison in Montreal, he was drawn to amateur theatricals, to squiring the ladies, and to the study of military theory.",
+        "post_evidence": "Promoted full colonel on 5 June 1865, Wolseley had his first real experience with the Canadian militia that autumn when he was loaned to command the camp of instruction at La Prairie, near Montreal."
+      },
+      {
+        "evidence_id": 1,
+        "sentence_id": "24;25",
+        "score": 0.119902119,
+        "pre_evidence": "Garnet Wolseley’s father died when he was seven and his mother brought up seven children in impecunious circumstances. Wolseley attended a day-school in Dublin and then worked in a surveyor’s office.",
+        "evidence": "On 12 March 1852 he was commissioned ensign in the 12th Foot, without purchase in recognition of his father’s career in the army. He soon transferred into the 80th Foot for service in India.",
+        "post_evidence": "He was immediately thrown into colonial wars. In 1852–53 he was in Burma, where he was severely wounded in the thigh."
+      },
+      {
+        "evidence_id": 0,
+        "sentence_id": "21",
+        "score": 0.9907687902000001,
+        "pre_evidence": "The Acadians For Educators Exploring the Explorers The War of 1812  Canada’s Wartime Prime Ministers The First World War Back to top. OK. Cancel. OK. Source: Library and Archives Canada/MIKAN 3261692.",
+        "evidence": "WOLSELEY, GARNET JOSEPH, 1st Viscount WOLSELEY, army officer; b. 4 June 1833 at Golden Bridge House, County Dublin (Republic of Ireland), eldest son of Major Garnet Joseph Wolseley and Frances Anne Smith; m. 4 June 1867 Louisa Erskine (d. 1920) in London, England, and they had one daughter; d. 25 March 1913 in Menton, France, and was buried in St Paul’s Cathedral in London.",
+        "post_evidence": "Garnet Wolseley’s father died when he was seven and his mother brought up seven children in impecunious circumstances."
+      },
+      {
+        "evidence_id": 2,
+        "sentence_id": "122;123",
+        "score": -0.10456331070000001,
+        "pre_evidence": "More STEPHEN, GEORGE, 1st Baron MOUNT STEPHEN (Vol. 15) BOOKER, ALFRED (1824-71) (Vol. 10) CARTIER, Sir GEORGE-ÉTIENNE (Vol. 10) DENISON, GEORGE TAYLOR (1839-1925) (Vol. 15) DOYLE, Sir CHARLES HASTINGS (Vol. 11) MACDONALD, Sir JOHN ALEXANDER (Vol. 12) MacDOUGALL, Sir PATRICK LEONARD (Vol. 12) ALLOWAY, WILLIAM FORBES (Vol. 15) BEDSON, SAMUEL LAWRENCE (Vol. 12) BEECHEY, FRANCES ANNE (Vol. 14) BELL, CHARLES NAPIER (Vol. 16) BLACKWOOD, FREDERICK TEMPLE, 1st Marquess of DUFFERIN and AVA (Vol. 13)",
+        "evidence": "BOUCHARD, ARTHUR (Vol. 12) BRUCE, JOHN (1837-93) (Vol. 12) BUNN, THOMAS (Vol. 10) CASAULT, LOUIS-ADOLPHE (Vol. 10) CLARKE, HENRY JOSEPH (Vol. 11) CONSTANTINE, CHARLES (Vol. 14) DAVIS, ROBERT ATKINSON (Vol. 13) DAWSON, SIMON JAMES (Vol. 13) DUBUC, Sir JOSEPH (Vol. 14) ELLIOT, GILBERT JOHN MURRAY-KYNYNMOUND, Viscount MELGUND and 4th Earl of MINTO (Vol. 14) FRASSE DE PLAINVAL, LOUIS (Vol. 11) GIRARD, MARC-AMABLE (Vol. 12) GIROUARD, Sir ÉDOUARD PERCY CRANWILL (Vol. 16) GLOVER, Sir JOHN HAWLEY (Vol. 11) GOULET, ELZÉAR (Vol. 9) GRAHAM, WILLIAM MORRIS (Vol. 16) HERCHMER, WILLIAM MACAULEY (Vol. 12) HUTTON, Sir EDWARD THOMAS HENRY (Vol. 15) JOHNSON, EMILY PAULINE (Vol. 14) KENNEDY, WILLIAM NASSAU (Vol. 11) KINGSMILL, Sir CHARLES EDMUND (Vol. 16)",
+        "post_evidence": "LAURIE, PATRICK GAMMIE (Vol. 13) LÉPINE, AMBROISE-DYDIME (Vol. 15) MACDONALD, ALLAN (Vol. 13) MACDONALD, Sir HUGH JOHN (Vol. 15) MACHRAY, ROBERT (Vol. 13) MACLEOD, JAMES FARQUHARSON (Vol. 12) MAIR, CHARLES (Vol. 15) McINTYRE, ALEXANDER (Vol. 12) MULVEY, STEWART (Vol. 13) NAULT, ANDRÉ (Vol. 15) OTTER, Sir WILLIAM DILLON (Vol. 15) O’DONOGHUE, WILLIAM BERNARD (Vol. 10) PEEBLES, ADAM JOHN LAING (Vol. 13) PRÉVOST, OSCAR (Vol. 12) RICHARDSON, HUGH (1826-1913) (Vol. 14) RITCHOT, NOËL-JOSEPH (Vol. 13) ROBERTSON-ROSS, PATRICK (Vol. 11) ROSS, JAMES (1835-71) (Vol. 10) SCHULTZ, Sir JOHN CHRISTIAN (Vol. 12)"
+      }
+    ]
+  },
+  {
+    "claim_id": "Q58480336$A003369A-5305-4178-B033-BE7DD8B1C0BF",
+    "reference_id": "ec06b913ef21c8d26909079c1f6121b484cbce03",
+    "affirmation": "The original language of Noorjehan is Hindi.",
+    "reference_url": "https://indiancine.ma/AUH",
+    "g_id": -1,
+    "evidence_list": [
+      {
+        "evidence_id": 2,
+        "sentence_id": "9;10",
+        "score": -0.2787380815,
+        "pre_evidence": "Khabardar (Dada Gunjal) 1931 Last Kiss (A.P. Gupta) 1931 Jeevan Prabhat (Santosh K. Hazra) 1931 Alam Ara (Ardeshir Irani) 1931 Ghunghatwali (Nandlal Jaswantlal) 1931 Premi Jogan (Nandlal Jaswantlal) 1931",
+        "evidence": "Sati Mandodhari (Jethalal Joshi) 1931 Bahadur Beti (A.P. Kapur) 1931 Hridaya Veena (A.P. Kapur) 1931 Husn Pari (A.P. Kapur) 1931 Jadu-e-Mohabbat (A.P. Kapur) 1931 Jange Davlat (A.P. Kapur) 1931 Jung-e-Daulat (A.P. Kapur) 1931 Salivahan (A.P. Kapur) 1931 Virni Vibhuti (A.P. Kapur) 1931",
+        "post_evidence": "Daulat Ka Nasha (Pesi Karani) 1931 Karmano Kaher (Pesi Karani) 1931 Awara Raqasa (A.R. Kardar) 1931 Farebi Daku (A.R. Kardar) 1931"
+      },
+      {
+        "evidence_id": 4,
+        "sentence_id": "11;12",
+        "score": -0.5025134683,
+        "pre_evidence": "Sati Mandodhari (Jethalal Joshi) 1931 Bahadur Beti (A.P. Kapur) 1931 Hridaya Veena (A.P. Kapur) 1931 Husn Pari (A.P. Kapur) 1931 Jadu-e-Mohabbat (A.P. Kapur) 1931 Jange Davlat (A.P. Kapur) 1931 Jung-e-Daulat (A.P. Kapur) 1931 Salivahan (A.P. Kapur) 1931 Virni Vibhuti (A.P. Kapur) 1931",
+        "evidence": "Daulat Ka Nasha (Pesi Karani) 1931 Karmano Kaher (Pesi Karani) 1931 Awara Raqasa (A.R. Kardar) 1931 Farebi Daku (A.R. Kardar) 1931 Khooni Katar (A.R. Kardar) 1931 Bharati Balak (Aga Hashr Kashmiri) 1931",
+        "post_evidence": "Laila Majnu (J.J. Madan) 1931 Satyavadi Raja Harishchandra (J.J. Madan) 1931 Shakuntala (J.J. Madan) 1931 Shirin Farhad (J.J. Madan) 1931 Diwano (Nagendra Majumdar) 1931 Gwalan (Nagendra Majumdar) 1931 Kashmir Nu Gulab (Nagendra Majumdar) 1931"
+      },
+      {
+        "evidence_id": 1,
+        "sentence_id": "21;22",
+        "score": -0.0752387866,
+        "pre_evidence": "Rao Saheb (Homi Master) 1931 Shahi Firman (Homi Master) 1931 Maidan-e-Jung (Appu Mehta) 1931 Dharti Kaamp (Harshadrai Mehta) 1931 Kala Wagh (Harshadrai Mehta) 1931",
+        "evidence": "Kalo Wagh (Harshadrai Mehta) 1931 Pardes Ni Preet (Harshadrai Mehta) 1931 Priyatama (Harshadrai Mehta) 1931 Raj Bhakta (Harshadrai Mehta) 1931 Ronak Mahal (Harshadrai Mehta) 1931 Solanki Shamsher (Harsha … Mehta) 1931 Tirandaz (Harshadrai Mehta) 1931 Dharmi Daku (Jeetendra Mehta) 1931 Noorjehan (Ezra Mir) 1931 Draupadi (B.P. Mishra) 1931 Golibar (B.P. Mishra) 1931 Toofan (B.P. Mishra) 1931 Toofani Taruni (B.P. Mishra) 1931 Banga Darshan (William J. Moylan) 1931 Aseer-e-Hirs (Sundarrao Nadkarni) 1931 Baaz Bahadur (Sundarrao Nadkarni) 1931 Teer-e-Qatil (Sundarrao Nadkarni) 1931 Nara Narayana (A. Narayanan) 1931 Diler Daku (A.K. Pai, B. Rumwalla) 1931 Pardesia (Niranjan Pal) 1931 Pujari (Niranjan Pal) 1931 Sui Ka Naka (Niranjan Pal) 1931 Jungle Ka Jawan (Chunilal Parekh) 1931",
+        "post_evidence": "Niradhar Nira (Chunilal Parekh) 1931 Dagabaaz Dushman (Kantil … Patel) 1931 Kunwari Kanya (V.K. Pattani) 1931 Diler Jigar (G.P. Pawar) 1931 Rani Rupmati (Bhalji Pendharkar) 1931"
+      },
+      {
+        "evidence_id": 0,
+        "sentence_id": "35;36",
+        "score": 0.858456552,
+        "pre_evidence": "Chandbibi (N.D. Sarpotdar) 1931 Nakoga Bai Lagna (N.D. Sarpotdar) 1931 Farari (Y.D. Sarpotdar?) 1931",
+        "evidence": "Deshbandhu (G.R. Sethi) 1931 Sorathi Yoddho (Fram Sethna) 1931 Noorjehan Ezra Mir Year: 1931; Language: Hindi IMDb ID: 0241772 Ezra Mir (Director)-  Show Filmography (1903-93) Hindi director born as Edwin Myers in Calcutta.",
+        "post_evidence": "Actor on the Madan stage (played Khusro in. Noorjehan and later filmed the play) and in two. silent Madan films (1922-3)."
+      },
+      {
+        "evidence_id": 3,
+        "sentence_id": "24;25",
+        "score": -0.4579434693,
+        "pre_evidence": "Toofan (B.P. Mishra) 1931 Toofani Taruni (B.P. Mishra) 1931 Banga Darshan (William J. Moylan) 1931 Aseer-e-Hirs (Sundarrao Nadkarni) 1931 Baaz Bahadur (Sundarrao Nadkarni) 1931 Teer-e-Qatil (Sundarrao Nadkarni) 1931 Nara Narayana (A. Narayanan) 1931 Diler Daku (A.K. Pai, B. Rumwalla) 1931 Pardesia (Niranjan Pal) 1931 Pujari (Niranjan Pal) 1931 Sui Ka Naka (Niranjan Pal) 1931 Jungle Ka Jawan (Chunilal Parekh) 1931 Niradhar Nira (Chunilal Parekh) 1931",
+        "evidence": "Dagabaaz Dushman (Kantil … Patel) 1931 Kunwari Kanya (V.K. Pattani) 1931 Diler Jigar (G.P. Pawar) 1931 Rani Rupmati (Bhalji Pendharkar) 1931 Abala (Jaigopal Pillai) 1931 Leila the Star of Mingrelia (R.S. Prakash) 1931 Pavalakkodi (R.S. Prakash) 1931 Rose of Rajasthan (R.S. Prakash) 1931 Gupta Ratna (B.S. Rajhans) 1931 Bhaktavatsala (P.V. Rao) 1931 Marthanda Varma (P.V. Rao) 1931 Chintamani (Kanjibhai Rathod) 1931 Ghar Ki Lakshmi (Kanjibhai Rathod) 1931 Harishchandra (Kanjibhai Rathod) 1931 Laila",
+        "post_evidence": "Majnu (Kanjibhai Rathod) 1931 Pak Daman (Kanjibhai Rathod) 1931 Bar Ke Pobar (H.M. Reddy) 1931 Kalidas (H.M. Reddy) 1931"
+      }
+    ]
+  },
+  {
+    "claim_id": "Q30271677$6B59A549-8F5A-426D-B857-4A70EE003C0E",
+    "reference_id": "5a440e04cc8d9e58e2e2dfe362a22729b7aaf0ec",
+    "affirmation": "Campaign for College Opportunity is located in the United States of America.",
+    "reference_url": "https://www.charitynavigator.org/ein/200427622",
+    "g_id": -1,
+    "evidence_list": [
+      {
+        "evidence_id": 4,
+        "sentence_id": "169",
+        "score": -0.3376658261,
+        "pre_evidence": "Note: The absence of a score does not indicate a positive or negative assessment, it only indicates that we have not yet evaluated the organization. Learn more about Impact & Results.",
+        "evidence": "Do you work at Campaign for College Opportunity?",
+        "post_evidence": "Join the waitlist for an updated Impact & Results score. Back to Overall Additional Information Unscored"
+      },
+      {
+        "evidence_id": 2,
+        "sentence_id": "203;204",
+        "score": -0.177509889,
+        "pre_evidence": "Feedback Labs has documented several studies which indicate that beyond achieving organizational goals, nonprofits that are attentive and responsive to concerns and ideas raised by beneficiaries establish stronger relationships with the people they serve, promote greater equity, and empower constituents in ways that can help to ensure better long-term outcomes.",
+        "evidence": "You can find resources to help nonprofits improve their feedback practices here. Campaign for College Opportuni...",
+        "post_evidence": "Add to My Charities Donate to this Charity The Giving Basket is having some issues. If you wish to donate, please refresh the page."
+      },
+      {
+        "evidence_id": 0,
+        "sentence_id": "1;2",
+        "score": 0.0284820218,
+        "pre_evidence": "Advanced Top Ten Lists (current) Hot Topics Tips for Donors Blog A-Z Directory Support Charity Navigator Campaign for College Opportunity Donate to this Charity Education Policy and Reform | EIN: 20-0427622 | Los Angeles CA Campaign for College Opportunity Mission: The Campaign for College Opportunity is focused on a single mission: to ensure that the next generation of California students has the chance to attend college and s... (More)The Campaign for College Opportunity is focused on a single mission: to ensure that the next generation of California students has the chance to attend college and succeed in order to keep our workforce and economy strong.",
+        "evidence": "The Campaign's work is guided by three main priorities: to engage a broad coalition of California leaders and organizations in support of higher education access and success; to raise public awareness and share research highlighting the challenges and opportunities facing California; and to support policy solutions and reforms to our higher education system so that we can produce the one million additional college graduates our state needs. (Less) Campaign for College Opportunity is a 501(c)(3) organization, with an IRS ruling year of 2004, and donations are tax-deductible.",
+        "post_evidence": "Is this your nonprofit? Apply for a Star Rating Portal to submit data and edit your profile. Contact Information http://www.collegecampaign.org/ 1149 South Hill StreetSuite 925Los"
+      },
+      {
+        "evidence_id": 1,
+        "sentence_id": "0",
+        "score": -0.0631128103,
+        "pre_evidence": "",
+        "evidence": "Advanced Top Ten Lists (current) Hot Topics Tips for Donors Blog A-Z Directory Support Charity Navigator Campaign for College Opportunity Donate to this Charity Education Policy and Reform | EIN: 20-0427622 | Los Angeles CA Campaign for College Opportunity Mission: The Campaign for College Opportunity is focused on a single mission: to ensure that the next generation of California students has the chance to attend college and s... (More)The Campaign for College Opportunity is focused on a single mission: to ensure that the next generation of California students has the chance to attend college and succeed in order to keep our workforce and economy strong.",
+        "post_evidence": "The Campaign's work is guided by three main priorities: to engage a broad coalition of California leaders and organizations in support of higher education access and success; to raise public awareness and share research highlighting the challenges and opportunities facing California; and to support policy solutions and reforms to our higher education system so that we can produce the one million additional college graduates our state needs."
+      },
+      {
+        "evidence_id": 3,
+        "sentence_id": "174",
+        "score": -0.2384972423,
+        "pre_evidence": "This beta feature is currently viewable only on desktop or tablet screens. Check back later for updates.",
+        "evidence": "Largest Programs Largest Programs Campaign for College Opportunity reported its three largest programs on its FY 2019 Form 990 as: $1,982,196 Spent in most recent FY 84% Percent of program expenses Coalition Building, Research & Policy Reform $302,901 Spent in most recent FY 12% Percent of program expenses Communications $52,412 Spent in most recent FY 2% Percent of program expenses Lobbying Activities   Leadership & Adaptability",
+        "post_evidence": "This score provides an assessment of the organization's leadership capacity, strategic thinking and planning, and ability to innovate or respond to changes in constituent demand/need or other relevant social and economic conditions to achieve the organization's mission."
+      }
+    ]
+  },
+  {
+    "claim_id": "Q6542448$5D9E4282-4105-4430-9F3B-B8CDC3CE1B6D",
+    "reference_id": "10b19791699379e5b739b301f6f3ec5e46ba7ce3",
+    "affirmation": "The Librarian of Congress was Carla Hayden.",
+    "reference_url": "https://www.loc.gov/about/about-the-librarian/",
+    "g_id": -1,
+    "evidence_list": [
+      {
+        "evidence_id": 0,
+        "sentence_id": "41;42",
+        "score": 0.9997794032,
+        "pre_evidence": "Congress.gov. Library of Congress. About the Library. About the Librarian. Share. About the Librarian.",
+        "evidence": "Carla Hayden was sworn in as the 14th Librarian of Congress on September 14, 2016. Hayden, the first woman and the first African American to lead the national library, was nominated to the position by President Barack Obama on February 24, 2016, and her nomination was confirmed by the U.S. Senate on July 13.",
+        "post_evidence": "Prior to her latest post she served, since 1993, as CEO of the Enoch Pratt Free Library in Baltimore, Maryland."
+      },
+      {
+        "evidence_id": 2,
+        "sentence_id": "51;52",
+        "score": 0.8446497321,
+        "pre_evidence": "In 1995, she was the first African American to receive Library Journal’s Librarian of the Year Award in recognition of her outreach services at the Pratt Library, which included an after-school center for Baltimore teens offering homework assistance and college and career counseling.",
+        "evidence": "Hayden received a B.A. from Roosevelt University and an M.A. and Ph.D. from the Graduate Library School of the University of Chicago. Follow Librarian of Congress Carla Hayden on Twitter. https://twitter.com/libnofcongress",
+        "post_evidence": "External. About the Library. About the Librarian. Previous Librarians of Congress. Statements and Multimedia."
+      },
+      {
+        "evidence_id": 4,
+        "sentence_id": "45",
+        "score": -0.1568879634,
+        "pre_evidence": "Hayden was nominated by President Obama to be a member of the National Museum and Library Services Board in January 2010 and was confirmed to that post by the Senate in June 2010.",
+        "evidence": "Prior to joining the Pratt Library, Hayden was deputy commissioner and chief librarian of the Chicago Public Library from 1991 to 1993.",
+        "post_evidence": "She was an assistant professor for Library and Information Science at the University of Pittsburgh from 1987 to 1991."
+      },
+      {
+        "evidence_id": 3,
+        "sentence_id": "43;44",
+        "score": 0.0534796156,
+        "pre_evidence": "Hayden, the first woman and the first African American to lead the national library, was nominated to the position by President Barack Obama on February 24, 2016, and her nomination was confirmed by the U.S. Senate on July 13.",
+        "evidence": "Prior to her latest post she served, since 1993, as CEO of the Enoch Pratt Free Library in Baltimore, Maryland. Hayden was nominated by President Obama to be a member of the National Museum and Library Services Board in January 2010 and was confirmed to that post by the Senate in June 2010.",
+        "post_evidence": "Prior to joining the Pratt Library, Hayden was deputy commissioner and chief librarian of the Chicago Public Library from 1991 to 1993."
+      },
+      {
+        "evidence_id": 1,
+        "sentence_id": "49;50",
+        "score": 0.9810310006,
+        "pre_evidence": "She began her career with the Chicago Public Library as the young adult services coordinator from 1979 to 1982 and as a library associate and children’s librarian from 1973 to 1979.",
+        "evidence": "Hayden was president of the American Library Association from 2003 to 2004. In 1995, she was the first African American to receive Library Journal’s Librarian of the Year Award in recognition of her outreach services at the Pratt Library, which included an after-school center for Baltimore teens offering homework assistance and college and career counseling.",
+        "post_evidence": "Hayden received a B.A. from Roosevelt University and an M.A. and Ph.D. from the Graduate Library School of the University of Chicago."
+      }
+    ]
+  },
+  {
+    "claim_id": "Q3678603$1ee85bfe-4e01-f70e-ea41-9c41897ed6b4",
+    "reference_id": "3389302ab7ffd8b7d1edf7d3c6cfb2cb3c5fcb62",
+    "affirmation": "CityLife is located in Italy.",
+    "reference_url": "https://www.archinform.net/entry.htm?ID=3u862l401ng4itonlnnt8nu7jl&loc=%2Fprojekte%2F23352.htm",
+    "g_id": -1,
+    "evidence_list": [
+      {
+        "evidence_id": 2,
+        "sentence_id": "68;69",
+        "score": 0.5557955503,
+        "pre_evidence": "The res­i­dences on Via Seno­fonte are Class A cer­ti­fied. Libeskind Residences Kokky92 [ CC BY-SA 4.0 ]",
+        "evidence": "Libeskind Residences Situated in the south-west part of the CityLife area, the res­i­dences on Via Spin­ola have been de­signed by Daniel Libe­skind. The res­i­dences are com­posed of five build­ings of­fer­ing a wide range of pos­si­bil­i­ties from one-bed apart­ments to double-height pent­houses.",
+        "post_evidence": "The res­i­dences on Via Spin­ola are in the styl­ish Fiera Mi­lano dis­trict, be­tween Pi­azza Giulio Ce­sare and Pi­azza Amen­dola."
+      },
+      {
+        "evidence_id": 4,
+        "sentence_id": "57;58",
+        "score": 0.2942434251,
+        "pre_evidence": "Architecture and design Skyscrapers Il Dritto (»The Straight One«) – Allianz Tower Plflcn [ CC BY-SA 4.0 ] Lo Storto (»The Twisted One«) – Generali Tower Plflcn [ CC BY-SA 4.0 ]",
+        "evidence": "Il Curvo (»The Curved One«) Residences Hadid Residences Situated in the south-east part of the CityLife area, the res­i­dences on Via Seno­fonte have been de­signed by Zaha Hadid. The res­i­dences are com­posed of seven build­ings of­fer­ing a wide range of pos­si­bil­i­ties from one-bed apart­ments to double-height pent­houses.",
+        "post_evidence": "The res­i­dences on Via Seno­fonte are ac­cessed through spa­cious lob­bies with dis­tinc­tive ar­chi­tec­tural fea­tures such as large win­dows over­look­ing the park."
+      },
+      {
+        "evidence_id": 3,
+        "sentence_id": "20",
+        "score": 0.5028089881,
+        "pre_evidence": "Piazza Tre Torri CityLife Park Podium Shopping mall Viale Cassiodoro Nursery Transport Adjacent developments MiCo Milan Convention Centre Vigorelli Velodrome References CityLife is a res­i­den­tial, com­mer­cial and busi­ness dis­trict sit­u­ated a short dis­tance from the old city cen­tre of Milan, Italy; it has an area of 36.6 hectares (90 acres).",
+        "evidence": "It is a re­de­vel­op­ment pro­ject on the for­mer grounds of Fiera Milano after its re­lo­ca­tion to the nearby town of Rho.",
+        "post_evidence": "The de­vel­op­ment is being car­ried out by a com­pany con­trolled by Gen­er­ali Group after its win­ning offer of €523 mil­lion for the rights."
+      },
+      {
+        "evidence_id": 0,
+        "sentence_id": "18;19",
+        "score": 0.8329666853000001,
+        "pre_evidence": "2003–2004. planning period. 2006–2014. construction period. texts > Wikipedia article. Wikipedia article.",
+        "evidence": "Contents History Development project General project and layout Construction Sustainability Smart mobility Architecture and design Skyscrapers Il Dritto (»The Straight One«) – Allianz Tower Lo Storto (»The Twisted One«) – Generali Tower Il Curvo (»The Curved One«) Residences Hadid Residences Libeskind Residences Culture Palazzo delle Scintille Public spaces & other buildings Piazza Tre Torri CityLife Park Podium Shopping mall Viale Cassiodoro Nursery Transport Adjacent developments MiCo Milan Convention Centre Vigorelli Velodrome References CityLife is a res­i­den­tial, com­mer­cial and busi­ness dis­trict sit­u­ated a short dis­tance from the old city cen­tre of Milan, Italy; it has an area of 36.6 hectares (90 acres).",
+        "post_evidence": "It is a re­de­vel­op­ment pro­ject on the for­mer grounds of Fiera Milano after its re­lo­ca­tion to the nearby town of Rho."
+      },
+      {
+        "evidence_id": 1,
+        "sentence_id": "52;53",
+        "score": 0.748386085,
+        "pre_evidence": "The Tre Torri of­fices have been awarded the GOLD level LEED™ pre-certification, but ac­tual ac­cred­i­ta­tion and post-occupancy per­for­mance is yet to be con­ducted and con­firmed.",
+        "evidence": "Smart mobility CityLife is the largest car-free area in Milan and one of the biggest in Europe. Cars can reach garages and park­ing areas along an in­no­v­a­tive un­der­ground road sys­tem.",
+        "post_evidence": "A cycle and pedes­trian path crosses the area from east to west. Broad av­enues lead from the res­i­dences to the cen­tre of the dis­trict where to find shops, bars and restau­rants over­look­ing the park."
+      }
+    ]
+  },
+  {
+    "claim_id": "Q55632932$bc690d72-4408-ba75-0412-e605171423c7",
+    "reference_id": "f9718e32d5cb9682fd9790b3acbf226bc837eff3",
+    "affirmation": "The composer of Sex Education is Oli Julian.",
+    "reference_url": "https://blog.tunefind.com/2019/01/netflix-hit-sex-education-breaks-tunefind-records/",
+    "g_id": -1,
+    "evidence_list": [
+      {
+        "evidence_id": 0,
+        "sentence_id": "13;14",
+        "score": 0.9817998409,
+        "pre_evidence": "Despite his lack of, ahem, experience, Otis teams up with savvy tough girl Maeve (Emma Mackey) to run a secret sex clinic for their fellow students.",
+        "evidence": "Music supervisors Matt Biffa (The End of the F**king World, Lovesick) and Ciara Elwis (Derry Girls) ran point on music for the series, working with composer Oli Julian (Catastrophe) for original score. The series soundtrack also features at least 15 tracks by Ezra Furman, including many off his previously released albums, plus a number of covers and original tracks written just for Sex Education.",
+        "post_evidence": "Furman and his band, The Visions, even have a cameo as the band performing at the school dance in episode 7."
+      },
+      {
+        "evidence_id": 1,
+        "sentence_id": "6;7",
+        "score": -0.2786086202,
+        "pre_evidence": "Trending. Sex Education Will School You in Music, Too. January 17, 2019 January 27, 2020. Adrienne Gardner.",
+        "evidence": "artist-ezra-furman, show-sex-education. Sex Education, the new Netflix original series from the UK, features a stellar soundtrack bringing together tracks from Beth Ditto, The Smiths, Chip Taylor, Ann Peebles, Bikini Kill and many more.",
+        "post_evidence": "Plus a ton of existing and original tracks from American rocker Ezra Furman. It’s an eclectic mix that has had fans desperate to find the music."
+      },
+      {
+        "evidence_id": 2,
+        "sentence_id": "94;95",
+        "score": -0.4544193447,
+        "pre_evidence": "Top TV Song Last Week: Drink Before the War by Sinéad O’Connor. Follow Us Archives \t\t Archives. Select Month.",
+        "evidence": "March 2022  (1) February 2022  (5) January 2022  (5) December 2021  (10) November 2021  (5) October 2021  (1) September 2021  (5) August 2021  (4) July 2021  (4) June 2021  (3) May 2021  (3) April 2021  (5) March 2021  (4) February 2021  (7) January 2021  (4) December 2020  (11) November 2020  (4) October 2020  (5) September 2020  (5) August 2020  (4) July 2020  (9) June 2020  (4) May 2020  (2) April 2020  (4) March 2020  (4) February 2020  (6) January 2020  (7) December 2019  (13) November 2019  (3) October 2019  (6) September 2019  (6) August 2019  (7) July 2019  (6) June 2019  (2) May 2019  (8) April 2019  (3) March 2019  (5) February 2019  (4) January 2019  (6) December 2018  (12) November 2018  (4) October 2018  (7) September 2018  (5) August 2018  (7) July 2018  (9) June 2018  (5) May 2018  (7) April 2018  (3) March 2018  (3) February 2018  (4) January 2018  (5) December 2017  (5) October 2017  (6) September 2017  (12) August 2017  (8) July 2017  (9) June 2017  (8) May 2017  (9) April 2017  (13) March 2017  (20) February 2017  (2) December 2016  (2) December 2015  (1) Categories. Artist Spotlight.",
+        "post_evidence": "Behind the Song. Industry News. Interviews. Music Supervisor News. Site News. Trending. Uncategorized."
+      },
+      {
+        "evidence_id": 4,
+        "sentence_id": "33;34",
+        "score": -0.6406147480000001,
+        "pre_evidence": "from Sex Education Soundtrack · Season 1 · Episode 1. Otis and Eric cycling to school. F**K All the Perfect People. by Chip Taylor, The New Ukrainians.",
+        "evidence": "from Sex Education Soundtrack · Season 1 · Episode 2. Walking out of the party; Maeve arrives home; O….",
+        "post_evidence": "This Is the Day. by The The. from Sex Education Soundtrack · Season 1 · Episode 3. Jackson’s morning routine; Otis awakes to the m…."
+      },
+      {
+        "evidence_id": 3,
+        "sentence_id": "52;53",
+        "score": -0.5834799409,
+        "pre_evidence": "*UPDATE: Sex Education has released an album with many of the sought after tracks by Ezra Furman. It includes some of the biggest fan favorites listed below: I’m Coming Clean. by Ezra Furman.",
+        "evidence": "from Sex Education Soundtrack · Season 1 · Episode 1. Opening titles; Otis wakes up, tries to masturb….",
+        "post_evidence": "If Only the Wind Would Blow Me Away. by Ezra Furman. from Sex Education Soundtrack · Season 1 · Episode 4."
+      }
+    ]
+  },
+  {
+    "claim_id": "Q274959$5e9b49c0-4462-58f8-a047-5d679fec3813",
+    "reference_id": "9a09c270545156eb1f44f3afd7acf2a8ed0eda33",
+    "affirmation": "The boiling point of distilled water is 100 degrees Celsius.",
+    "reference_url": "https://go.drugbank.com/drugs/DB09145",
+    "g_id": -1,
+    "evidence_list": [
+      {
+        "evidence_id": 2,
+        "sentence_id": "115;116",
+        "score": -0.5884764194000001,
+        "pre_evidence": "Lidocaine hydrochloride (20 mg/1mL) + Lidocaine hydrochloride (0.5 g/100g) + Neomycin sulfate (3.5 mg/1g) Kit Ophthalmic; Oral; Topical Honeywell Safety Products USA, Inc 2018-10-18 Not applicable US 4032 First Aid Kit Water (98.6 mL/100mL) + Acetylsalicylic acid (325 mg/1) +",
+        "evidence": "Ammonia (0.045 g/0.3mL) + Bacitracin zinc (400 [iU]/1g) + Benzalkonium chloride (1.3 mg/1mL) +",
+        "post_evidence": "Lidocaine hydrochloride (24.64 mg/1mL) + Neomycin sulfate (3.5 mg/1g) + Polymyxin B sulfate (5000 [iU]/1g) Kit Ophthalmic; Oral; Respiratory (inhalation); Topical Honeywell Safety Products USA, Inc 2018-10-18 Not applicable US 4056 First Aid Kit Water (98.6 mL/100mL) +"
+      },
+      {
+        "evidence_id": 0,
+        "sentence_id": "201;202",
+        "score": -0.0760257542,
+        "pre_evidence": "No 2014-11-18 2020-08-11 US US9034300 No 2015-05-19 2030-10-15 US US9259494 No 2016-02-16 2035-05-04 US US9849199",
+        "evidence": "No 2017-12-26 2036-02-11 US US10631746 No 2020-04-28 2035-08-04 US Properties State Liquid Experimental Properties Property Value Source melting point (°C) 0 MSDS boiling point (°C) 100 MSDS water solubility Completely miscible MSDS Predicted Properties Property Value Source logP-0.65 ChemAxon pKa (Strongest Acidic) 15.7 ChemAxon pKa (Strongest Basic)-1.8 ChemAxon Physiological Charge 0 ChemAxon Hydrogen Acceptor Count 1 ChemAxon Hydrogen Donor Count 1 ChemAxon Polar Surface Area 25.3 Å 2 ChemAxon Rotatable Bond Count 0 ChemAxon Refractivity 3.7 m 3 ·mol-1 ChemAxon Polarizability 1.51 Å 3 ChemAxon Number of Rings 0",
+        "post_evidence": "ChemAxon Bioavailability 1 ChemAxon Rule of Five Yes ChemAxon Ghose Filter No ChemAxon Veber's Rule Yes ChemAxon MDDR-like Rule"
+      },
+      {
+        "evidence_id": 1,
+        "sentence_id": "78",
+        "score": -0.5449342728000001,
+        "pre_evidence": "Products Drug product information from 10+ global regions Our datasets provide approved product information including: dosage, form, labeller, route of administration, and marketing period. Access now Access drug product information from over 10 global regions.",
+        "evidence": "Access now Brand Name Prescription Products Name Dosage Strength Route Labeller Marketing Start Marketing End Region Image Airlife Sterile Water for Inhalation USP Liquid 100 % Respiratory (inhalation) Cardinal Health Medical Products And Services 1990-12-31 2011-08-29 Canada Bacteriostatic Water Injection, solution 1 mL/1mL Intramuscular; Intravenous; Subcutaneous HF Acquisition Co LLC, DBA HealthFirst 2019-12-14 Not applicable US Bacteriostatic Water Injection, solution 1 mL/1mL Intramuscular; Intravenous; Subcutaneous Fresenius Kabi USA, LLC 2000-10-08 2015-07-08 US Bacteriostatic Water Injection, solution 1 mL/1mL Intramuscular Remedy Repack 2013-10-31 2016-11-08 US Bacteriostatic Water Injection, solution 1 mL/1mL Intramuscular; Intravenous; Subcutaneous Mesource Pharmaceuticals 2014-07-07 Not applicable US Bacteriostatic Water Injection, solution 1 mL/1mL Intramuscular; Intravenous; Subcutaneous REMEDYREPACK INC. 2018-06-04 Not applicable US Bacteriostatic Water Solution 1 mL/1mL Intramuscular; Intravenous; Subcutaneous Medical Purchasing Solutions, Llc 2005-04-30 Not applicable US Bacteriostatic Water Injection, solution 1 mL/1mL Intramuscular; Intravenous; Subcutaneous Hospira, Inc. 2005-04-30 2005-04-30 US Bacteriostatic Water Injection, solution 1 mL/1mL Intramuscular; Intravenous; Subcutaneous Henry Schein, Inc. 2022-01-17 Not applicable US Bacteriostatic Water Injection, solution 1 mL/1mL Intramuscular; Intravenous; Subcutaneous Physicians Total Care, Inc. 1982-10-27 2012-06-30 US Generic Prescription Products Name Dosage Strength Route Labeller Marketing Start Marketing End Region Image Diluent Injection 1 mL/1mL Intravenous; Subcutaneous Sandoz Inc 2019-03-25 Not applicable US Sterile Diluent Injection 1 mL/1mL",
+        "post_evidence": "Intravenous Teva Parenteral Medicines, Inc. 2008-04-23 2012-02-28 US Sterile Diluent Injection 1 mL/1mL"
+      },
+      {
+        "evidence_id": 4,
+        "sentence_id": "102;103",
+        "score": -0.6299341321,
+        "pre_evidence": "Benzalkonium chloride (0.40 mL/100mL) + Benzocaine (6 mL/100mL) + Ethanol (60 mL/100mL) + Ethanol (62 g/100g) +",
+        "evidence": "Ibuprofen (200 mg/1) + Isopropyl alcohol (70 mL/100mL) + Lidocaine (0.5 g/100g) + Neomycin sulfate (5 mg/1g) + Polymyxin B sulfate (5000 [iU]/1g) Kit Ophthalmic; Oral; Topical Genuine First Aid 2010-04-25 Not applicable US 4017 First Aid Kit Water (98.6 mL/100mL) +",
+        "post_evidence": "Acetaminophen (325 mg/1) + Benzalkonium chloride (0.13 g/100g) + Benzalkonium chloride (1.3 mg/1mL) +"
+      },
+      {
+        "evidence_id": 3,
+        "sentence_id": "52",
+        "score": -0.612110734,
+        "pre_evidence": "As a chemical compound, a water molecule contains one oxygen and two hydrogen atoms that are connected by covalent bonds.",
+        "evidence": "Water is a liquid at standard ambient temperature and pressure, but it often co-exists on Earth with its solid state, ice; and gaseous state, steam (water vapor).",
+        "post_evidence": "Type Small Molecule Groups Approved Structure. 3D Download MOL SDF 3D-SDF PDB SMILES InChI. Similar Structures Structure for Water (DB09145) ×"
+      }
+    ]
+  },
+  {
+    "claim_id": "Q7586053$AD344012-A522-4A8A-AF64-16F859E2EA9A",
+    "reference_id": "76b04346ad57869d9e5ae1007ba8343d708ab6f9",
+    "affirmation": "Yutaka Higuchi began work in 1983.",
+    "reference_url": "https://en.wikipedia.org/w/index.php?title=Yutaka_Higuchi_(musician)&oldid=852886961",
+    "g_id": -1,
+    "evidence_list": [
+      {
+        "evidence_id": 3,
+        "sentence_id": "9",
+        "score": -0.0136907864,
+        "pre_evidence": "Find sources:   \"Yutaka Higuchi\" musician  –  news   · newspapers   · books   · scholar   · JSTOR ( May 2010 ) ( Learn how and when to remove this template message )",
+        "evidence": "Yutaka Higuchi Also known as U-ta Born ( 1967-01-24 ) January 24, 1967 (age 55) Origin Takasaki, Gunma, Japan Genres Rock Occupation(s) Musician Instruments Bass Years active 1983–present Associated acts Buck-Tick, Wild Wise Apes Website Official website Musical artist.",
+        "post_evidence": "Yutaka Higuchi (桶口 豊, Higuchi Yutaka, born January 24, 1967 in Takasaki, Gunma), nicknamed \"U-ta\", is a Japanese musician."
+      },
+      {
+        "evidence_id": 2,
+        "sentence_id": "21;22",
+        "score": 0.2868690491,
+        "pre_evidence": "U-ta has also performed on Fake?'s Marilyn is a Bubble, Shammon's Lorelei, and on Tribute to The Star Club featuring Hikage. Wild Wise Apes.",
+        "evidence": "Wild Wise Apes is a side project that U-ta began in 2004. It consists of himself as bassist and Atsushi Okuno as vocalist.",
+        "post_evidence": "They released their first album, 3rd World, on July 14, 2004. References. ^ Eremenko, Alexey. \"Biography: Buck-Tick\"."
+      },
+      {
+        "evidence_id": 0,
+        "sentence_id": "10;11",
+        "score": 0.9998434782000001,
+        "pre_evidence": "Yutaka Higuchi Also known as U-ta Born ( 1967-01-24 ) January 24, 1967 (age 55) Origin Takasaki, Gunma, Japan Genres Rock Occupation(s) Musician Instruments Bass Years active 1983–present Associated acts Buck-Tick, Wild Wise Apes Website Official website Musical artist.",
+        "evidence": "Yutaka Higuchi (桶口 豊, Higuchi Yutaka, born January 24, 1967 in Takasaki, Gunma), nicknamed \"U-ta\", is a Japanese musician. Known as the bassist of the rock band Buck-Tick since 1983.",
+        "post_evidence": "He is the younger brother of Toll Yagami, Buck-Tick's drummer. Contents. 1 History. 1.1 Wild Wise Apes. 2 References."
+      },
+      {
+        "evidence_id": 4,
+        "sentence_id": "35",
+        "score": -0.4194330573,
+        "pre_evidence": "External links. Official website. hide v t e Buck-Tick. Atsushi Sakurai. Hisashi Imai. Hidehiko Hoshino.",
+        "evidence": "Yutaka Higuchi.",
+        "post_evidence": "Toll Yagami. Araki. Studio albums. Hurry Up Mode. Sexual XXXXX! Seventh Heaven. Taboo. Aku no Hana. Kurutta Taiyou."
+      },
+      {
+        "evidence_id": 1,
+        "sentence_id": "17",
+        "score": 0.3191521168,
+        "pre_evidence": "He is the younger brother of Toll Yagami, Buck-Tick's drummer. Contents. 1 History. 1.1 Wild Wise Apes. 2 References. 3 External links. History.",
+        "evidence": "In 1985, when U-ta and Hidehiko Hoshino graduated high school they moved to Tokyo together, where U-ta started business school.",
+        "post_evidence": "Throughout Buck-Tick's long career, his only writing credit has been lyrics for \"Under the Moon Light\" (b-side of the \"Aku no Hana\" single)."
+      }
+    ]
+  },
+  {
+    "claim_id": "Q6254987$773C31D9-6CCA-4972-88D4-97D8416157C2",
+    "reference_id": "5bc0f775565a29c227394e2f1888dda61f8efa1e",
+    "affirmation": "John Rippon was born on 29/04/1751.",
+    "reference_url": "https://www.findagrave.com/memorial/22617/john-rippon",
+    "g_id": -1,
+    "evidence_list": [
+      {
+        "evidence_id": 3,
+        "sentence_id": "184",
+        "score": -0.48163074250000004,
+        "pre_evidence": "Add to Scrapbook. Report abuse. I light a candle for John Rippon... I light a candle for John Rippon...",
+        "evidence": "I light a candle for John Rippon... Left by Candles on 21 Jan 2012.",
+        "post_evidence": "Add to Scrapbook. Report abuse. Left by lisa greenman on 12 Dec 2010. Add to Scrapbook. Report abuse."
+      },
+      {
+        "evidence_id": 2,
+        "sentence_id": "74;75",
+        "score": -0.3363047838,
+        "pre_evidence": "Made a collection of all the inscriptions at Bunhill Fields and could thus be regarded as a patron spirit of Find-A-Grave. Read More. Bio by: David Conway. Family Members. Spouse.",
+        "evidence": "Sarah Pyne Rippon. 1738–1831 (m. 1773) Flowers. • 51.",
+        "post_evidence": "In their memory. Plant Memorial Trees. Left by Cole Kraft on 4 Apr 2020. Add to Scrapbook. Report abuse."
+      },
+      {
+        "evidence_id": 4,
+        "sentence_id": "45",
+        "score": -0.6438149214000001,
+        "pre_evidence": "×. Advertisement. John Rippon. Birth. 29 Apr 1751. Tiverton, Mid Devon District, Devon, England. Death.",
+        "evidence": "12 Dec 1836 (aged 85) Surrey, England.",
+        "post_evidence": "Burial. Bunhill Fields Burial Ground. London Borough of Islington, Greater London, England. Memorial ID."
+      },
+      {
+        "evidence_id": 1,
+        "sentence_id": "207;208",
+        "score": -0.2274270058,
+        "pre_evidence": "Find a Grave, database and images ( https://www.findagrave.com/memorial/22617/john-rippon: accessed.",
+        "evidence": "08 March 2022 ), memorial page for John Rippon (29 Apr 1751–12 Dec 1836), Find a Grave Memorial ID 22617, citing Bunhill Fields Burial Ground, London Borough of Islington, Greater London, England. ; Maintained by AJ (contributor 1003 ) .",
+        "post_evidence": "Change Photo Order. Drag and drop a photo to change the sort order. Cover Photo. Cover Photo. Cover Photo."
+      },
+      {
+        "evidence_id": 0,
+        "sentence_id": "42",
+        "score": 0.10930300500000001,
+        "pre_evidence": "Photo requests are not allowed for this memorial. Added by Björn Haglund. Added by Cole Kraft. See 2 more. ×. Advertisement. John Rippon. Birth.",
+        "evidence": "29 Apr 1751.",
+        "post_evidence": "Tiverton, Mid Devon District, Devon, England. Death. 12 Dec 1836 (aged 85) Surrey, England. Burial. Bunhill Fields Burial Ground."
+      }
+    ]
+  },
+  {
+    "claim_id": "Q6280561$6EDEC187-EB92-46C0-90CE-174E6EB51CF1",
+    "reference_id": "bb4f43816d7c8fb0ff0e5f22483b22bf86641949",
+    "affirmation": "Joseph-Alexandre Baile was born on 19/04/1801.",
+    "reference_url": "http://www.biographi.ca/en/bio/baile_joseph_alexandre_11E.html",
+    "g_id": -1,
+    "evidence_list": [
+      {
+        "evidence_id": 0,
+        "sentence_id": "20;21",
+        "score": 0.9985251427,
+        "pre_evidence": "The Acadians For Educators Exploring the Explorers The War of 1812  Canada’s Wartime Prime Ministers The First World War Back to top. OK. Cancel. OK.",
+        "evidence": "BAILE (Bayle), JOSEPH-ALEXANDRE, Sulpician priest; b. 19 April 1801 at Saint-Genest de Bauzon, dept of Ardèche, France; d. 31 July 1888 at Montreal, Que. In 1823, after studying under the Basilians, Joseph-Alexandre Baile entered the Sulpician solitude (noviciate) at Issy-les-Moulineaux, dept of Hauts-de-Seine, France; two years later he was sent to Canada.",
+        "post_evidence": "“I scarcely knew in what part of the world the country in question was,” he later remarked. Ordained priest on 1 Oct. 1826, he became a professor of the final year in the classical programme (Rhetoric) at the Petit Séminaire de Montréal by 1827."
+      },
+      {
+        "evidence_id": 3,
+        "sentence_id": "67;68",
+        "score": -0.2602545023,
+        "pre_evidence": "As well, the bishop often asked him to direct ecclesiastical retreats; he had the reputation of speaking simply, without pretence or literary affectation. With Bourget’s approval, he supported setting up the Trappists at Oka.",
+        "evidence": "In 1878 Baile had the honour of presiding at the founding of the faculty of theology in the Université Laval at Montreal. He retired in 1881 and died on 31 July 1888.",
+        "post_evidence": "Baile’s contribution to the field of education is beyond dispute. He had always encouraged his lay and ecclesiastical students to engage in intensive study."
+      },
+      {
+        "evidence_id": 2,
+        "sentence_id": "11",
+        "score": -0.0715186372,
+        "pre_evidence": "Hide Sidebar First Paragraph Bibliography Find Out More How to cite Back to top. ▲ DCB/DBC News New Biographies Minor Corrections Biography of the Day.",
+        "evidence": "LIND, FRANCIS THOMAS – Volume XIV (1911-1920) b. 9 March 1879 in Betts Cove, Nfld.",
+        "post_evidence": "Confederation Responsible Government Sir John A. Macdonald From the Red River Settlement to Manitoba (1812–70)"
+      },
+      {
+        "evidence_id": 1,
+        "sentence_id": "23;24",
+        "score": 0.1656588018,
+        "pre_evidence": "In 1823, after studying under the Basilians, Joseph-Alexandre Baile entered the Sulpician solitude (noviciate) at Issy-les-Moulineaux, dept of Hauts-de-Seine, France; two years later he was sent to Canada. “I scarcely knew in what part of the world the country in question was,” he later remarked.",
+        "evidence": "Ordained priest on 1 Oct. 1826, he became a professor of the final year in the classical programme (Rhetoric) at the Petit Séminaire de Montréal by 1827. From 1830 to 1846 Baile held the position of director of the college.",
+        "post_evidence": "During this troubled period, he was keenly aware of both clerical and lay animosity towards the seminary, and criticized the superior of the Sulpicians in Canada, Joseph-Vincent Quiblier*, for his timorousness in this hostile atmosphere."
+      },
+      {
+        "evidence_id": 4,
+        "sentence_id": "34",
+        "score": -0.6120687723,
+        "pre_evidence": "In 1846 Baile went with Bourget to France to report to the superior general of the Sulpicians on the state of affairs in Montreal.",
+        "evidence": "Returning to Canada in 1847, he took over direction of the Grand Séminaire de Montréal, which had been founded seven years earlier.",
+        "post_evidence": "In his 20 years in office, Baile vigorously imparted the Sulpician spirit to the seminary. He was particularly concerned about the training of ecclesiastics, having deplored the multiplicity and very uneven quality of the theology courses at Montreal and the lack of theological knowledge among the Canadian clergy."
+      }
+    ]
+  },
+  {
+    "claim_id": "Q62637091$C1F95944-8A83-4901-80FF-931DB0F448EC",
+    "reference_id": "5b14a71742a09446d03a95c9426a659cda3bad6f",
+    "affirmation": "Priscila Farias was born in 1964.",
+    "reference_url": "https://www.lambiek.net/artists/f/farias_priscila.htm",
+    "g_id": -1,
+    "evidence_list": [
+      {
+        "evidence_id": 3,
+        "sentence_id": "26;27",
+        "score": -0.7858833075,
+        "pre_evidence": "She moved to Italy in 1985, where she started working as a graphic designer and got involved with magazines Frigidaire and Macchia Gialla. In 1988 she returned to Brazil.",
+        "evidence": "She has been editor for magazines such as Animal, and published her work in Chiclete com Banana, Lúcifer and newspaper Diáro Popular. Artwork © 2022 Priscila Farias.",
+        "post_evidence": "Website © 1994-2022 Lambiek Last updated: 2020-06-21. Gomaa Farahat. Patrick Farley. Save Share. a (610) b (1280) c (1016) d (845) e (246) f (533) g (802) h (698) i (111) j (327) k (635) l (761) m (1216) n (312) o (241) p (780) q (34) r (741) s (1164) t (567) u (68) v (426) w (465) x (16) y (97) z (134) Find other artists in the Comiclopedia: Search in Comiclopedia."
+      },
+      {
+        "evidence_id": 1,
+        "sentence_id": "32;33",
+        "score": -0.2063449025,
+        "pre_evidence": "Artwork © 2022 Priscila Farias. Website © 1994-2022 Lambiek Last updated: 2020-06-21. Gomaa Farahat. Patrick Farley. Save Share.",
+        "evidence": "a (610) b (1280) c (1016) d (845) e (246) f (533) g (802) h (698) i (111) j (327) k (635) l (761) m (1216) n (312) o (241) p (780) q (34) r (741) s (1164) t (567) u (68) v (426) w (465) x (16) y (97) z (134) Find other artists in the Comiclopedia: Search in Comiclopedia. Series and books by Priscila Farias.",
+        "post_evidence": "you can order today: No books found by this artist. X. If you want to help us continue and improve our ever- expanding database, we would appreciate your donation through Paypal."
+      },
+      {
+        "evidence_id": 2,
+        "sentence_id": "24;25",
+        "score": -0.5473409295,
+        "pre_evidence": "(b. 1964, Brazil) Priscila Farias was born in São Paulo, Brazil in 1964. She studied graphic design and published her first comics in magazine Interquadrinhos.",
+        "evidence": "She moved to Italy in 1985, where she started working as a graphic designer and got involved with magazines Frigidaire and Macchia Gialla. In 1988 she returned to Brazil.",
+        "post_evidence": "She has been editor for magazines such as Animal, and published her work in Chiclete com Banana, Lúcifer and newspaper Diáro Popular."
+      },
+      {
+        "evidence_id": 4,
+        "sentence_id": "21",
+        "score": -0.9433681965,
+        "pre_evidence": "f. AddThis Sharing Buttons Share to Facebook Facebook Share to Twitter Twitter Share to Print Print Share to Email Email Share to More AddThis. Comic Creator Priscila Farias.",
+        "evidence": "Priscila Farias.",
+        "post_evidence": "(b. 1964, Brazil) Priscila Farias was born in São Paulo, Brazil in 1964. She studied graphic design and published her first comics in magazine Interquadrinhos."
+      },
+      {
+        "evidence_id": 0,
+        "sentence_id": "22;23",
+        "score": 0.9998633862,
+        "pre_evidence": "f. AddThis Sharing Buttons Share to Facebook Facebook Share to Twitter Twitter Share to Print Print Share to Email Email Share to More AddThis. Comic Creator Priscila Farias. Priscila Farias.",
+        "evidence": "(b. 1964, Brazil) Priscila Farias was born in São Paulo, Brazil in 1964. She studied graphic design and published her first comics in magazine Interquadrinhos.",
+        "post_evidence": "She moved to Italy in 1985, where she started working as a graphic designer and got involved with magazines Frigidaire and Macchia Gialla."
+      }
+    ]
+  },
+  {
+    "claim_id": "Q64565682$02FB353D-6F58-4F60-896C-1B0ABA18B9FA",
+    "reference_id": "409c8e466399cdce0ef46d7101d95b6a8ee90920",
+    "affirmation": "Glps Vendekkumpotty is found in India.",
+    "reference_url": "https://schools.org.in/malappuram/32050400111/",
+    "g_id": -1,
+    "evidence_list": [
+      {
+        "evidence_id": 3,
+        "sentence_id": "81;82",
+        "score": -0.6809189320000001,
+        "pre_evidence": "Best Online Deal for Today. Basic Infrastructure: Village / Town: Vazhikkadavu. Cluster: Gups Marutha.",
+        "evidence": "Block: Nilambur. District: Malappuram.",
+        "post_evidence": "State: Kerala. UDISE Code: 32050400111. Building: Government. Class Rooms: 4. Boys Toilet: 1. Girls Toilet: 1."
+      },
+      {
+        "evidence_id": 2,
+        "sentence_id": "6",
+        "score": -0.6156983376,
+        "pre_evidence": "IFSC Codes. GLPS VENDEKKUMPOTTY. Vazhikkadavu, Nilambur (Malappuram), Kerala. Rated 0 out of 0 Review(s) India.",
+        "evidence": "Kerala.",
+        "post_evidence": "Malappuram. Schools in VAZHIKKADAVU. GLPS VENDEKKUMPOTTY. About GLPS VENDEKKUMPOTTY. GLPS VENDEKKUMPOTTY was established in 1998 and it is managed by the Department of Education."
+      },
+      {
+        "evidence_id": 1,
+        "sentence_id": "3;4",
+        "score": -0.15811839700000002,
+        "pre_evidence": "Home (current) Schools in India. Compnaies in India. IFSC Codes.",
+        "evidence": "GLPS VENDEKKUMPOTTY. Vazhikkadavu, Nilambur (Malappuram), Kerala.",
+        "post_evidence": "Rated 0 out of 0 Review(s) India. Kerala. Malappuram. Schools in VAZHIKKADAVU. GLPS VENDEKKUMPOTTY. About GLPS VENDEKKUMPOTTY."
+      },
+      {
+        "evidence_id": 0,
+        "sentence_id": "13",
+        "score": 0.12271475050000001,
+        "pre_evidence": "GLPS VENDEKKUMPOTTY was established in 1998 and it is managed by the Department of Education. It is located in Rural area.",
+        "evidence": "It is located in NILAMBUR block of MALAPPURAM district of Kerala.",
+        "post_evidence": "The school consists of Grades from 1 to 4. The school is Co-educational and it doesn't have an attached pre-primary section."
+      },
+      {
+        "evidence_id": 4,
+        "sentence_id": "12",
+        "score": -0.6870764494,
+        "pre_evidence": "About GLPS VENDEKKUMPOTTY. GLPS VENDEKKUMPOTTY was established in 1998 and it is managed by the Department of Education.",
+        "evidence": "It is located in Rural area.",
+        "post_evidence": "It is located in NILAMBUR block of MALAPPURAM district of Kerala. The school consists of Grades from 1 to 4."
+      }
+    ]
+  },
+  {
+    "claim_id": "q20875$F07970AC-36EB-4776-985B-90F6DF5F409F",
+    "reference_id": "c9681f0c0f7d97dc983f2b6ce325f2adc598f43c",
+    "affirmation": "Edward VII's country of citizenship is the United Kingdom of Great Britain and Ireland.",
+    "reference_url": "https://www.bbc.co.uk/programmes/b03x10q8",
+    "g_id": -1,
+    "evidence_list": [
+      {
+        "evidence_id": 1,
+        "sentence_id": "55",
+        "score": -0.9901584387000001,
+        "pre_evidence": "Credits. Role. Contributor. Presenter. Michael Portillo. Series Producer. Alison Kreps. Executive Producer.",
+        "evidence": "John Comerford.",
+        "post_evidence": "Broadcasts. Mon 24 Feb 2014. 18:30. BBC Two except Wales. Thu 13 Mar 2014. 19:30. BBC Two Wales. Mon 9 Mar 2015."
+      },
+      {
+        "evidence_id": 2,
+        "sentence_id": "29;30",
+        "score": -0.9938619137,
+        "pre_evidence": "Steered by his 1913 railway guide, Michael Portillo learns how tourists in Germany in the early 20th century would have been visiting quite a new country. Show more.",
+        "evidence": "Steered by his 1913 railway guide, Michael Portillo explores Germany, the powerhouse of today's European Union, and learns how tourists in the early 20th century would have been visiting quite a new country, which they admired and envied but also feared. Beginning in Dresden, Michael explores the city of one of his favourite opera composers, Richard Wagner.",
+        "post_evidence": "He learns about the health craze of the time and attempts the equivalent of a 1913 Jane Fonda workout."
+      },
+      {
+        "evidence_id": 0,
+        "sentence_id": "34;35",
+        "score": -0.7376030684,
+        "pre_evidence": "In Brunswick, he learns how the arrival of the railway added its own flavour to the local beer before moving on to Hamburg, where he discovers model railway-making on the grandest of scales.",
+        "evidence": "In Kiel, Michael learns about the intense rivalry between Kaiser Wilhelm of Germany and his uncle, British King Edward VII, at the Kiel Week yacht races. Michael boards an early 20th-century yacht to experience the thrill for himself and learns how British yachtsmen spied on the German navy.",
+        "post_evidence": "Show less. 30 minutes. Last on. Wed 10 Jan 2018. 19:30. BBC Four. More episodes. Previous. Dresden to Kiel: Part 1 — Series 2- Reversions."
+      },
+      {
+        "evidence_id": 4,
+        "sentence_id": "11",
+        "score": -0.9958535433000001,
+        "pre_evidence": "Please let us know if you agree to all of these cookies. Please let us know if you agree to all of these cookies. Yes, I agree.",
+        "evidence": "Yes, I agree.",
+        "post_evidence": "No, take me to settings. No, take me to settings. Homepage Accessibility links Skip to content Accessibility Help Sign in Notifications Home News Sport Weather iPlayer"
+      },
+      {
+        "evidence_id": 3,
+        "sentence_id": "10",
+        "score": -0.9958535433000001,
+        "pre_evidence": "Please let us know if you agree to all of these cookies. Please let us know if you agree to all of these cookies.",
+        "evidence": "Yes, I agree.",
+        "post_evidence": "Yes, I agree. No, take me to settings. No, take me to settings. Homepage Accessibility links Skip to content Accessibility Help Sign in Notifications Home News Sport Weather iPlayer"
+      }
+    ]
+  },
+  {
+    "claim_id": "q188039$796CF698-F001-4BE3-AB62-B5C905940105",
+    "reference_id": "8e09984f262a71ae9bc1a9b200b103acdc7e7454",
+    "affirmation": "Clara Barton died on 12/04/1912.",
+    "reference_url": "https://www.findagrave.com/memorial/63/clara-barton",
+    "g_id": -1,
+    "evidence_list": [
+      {
+        "evidence_id": 2,
+        "sentence_id": "73;74",
+        "score": 0.1365419924,
+        "pre_evidence": "She risked her life to bring supplies and support to soldiers in the field during the American Civil War.",
+        "evidence": "At age 59, she founded the American Red Cross in 1881, and earned the nickname of the \"Angel of the Battlefield\" for her monumental efforts to treat the wounded soldiers. Born Christmas Day on a farm in North Oxford, Massachusetts, she became a teacher and a government worker before heading off to nurse the wounds of soldiers on bloody civil war battlefields.",
+        "post_evidence": "She was so close to the front lines at the Battle of Antietam in September of 1862 that a bullet passed through …."
+      },
+      {
+        "evidence_id": 0,
+        "sentence_id": "46;47",
+        "score": 0.914737463,
+        "pre_evidence": "Original Name. Clarissa Harlowe Barton. Birth. 25 Dec 1821. North Oxford, Worcester County, Massachusetts, USA.",
+        "evidence": "Death. 12 Apr 1912 (aged 90) Glen Echo, Montgomery County, Maryland, USA.",
+        "post_evidence": "Burial. North Cemetery. Oxford, Worcester County, Massachusetts, USA. Show Map. Memorial ID. 63 · View Source."
+      },
+      {
+        "evidence_id": 4,
+        "sentence_id": "170;171",
+        "score": 0.0731969476,
+        "pre_evidence": "Add to Scrapbook. Report abuse. Left by Chuck Garland on 16 Jan 2022. Add to Scrapbook. Report abuse.",
+        "evidence": "The Good Lord gave us Clara on a Christmas Day in the early 1800s and we're grateful for having her and for the kind of Life she led. She was profoundly helpful to thousands of people, especially soldiers.",
+        "post_evidence": "May she now be filled with Peace and Joy. The Good Lord gave us Clara on a Christmas Day in the early 1800s and we're grateful for having her and for the kind of Life she led."
+      },
+      {
+        "evidence_id": 1,
+        "sentence_id": "240",
+        "score": 0.4172841907,
+        "pre_evidence": "Source Hide citation. Find a Grave, database and images ( https://www.findagrave.com/memorial/63/clara-barton: accessed.",
+        "evidence": "08 March 2022 ), memorial page for Clara Barton (25 Dec 1821–12 Apr 1912), Find a Grave Memorial ID 63, citing North Cemetery, Oxford, Worcester County, Massachusetts, USA. ; Maintained by Find a Grave. .",
+        "post_evidence": "Change Photo Order. Drag and drop a photo to change the sort order. Cover Photo. Cover Photo. Cover Photo."
+      },
+      {
+        "evidence_id": 3,
+        "sentence_id": "80;81",
+        "score": 0.1365419924,
+        "pre_evidence": "She risked her life to bring supplies and support to soldiers in the field during the American Civil War.",
+        "evidence": "At age 59, she founded the American Red Cross in 1881, and earned the nickname of the \"Angel of the Battlefield\" for her monumental efforts to treat the wounded soldiers. Born Christmas Day on a farm in North Oxford, Massachusetts, she became a teacher and a government worker before heading off to nurse the wounds of soldiers on bloody civil war battlefields.",
+        "post_evidence": "She was so close to the front lines at the Battle of Antietam in September of 1862 that a bullet passed through her clothes and killed the wounded soldier she was tending."
+      }
+    ]
+  },
+  {
+    "claim_id": "Q48889254$8158122b-4847-1f63-aab8-81d772e13e8c",
+    "reference_id": "71453f185df7a0002af998fdfb206f741bda7d2b",
+    "affirmation": "Lars Schmidt's archive location is the Library of Congress Music Division.",
+    "reference_url": "https://www.loc.gov/collections/lars-schmidt/about-this-collection/",
+    "g_id": -1,
+    "evidence_list": [
+      {
+        "evidence_id": 1,
+        "sentence_id": "57;58",
+        "score": -0.2103403211,
+        "pre_evidence": "Memo, Jérôme Hullot to [Lars Schmidt], 25 February 1964. Oslo Nye Teater, program for My Fair Lady, Portrait of Lars Schmidt, undated.",
+        "evidence": "Program for Slå Nollan Till Polisen (Dial M for Murder), 1953. [ Costume Designs- Ball], My Fair Lady, undated.",
+        "post_evidence": "Clippings about Orpheus Descending, Scrapbook [Paris... Letter, Christopher Fry to Lars Schmidt, 27 March 1947."
+      },
+      {
+        "evidence_id": 4,
+        "sentence_id": "59;60",
+        "score": -0.365586102,
+        "pre_evidence": "Program for Slå Nollan Till Polisen (Dial M for Murder), 1953. [ Costume Designs- Ball], My Fair Lady, undated.",
+        "evidence": "Clippings about Orpheus Descending, Scrapbook [Paris... Letter, Christopher Fry to Lars Schmidt, 27 March 1947.",
+        "post_evidence": "Program for Metamorphosis, R. J. Reynolds Industries Theater,... Production Schedule, 5 May 1949. Poster for Janus, from Scrapbook Engelska productions, 1957."
+      },
+      {
+        "evidence_id": 0,
+        "sentence_id": "86;87",
+        "score": 0.16738483310000002,
+        "pre_evidence": "This site focuses on Schmidt's efforts to bring English-language plays and musicals, mostly from the United States, to Nordic and Parisian stages.",
+        "evidence": "He was especially responsible for bringing many quintessential American musicals, such as those by Rodgers and Hammerstein, Lerner and Loewe, and Cole Porter, to European stages. The correspondence, programs, photographs, posters, and scrapbooks selected from the Lars Schmidt Papers at the Library of Congress provide an introduction to the plays he staged, the people with whom he worked, and the methods he used in his transcontinental play work.",
+        "post_evidence": "The Lars Schmidt Papers contain over 7,200 items spanning the period 1910 to 2010, with the bulk of the materials dating between 1941 and 1971."
+      },
+      {
+        "evidence_id": 3,
+        "sentence_id": "88",
+        "score": -0.3198730946,
+        "pre_evidence": "The correspondence, programs, photographs, posters, and scrapbooks selected from the Lars Schmidt Papers at the Library of Congress provide an introduction to the plays he staged, the people with whom he worked, and the methods he used in his transcontinental play work.",
+        "evidence": "The Lars Schmidt Papers contain over 7,200 items spanning the period 1910 to 2010, with the bulk of the materials dating between 1941 and 1971.",
+        "post_evidence": "About this Collection. Related Resources. Rights and Access. Expert Resources. Musicals of Stage and Screen: A Guide to Resources at the Library of Congress."
+      },
+      {
+        "evidence_id": 2,
+        "sentence_id": "68;69",
+        "score": -0.2103403211,
+        "pre_evidence": "Memo, Jérôme Hullot to [Lars Schmidt], 25 February 1964. Oslo Nye Teater, program for My Fair Lady, Portrait of Lars Schmidt, undated.",
+        "evidence": "Program for Slå Nollan Till Polisen (Dial M for Murder), 1953. [ Costume Designs- Ball], My Fair Lady, undated.",
+        "post_evidence": "Clippings about Orpheus Descending, Scrapbook [Paris... Letter, Christopher Fry to Lars Schmidt, 27 March 1947."
+      }
+    ]
+  },
+  {
+    "claim_id": "Q64566934$EA9C53AA-1E8D-4D0D-814E-0FB00E7AA3EE",
+    "reference_id": "c142c251fcb563f07dabef11a283b4fd171f1eb6",
+    "affirmation": "Pandallur Hss is located in India.",
+    "reference_url": "https://schools.org.in/malappuram/32050601215/",
+    "g_id": -1,
+    "evidence_list": [
+      {
+        "evidence_id": 3,
+        "sentence_id": "118;119",
+        "score": -0.7436110377,
+        "pre_evidence": "GMLPS EDAVANNA. GMLPS KARAKUNNU. GMLPS KODASSERI. GMLPS PANDIKKAD. GUPS ANAKKAYAM. GUPS MANJERI. GUPS PULLOOR.",
+        "evidence": "School Contact: Pandaloor, Manjeri. MALAPPURAM, Kerala.",
+        "post_evidence": "PIN Code: 676521 (INDIA) Mobile: +91 XXXXX-XXXXX. Email: XXXX@XXXXXX.XXX. Update Your School. ×. Please Note-"
+      },
+      {
+        "evidence_id": 0,
+        "sentence_id": "14",
+        "score": 0.29895803330000004,
+        "pre_evidence": "PANDALLUR HSS was established in 1979 and it is managed by the Pvt. Aided. It is located in Rural area.",
+        "evidence": "It is located in MANJERI block of MALAPPURAM district of Kerala.",
+        "post_evidence": "The school consists of Grades from 8 to 12. The school is Co-educational and it doesn't have an attached pre-primary section."
+      },
+      {
+        "evidence_id": 2,
+        "sentence_id": "13",
+        "score": -0.2843200564,
+        "pre_evidence": "PANDALLUR HSS. About PANDALLUR HSS. PANDALLUR HSS was established in 1979 and it is managed by the Pvt. Aided.",
+        "evidence": "It is located in Rural area.",
+        "post_evidence": "It is located in MANJERI block of MALAPPURAM district of Kerala. The school consists of Grades from 8 to 12."
+      },
+      {
+        "evidence_id": 1,
+        "sentence_id": "3;4",
+        "score": -0.0570103005,
+        "pre_evidence": "Home (current) Schools in India. Compnaies in India. IFSC Codes.",
+        "evidence": "PANDALLUR HSS. Pandaloor, Manjeri (Malappuram), Kerala.",
+        "post_evidence": "Rated 3.4 out of 5 Review(s) India. Kerala. Malappuram. Schools in PANDALOOR. PANDALLUR HSS. About PANDALLUR HSS."
+      },
+      {
+        "evidence_id": 4,
+        "sentence_id": "6",
+        "score": -0.8893970251000001,
+        "pre_evidence": "IFSC Codes. PANDALLUR HSS. Pandaloor, Manjeri (Malappuram), Kerala. Rated 3.4 out of 5 Review(s) India.",
+        "evidence": "Kerala.",
+        "post_evidence": "Malappuram. Schools in PANDALOOR. PANDALLUR HSS. About PANDALLUR HSS. PANDALLUR HSS was established in 1979 and it is managed by the Pvt."
+      }
+    ]
+  },
+  {
+    "claim_id": "Q58481743$72999E39-348D-4DD3-8272-D4A24B9E7894",
+    "reference_id": "78eb8ba32e77a9434161dabc2dee3b4dede3fa0b",
+    "affirmation": "Shravan Kumar's original language is Hindi.",
+    "reference_url": "https://indiancine.ma/BCB",
+    "g_id": -1,
+    "evidence_list": [
+      {
+        "evidence_id": 1,
+        "sentence_id": "0",
+        "score": -0.9949649572,
+        "pre_evidence": "",
+        "evidence": "Shravan Kumar (1932) Director: A.R. Kabuli.",
+        "post_evidence": "Indiancine.ma requires JavaScript. Indiancine.ma User List Item View Sort Find Data Help not signed in All Movies Personal Lists"
+      },
+      {
+        "evidence_id": 3,
+        "sentence_id": "2",
+        "score": -0.9999062419,
+        "pre_evidence": "Shravan Kumar (1932) Director: A.R. Kabuli. Indiancine.ma requires JavaScript.",
+        "evidence": "Indiancine.ma User List Item View Sort Find Data Help not signed in All Movies Personal Lists",
+        "post_evidence": "No personal lists Favorite Lists No favorite lists Featured Lists Encyclopedia of Indian Cinema 24,761 Out Of Copyright Video 1,206 Roads in Indian Cinema 81"
+      },
+      {
+        "evidence_id": 0,
+        "sentence_id": "4;5",
+        "score": -0.10530821230000001,
+        "pre_evidence": "Indiancine.ma User List Item View Sort Find Data Help not signed in All Movies Personal Lists No personal lists Favorite Lists",
+        "evidence": "No favorite lists Featured Lists Encyclopedia of Indian Cinema 24,761 Out Of Copyright Video 1,206 Roads in Indian Cinema 81 Out of Copyright 8,658 1957 122 Bombay Talkies 3 The New Cinemas project 114 Communist Films from Kerala 59 Films annotated by the Media Lab Jadavpur University 37 Annotation project supported by the University of Chicago 21 Devdas' final return 4 Movies with Video No featured lists Local Volumes No local volumes No Video View Info Shravan Kumar (A.R. Kabuli) 1932 Find: All Shravan Kumar A.R. Kabuli Year: 1932; Language: Hindi IMDb ID: 0426215 Documents 0 Rights Level Out of Copyright.",
+        "post_evidence": ""
+      },
+      {
+        "evidence_id": 2,
+        "sentence_id": "1",
+        "score": -0.9998531938,
+        "pre_evidence": "Shravan Kumar (1932) Director: A.R. Kabuli.",
+        "evidence": "Indiancine.ma requires JavaScript.",
+        "post_evidence": "Indiancine.ma User List Item View Sort Find Data Help not signed in All Movies Personal Lists No personal lists Favorite Lists"
+      },
+      {
+        "evidence_id": 4,
+        "sentence_id": "3",
+        "score": -0.9999214411,
+        "pre_evidence": "Indiancine.ma requires JavaScript. Indiancine.ma User List Item View Sort Find Data Help not signed in All Movies Personal Lists",
+        "evidence": "No personal lists Favorite Lists",
+        "post_evidence": "No favorite lists Featured Lists Encyclopedia of Indian Cinema 24,761 Out Of Copyright Video 1,206 Roads in Indian Cinema 81"
+      }
+    ]
+  }
+]
