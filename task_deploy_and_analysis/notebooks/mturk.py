@@ -44,11 +44,16 @@ class MTurk():
     def create_hit(self, html_layout, **TaskAttributes):
         QUESTION_XML = """<HTMLQuestion xmlns="http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2011-11-11/HTMLQuestion.xsd"><HTMLContent><![CDATA[{}]]></HTMLContent><FrameHeight>650</FrameHeight></HTMLQuestion>"""
         question_xml = QUESTION_XML.format(html_layout)
-
-        response = self.client.create_hit(
-        **TaskAttributes,
-            Question=question_xml
-        )
+        
+        try:
+            response = self.client.create_hit(
+            **TaskAttributes,
+                Question=question_xml
+            )
+        except Exception:
+            with open('question_debug.xml','w+') as f:
+                f.write(question_xml)
+            raise
 
         return response
 

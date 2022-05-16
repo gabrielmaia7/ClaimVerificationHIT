@@ -27,7 +27,7 @@ to_approve = (sys.argv[3] == '1')
 db_client = pymongo.MongoClient(mongodb_credentials["connection_string"])
 
 db = db_client['textual_entailment']
-is_pilot = True
+is_pilot = False
 
 suffix = ''
 if not create_hits_in_production:
