@@ -4,7 +4,7 @@
     "reference_id": "771dd116e118977c8e8dd3e0e2ebcdb77ee6eec6",
     "affirmation": "Terra Nova was filmed at Paramount Stage 18.",
     "reference_url": "https://memory-alpha.fandom.com/wiki/Terra_Nova_(episode)?oldid=2568181#Production_history",
-    "g_id": -1,
+    "g_id": [0, 2],
     "evidence_list": [
       {
         "evidence_id": 2,
@@ -53,7 +53,7 @@
     "reference_id": "0fcdcff2ab3d18416aaffc96245f4ce579b982fa",
     "affirmation": "George Lansell died in 1906.",
     "reference_url": "https://adb.anu.edu.au/biography/lansell-george-3992",
-    "g_id": -1,
+    "g_id": [0],
     "evidence_list": [
       {
         "evidence_id": 3,
@@ -102,7 +102,7 @@
     "reference_id": "fa3dbf3fc3baa365e9b90114a310f42b757d2809",
     "affirmation": "Arka Gdynia won the 2016–17 Polish Cup.",
     "reference_url": "https://en.wikipedia.org/w/index.php?title=2016%E2%80%9317_Polish_Cup&oldid=893822928",
-    "g_id": -1,
+    "g_id": [2],
     "evidence_list": [
       {
         "evidence_id": 0,
@@ -151,7 +151,7 @@
     "reference_id": "f5e78b84803a84ce5f6e5f02784dc7dd52d80739",
     "affirmation": "The 2020 Guernsey COVID-19 lockdown is an organized response related to the 2020 COVID-19 pandemic in Guernsey.",
     "reference_url": "https://www.bbc.co.uk/news/live/world-europe-guernsey-51999470?ns_mchannel=social&ns_source=twitter&ns_campaign=bbc_live&ns_linkname=5e7a5199276ca90663acc23d%26%27Strict%27%20lockdown%20measures%20from%20midnight%262020-03-24T19%3A00%3A54.329Z&ns_fee=0&pinned_post_locator=urn:asset:b2bb241b-8081-4dda-906a-73efd8e36889&pinned_post_asset_id=5e7a5199276ca90663acc23d&pinned_post_type=share",
-    "g_id": -1,
+    "g_id": [0,2],
     "evidence_list": [
       {
         "evidence_id": 1,
@@ -200,7 +200,7 @@
     "reference_id": "c76b2a485828dd37029779c87b1b7b40b8af383f",
     "affirmation": "Restrictive Trade Practices (Jewellery, Watches and Clocks) Order, 1968 has a citation of S.I. No. 80/1968.",
     "reference_url": "https://www.irishstatutebook.ie/eli/1968/si/80/made/en/print",
-    "g_id": -1,
+    "g_id": [0],
     "evidence_list": [
       {
         "evidence_id": 1,
@@ -249,7 +249,7 @@
     "reference_id": "65721fce0505785f03861baddc9c8f8c160b665b",
     "affirmation": "EIB INFO 1-2010 (n°137) was published on 24/03/2010.",
     "reference_url": "https://www.eib.org/en/publications/eib-information-1-2010-n137",
-    "g_id": -1,
+    "g_id": [0,2],
     "evidence_list": [
       {
         "evidence_id": 0,
@@ -298,7 +298,7 @@
     "reference_id": "8aaf28f79d3f11d2725fd0c1eb0c4f5f3eef0048",
     "affirmation": "Lucha Electoral was created in 1911.",
     "reference_url": "https://www.loc.gov/item/2001241171/",
-    "g_id": -1,
+    "g_id": [0],
     "evidence_list": [
       {
         "evidence_id": 0,
@@ -347,7 +347,7 @@
     "reference_id": "c7a82981831435a101836441b668896ff7c0f48a",
     "affirmation": "Synagoge Halderstraße is located between the main train station and the Königsplatz tram hub.",
     "reference_url": "https://en.wikivoyage.org/wiki/Augsburg?oldid=3782944",
-    "g_id": -1,
+    "g_id": [0],
     "evidence_list": [
       {
         "evidence_id": 4,
@@ -396,7 +396,7 @@
     "reference_id": "1b6a1b968aab67dece0c691a585314d840b48789",
     "affirmation": "Synchronised died on 14/04/2012.",
     "reference_url": "https://www.bbc.co.uk/sport/horse-racing/17453652",
-    "g_id": -1,
+    "g_id": [2],
     "evidence_list": [
       {
         "evidence_id": 1,
@@ -445,7 +445,7 @@
     "reference_id": "48b94bf95f53fface288d27c0d059bcf059e2144",
     "affirmation": "Mary Daly was born on 24/08/1896.",
     "reference_url": "https://adb.anu.edu.au/biography/daly-dame-mary-dora-may-12396",
-    "g_id": -1,
+    "g_id": [0],
     "evidence_list": [
       {
         "evidence_id": 1,
@@ -494,7 +494,7 @@
     "reference_id": "0e0dcc2b6f98cec9c65db730041977bac15ae914",
     "affirmation": "Frida Prifer died of homicide.",
     "reference_url": "https://yvng.yadvashem.org/nameDetails.html?itemId=1018275",
-    "g_id": -1,
+    "g_id": [0],
     "evidence_list": [
       {
         "evidence_id": 0,
@@ -543,7 +543,7 @@
     "reference_id": "c714ca621d1fe1ca35f20e01a72587d23bdd8e1e",
     "affirmation": "Navjeevan's original language is Hindi.",
     "reference_url": "https://indiancine.ma/BTW",
-    "g_id": -1,
+    "g_id": [0],
     "evidence_list": [
       {
         "evidence_id": 4,
@@ -588,60 +588,60 @@
     ]
   },
   {
-    "claim_id": "Q56818480$2D60B386-F18B-43B3-9B76-C5B4BE960D2A",
-    "reference_id": "0280723077b22b8f9cf2c636fa889db510e0272d",
-    "affirmation": "The Department of Finance is the administrator of the Appropriation Act (No. 1) 1990-1991.",
-    "reference_url": "https://www.legislation.gov.au/Details/C2004A04029",
-    "g_id": -1,
+    "claim_id": "Q100563556$D84F6934-F8AB-4151-BD8D-A470970DAF82",
+    "reference_id": "b8db0a114090131c54048bd969074aa5e275ddcb",
+    "affirmation": "William Norton is the author of the Emergency Powers (Dundalk Gas Charges) Order, 1943 (Revocation) Order, 1955.",
+    "reference_url": "https://www.irishstatutebook.ie/eli/1955/si/159/made/en",
+    "g_id": [0],
     "evidence_list": [
       {
-        "evidence_id": 4,
-        "sentence_id": "117",
-        "score": 0.3708193898,
-        "pre_evidence": "(2) Where, immediately before this Act commences, there was in force an agreement between the Minister for Administrative Services and the Minister for Finance whereby certain receipts for the 1990-91 financial year in respect of the Commonwealth Bureau of Meteorology might be credited to a revenue account established in the Commonwealth Public-Account to meet running costs referred to in Division 118 of the Supply and Appropriation Acts for that year causing an equal amount to be taken to have been appropriated to those running costs: (a) that agreement has effect, and is taken at all times to have had effect, as if it had provided that those receipts might be credited instead to a revenue account established in the Commonwealth Public Account to meet running costs referred to in Division 146 of the Supply and Appropriation Acts for that year causing an equal amount to have been taken to be appropriated to those running costs; and (b) any money that, before this Act commences, was credited, under the agreement, to the first-mentioned revenue account is taken to have been credited to the second-mentioned revenue account; and (c) any money that, before this Act commences, was taken, because of the operation of the agreement, to have been appropriated to running costs referred to in Division 118 is taken to have been appropriated to running costs referred to in Division 146. The National Science and Technology Centre 13.",
-        "evidence": "(1) If a body to be known as the National Science and Technology Centre is established by legislation before 1 July 1991, this Act has effect, and is taken at all times to have had effect, as if the appropriation of an amount to the Department of the Arts, Sport, the Environment, Tourism and Territories under Division 154 of Schedule 3 to this Act were: (a) an appropriation to that body of so much of that amount as is determined, in writing, by the Minister for finance to be required for the purposes of that body in respect of the period commencing on the establishment of the body and ending on 30 June 1991; and (b) an appropriation of the balance of that amount to the Department for the purpose of meeting running costs incurred by the Department preparatory to the establishment of the body.",
-        "post_evidence": "(2) Any determination made under section 9 of the Supply Act (No. 1) 1990-91 is taken, for the purposes of a determination under subsection (1), to form part of the latter determination and to have been made in respect of the period referred to in paragraph (1)(a)."
-      },
-      {
         "evidence_id": 2,
-        "sentence_id": "357;358",
-        "score": 0.4111784995,
-        "pre_evidence": "Compensation and legal expenses........... 3 200 3 000 — Total: Division 305 42 825 000 36 648 100 35 073 460 Division 306.— RETIREMENT BENEFITS OFFICE 1.—Running Costs (net appropriation — see section 9) 23 340 000 18 158 378 17 987 300 Department of Finance—continued 1990-91 1989-90 Appropriation Expenditure $ $ $ 2.—Property Operating Expenses 1 835 000 2 201 000 1 962 688 3.—Other Services 01.",
-        "evidence": "Compensation and ieeal expenses........... 53 000 152 000 141 352 02. Payments under subsection 34A (1) of the Audit Act 1901............................... 220 000 200 000 199 999 273 000 352 000 341 351 Total: Division 306 25 448 000 20 711 378 20 291 339 Total: Department of Finance......................... 170 779 000 172 218 394 166 859 622 ADVANCE TO THE MINISTER FOR FINANCE 1990-91 1989-90 Appropriation Expenditure $ $ $ Division 310.—ADVANCE TO THE MINISTER FOR FINANCE To enable the Minister for Finance: (a) to make advances that will be recovered during the financial year, in respect of expenditure that is expenditure for the ordinary annual services of the Government; (b) to make money available for expenditure: (i) that the Minister for Finance is satisfied is expenditure that is urgently required and: (A) was unforeseen until after the last day on which it was practicable to include appropriation for that expenditure in the Bill for this Act before the introduction of that Rill into the House of Representatives; or (B) was erroneously omitted from, or understated in, the Bill for this Act; and (ii) particulars of which will afterwards be submitted to the Parliament; being expenditure for the ordinary annual services of the Government; and (c) to make money available for expenditure, being expenditure for the ordinary annual services of the Government, pending authorisation under section 32 of the Audit Act 1901 to that expenditure....... 170 000 000 170 000 000 *",
-        "post_evidence": "* Expenditure is shown under the appropriation to which it has been charged. DEPARTMENT OF FOREIGN AFFAIRS AND TRADE SUMMARY Appropriation — 1990-91, Heavy figures Expenditure — 1989-90, Light figures Division Running Costs Other Services Total $ $ S 315 Administrative............................................... 336 048 500 68 098 500 404 147 000 315 122 537 75 357 308 390 459 845 316 Australia-Japan Foundation........................... 569 000 968 000 1 537 000 504 094 968 000 1 472 094 317 Australian International Development Assistance Bureau....................................................... 27 636 300 1 002 474 700 1 030 111 000 27 385 810 1 028 840 442 1 056 226 252 318 Australian Secret Intelligence Service............ — 21 105 000 21 105 000 — 20 731 000 20 731 000 319 Australian Centre for International Agricultural Research.................................................... — 17 000 000 17 000 000 — 17 400 000 17 400 000 Total............................................................. 364 253 800 1 109 646 200 1 473 900 000 343 012 441 1 143 276 750 1 486 289 191 DEPARTMENT OF FOREIGN AFFAIRS AND TRADE 1990-91 1989-90 Appropriation Expenditure Division 315.—ADMINISTRATIVE $ $ $ 1.—Running Costs (net appropriation — see section 9) 336 048 500 315 252 500 315 122 537 2.—Property Operating Expenses..................... 10 948 000 11 250 200 10 991 468 3.—Other Services 01.Destitute Australians abroad — Relief including funeral expenses................................................... 109 800 110 300 109 468 02."
+        "sentence_id": "56;57",
+        "score": 0.9992642403,
+        "pre_evidence": "Amendments Leasuithe. S.I. No. 159 of 1955. EMERGENCY POWERS (DUNDALK GAS CHARGES) ORDER, 1943 (REVOCATION) ORDER, 1955.",
+        "evidence": "I, WILLIAM NORTON, Minister for Industry and Commerce, in exercise of the powers conferred on me by Article 31 of the Emergency Powers Order, 1939 (S. R. & O. No. 224 of 1939), as amended by the Emergency Powers (No. 173) Order, 1942, (S. R. & O. No. 166 of 1942) (which Orders are continued in force by the Supplies and Services (Temporary Provisions) Act, 1946 (No. 22 of 1946)), and of every and any other power me in this behalf enabling, hereby order as follows:—. 1. This Order may be cited as the Emergency Powers (Dundalk Gas Charges) Order, 1943 (Revocation) Order, 1955. 2.",
+        "post_evidence": "The Emergency Powers (Dundalk Gas Charges) Order, 1943 (S. R. & O. No. 230 of 1943) is hereby revoked as on and from the 16th day of August, 1955."
       },
       {
         "evidence_id": 3,
-        "sentence_id": "355;356",
-        "score": 0.37845695020000003,
-        "pre_evidence": "Loan servicing — Loans of (Canberra Commercial Development Authority.......................... 5 619 000 2 763 000 2 749 211 08.",
-        "evidence": "Aborigines and Torres Strait Islanders — War gratuities 1 000 4 000 3 950 Interest on trustee moneys (for payment to the Defence Service Homes Insurance Trust Account) — 4 000 — 42 423 000 58 048 274 56 374 682 Total: Division 304 102 506 000 114 858 916 111 494 823 Division 305.—AUSTRALIAN NATIONAL AUDIT OFFICE 1.—Running Costs (net appropriation — see section 9) 35 208 400 30 273 100 29 754 576 2.—Property Operating Expenses.................. 7 613 400 6 372 000 5 318 884 3.—Other Services 01. Compensation and legal expenses........... 3 200 3 000 — Total: Division 305 42 825 000 36 648 100 35 073 460 Division 306.— RETIREMENT BENEFITS OFFICE 1.—Running Costs (net appropriation — see section 9) 23 340 000 18 158 378 17 987 300 Department of Finance—continued 1990-91 1989-90 Appropriation Expenditure $ $ $ 2.—Property Operating Expenses 1 835 000 2 201 000 1 962 688 3.—Other Services 01.",
-        "post_evidence": "Compensation and ieeal expenses........... 53 000 152 000 141 352 02. Payments under subsection 34A (1) of the Audit Act 1901............................... 220 000 200 000 199 999 273 000 352 000 341 351 Total: Division 306 25 448 000 20 711 378 20 291 339 Total: Department of Finance......................... 170 779 000 172 218 394 166 859 622 ADVANCE TO THE MINISTER FOR FINANCE 1990-91 1989-90 Appropriation Expenditure $ $ $ Division 310.—ADVANCE TO THE MINISTER FOR FINANCE To enable the Minister for Finance: (a) to make advances that will be recovered during the financial year, in respect of expenditure that is expenditure for the ordinary annual services of the Government; (b) to make money available for expenditure: (i) that the Minister for Finance is satisfied is expenditure that is urgently required and: (A) was unforeseen until after the last day on which it was practicable to include appropriation for that expenditure in the Bill for this Act before the introduction of that Rill into the House of Representatives; or (B) was erroneously omitted from, or understated in, the Bill for this Act; and (ii) particulars of which will afterwards be submitted to the Parliament; being expenditure for the ordinary annual services of the Government; and (c) to make money available for expenditure, being expenditure for the ordinary annual services of the Government, pending authorisation under section 32 of the Audit Act 1901 to that expenditure....... 170 000 000 170 000 000 *"
-      },
-      {
-        "evidence_id": 0,
-        "sentence_id": "62",
-        "score": 0.6038812399,
-        "pre_evidence": "Bookmark. this version | go to latest. Home. Acts. No longer in force. As Made. Details: C2004A04029.",
-        "evidence": "Appropriation Act (No. 1) 1990-91.",
-        "post_evidence": "- C2004A04029. No longer in force. View Series. Act No. 98 of 1990 as made. An Act to appropriate certain sums out of the Consolidated Revenue Fund for the service of the year ending on 30 June 1991, and for related purposes."
+        "sentence_id": "58",
+        "score": 0.8322148919,
+        "pre_evidence": "This Order may be cited as the Emergency Powers (Dundalk Gas Charges) Order, 1943 (Revocation) Order, 1955. 2.",
+        "evidence": "The Emergency Powers (Dundalk Gas Charges) Order, 1943 (S. R. & O. No. 230 of 1943) is hereby revoked as on and from the 16th day of August, 1955.",
+        "post_evidence": "GIVEN under my Official Seal this 16th day of August, 1955. (Signed) W. NORTON, Minister for Industry and Commerce."
       },
       {
         "evidence_id": 1,
-        "sentence_id": "439;440",
-        "score": 0.466609329,
-        "pre_evidence": "Compensation and legal expenses.............. 250 000 556 000 137 776 03. Assistance For union restructuring..............",
-        "evidence": "750 000 450 000 268 140 04. Migrant workers Participation Scheme........ 718 000 676 000 640 000 Total: Division 365 56 423 000 57 558 349 52 753 478 Division 366.—AFFIRMATIVE ACTION AGENCY 1.—Running Costs (net appropriation — see section 9) 1 505 000 1 433 000 1 326 197 2.—Property Operating Expenses..................... 236 000 240 000 233 796 Total: Division 366 1 741 000 1 673 000 1 559 993 Division 367.—AUSTRALIAN TRADE UNION TRAINING AUTHORITY 1.—for expenditure under the Trade Union Training Authority Act 1975 — Operating expenses...... 9 465 000 8 945 000 8 944 999 Division 368.—AUSTRALIAN INDUSTRIAL REGISTRY 1.—Running Costs (net appropriation — see section 9) 25 659 000 23 863 000 23 444 090 2.—Property Operating Expenses..................... 9 275 000 9 580 000 9 413 949 3.—Other Services Payments under subsection 34A(1) of the Audit Act 1901 — 68 000 67 593 Total: Division 368 34 934 000 33 511 000 32 925 632 Department of Industrial Relations—continued 1990-91 1989-90 Appropriation Expenditure $ $ $ Division 369.—NATIONAL OCCUPATIONAL HEALTH AND SAFETY COMMISSION 1.—For expenditure under the National Occupational Health and Safety Commission Act 1985 — Operating expenses...................................................... 17 884 000 19 432 000 19 432 000 Division 370.—REMUNERATION TRIBUNAL 1.—Running Costs (net appropriation — see section 9) 923 000 869 000 601 509 2.—Property Operating Expenses....................... 214 000 246 000 191 693 Total: Division 370 1 137 000 1 115 000 793 202 Division 371.—COMMISSION FOR THE SAFETY, REHABILITATION AND COMPENSATION OF COMMONWEALTH EMPLOYEES 1.—For expenditure under the Commonwealth Employees’ Rehabilitation and Compensation Act 1988 — Operating expenses.................................... 179 352 000 165 270 000 154 278 500 Total: Department of Industrial Relations.......... 300 936 000 287 504 349 270 687 804 DEPARTMENT OF INDUSTRY, TECHNOLOGY AND COMMERCE SUMMARY Appropriation — 1990-91, Heavy figures Expenditure— 1989-90, Light figures Division Running Costs Other Services Total $ $ $ 380 Administrative............................................... 59 224 000 227 268 500 286 492 500 53 838 689 168 582 496 222 421 185 381 Australian Customs Service........................... 239 144 200 31 354 800 270 499 000 225 647 010 30 382 548 256 029 558 382 Australian Institute of Marine Science........... — 11 794 300 11 794 300 — 11 375 100 11 375 100 383 Australian Nuclear Science and Technology Organisation............................................... — 44 026 500 44 026 500 — 46 414 900 46 414 900 384 Australian Trade Commission........................ — 268 655 000 268 655 000 — 297 481 000 297 481 000 385 Automotive Industry Authority...................... 1 063 300 7 500 000 8 563 300 863 210 8 271 420 9 134 630 386 Commonwealth Scientific and Industrial Research Organisation............................................... — 391 384 400 391 384 400 — 363 007 500 363 007 500 387 Australian Manufacturing Council Secretariat 2 784 500 — 2 784 500 2 668 386 — 2 668 386 388 National Standards Commission.................... — 1 221 200 1 221 200 — 1 271 300 1 271 300 389 Patent, Trade Marks and Designs Office........",
-        "post_evidence": "32 733 300 5 144 100 37 877 400 29 612 177 4 385 425 33 997 602 390 Anti-Dumping Authority................................ 843 600 — 843 600 708 689 — 708 689 391 Textiles, Clothing and Footwear Development Authority................................................................... 1 253 300 9 900 000 11 153 300 1 063 244 5 394 525 6 457 769 Total............................................................."
+        "sentence_id": "50",
+        "score": 0.9998863935000001,
+        "pre_evidence": "No. 159/1955- Emergency Powers (Dundalk Gas Charges) Order, 1943 (Revocation) Order, 1955. S.I. No. 159/1955-",
+        "evidence": "Emergency Powers (Dundalk Gas Charges) Order, 1943 (Revocation) Order, 1955.",
+        "post_evidence": "View SI Amharc ar an IR. Amendments Leasuithe. S.I. No. 159 of 1955. EMERGENCY POWERS (DUNDALK GAS CHARGES) ORDER, 1943 (REVOCATION) ORDER, 1955."
+      },
+      {
+        "evidence_id": 0,
+        "sentence_id": "47",
+        "score": 0.9998863935000001,
+        "pre_evidence": "Advanced Search Cuardach Casta. Home Baile. Statutory Instruments Ionstraimí Reachtúla. 1955. S.I. No. 159/1955-",
+        "evidence": "Emergency Powers (Dundalk Gas Charges) Order, 1943 (Revocation) Order, 1955.",
+        "post_evidence": "S.I. No. 159/1955- Emergency Powers (Dundalk Gas Charges) Order, 1943 (Revocation) Order, 1955. View SI Amharc ar an IR."
+      },
+      {
+        "evidence_id": 4,
+        "sentence_id": "55",
+        "score": 0.20578441020000002,
+        "pre_evidence": "Emergency Powers (Dundalk Gas Charges) Order, 1943 (Revocation) Order, 1955. View SI Amharc ar an IR. Amendments Leasuithe. S.I. No. 159 of 1955.",
+        "evidence": "EMERGENCY POWERS (DUNDALK GAS CHARGES) ORDER, 1943 (REVOCATION) ORDER, 1955.",
+        "post_evidence": "I, WILLIAM NORTON, Minister for Industry and Commerce, in exercise of the powers conferred on me by Article 31 of the Emergency Powers Order, 1939 (S. R. & O. No. 224 of 1939), as amended by the Emergency Powers (No. 173) Order, 1942, (S. R. & O. No. 166 of 1942) (which Orders are continued in force by the Supplies and Services (Temporary Provisions) Act, 1946 (No. 22 of 1946)), and of every and any other power me in this behalf enabling, hereby order as follows:—. 1."
       }
     ]
-  },
+  },  
   {
     "claim_id": "q78481$301A2329-16FE-4FB8-BDE2-1CF747B088C2",
     "reference_id": "c7979b6682e7e0701e57657323a7cd9b38ae5ec1",
     "affirmation": "Richard Adolf Zsigmondy is a chemist.",
     "reference_url": "https://www.nndb.com/people/338/000100038/",
-    "g_id": -1,
+    "g_id": [0],
     "evidence_list": [
       {
         "evidence_id": 3,
@@ -690,7 +690,7 @@
     "reference_id": "9b4af99ab871962e4111a509fa4498f45691d1ca",
     "affirmation": "The University of North Carolina at Charlotte Department of History is devoted to the study of history.",
     "reference_url": "https://history.charlotte.edu/",
-    "g_id": -1,
+    "g_id": [0,2],
     "evidence_list": [
       {
         "evidence_id": 3,
@@ -735,51 +735,51 @@
     ]
   },
   {
-    "claim_id": "Q54834370$690CBB3D-6522-4947-A6AB-62835B12B40A",
-    "reference_id": "72752631cfe33b689c36aabc40387f4e42d32baf",
-    "affirmation": "The Save-A-Pet Adoption Center has a total revenue of 3680174 United States dollars.",
-    "reference_url": "https://www.charitynavigator.org/ein/237304570",
-    "g_id": -1,
+    "claim_id": "Q28029033$5B89AC07-E6D4-4E61-9A96-8EF2B7CCE745",
+    "reference_id": "60d94e641e30ec392e1b683287b86d897ce67887",
+    "affirmation": "Dick Whittington and his Cat is part of the Royal Collection.",
+    "reference_url": "https://www.rct.uk/collection/408589/dick-whittington-and-his-cat",
+    "g_id": [0,2],
     "evidence_list": [
       {
-        "evidence_id": 1,
-        "sentence_id": "179",
-        "score": -0.12697106600000002,
-        "pre_evidence": "We changed our in-person 5K fundraiser to a virtual one. We had slightly few participants which was offset by the reduced expenses of not needing a venue.",
-        "evidence": "Our formal dinner and auction gala event of 38 years, became a virtual online auction with a significant reduction in revenue.",
-        "post_evidence": "We were able to add several mini fundraisers to supplement a small portion of lost revenue. Innovations the organization intends to continue permanently after the pandemic: We will continue to do the most successful of our mini fundraisers such as the Mum Sale."
-      },
-      {
-        "evidence_id": 0,
-        "sentence_id": "49",
-        "score": -0.08716604110000001,
-        "pre_evidence": "Dividing these net available assets in the most recent year by a charity's average total expenses, yields the working capital ratio.",
-        "evidence": "We calculate the charity's average total expenses over its three most recent fiscal years.",
-        "post_evidence": "Source: IRS Form 990 Program Expense Growth 1.65% We compute the average annual growth of program expenses using the following formula: [(Yn/Y0)(1/n)]-1, where Y0 is a charity's program expenses in the first year of the interval analyzed, Yn is the charity's program expenses in the most recent year, and n is the interval of years passed between Y0 and Yn."
-      },
-      {
-        "evidence_id": 4,
-        "sentence_id": "156",
-        "score": -0.1651072651,
-        "pre_evidence": "This chart displays the trend of revenue and expenses over the past several years for this organization, as reported on their IRS Form 990.",
-        "evidence": "Revenue Expenses FY2017 FY2018 FY2019 0 1M 2M 3M 4M FY Revenue Expenses FY2017 $3,680,174.00 $1,746,870.00 FY2018 $2,668,872.00 $1,720,320.00 FY2019 $2,991,135.00 $1,958,087.00 Expenses Salary of Key Persons Presented here are this organizations key compensated staff members as identified by our analysts.",
-        "post_evidence": "This compensation data includes salary, cash bonuses and expense accounts and is displayed exactly how it is reported to the IRS."
-      },
-      {
         "evidence_id": 2,
-        "sentence_id": "180",
-        "score": -0.1314475387,
-        "pre_evidence": "Our formal dinner and auction gala event of 38 years, became a virtual online auction with a significant reduction in revenue.",
-        "evidence": "We were able to add several mini fundraisers to supplement a small portion of lost revenue.",
-        "post_evidence": "Innovations the organization intends to continue permanently after the pandemic: We will continue to do the most successful of our mini fundraisers such as the Mum Sale."
+        "sentence_id": "68",
+        "score": -0.33692494030000003,
+        "pre_evidence": "Waterloo Chamber, Windsor Castle. Your share link is... Close. Facebook. Twitter. Email. ×. Previous.",
+        "evidence": "Claude Whatham (1927-2008) Dick Whittington and his Cat c.1940-45.",
+        "post_evidence": "©. ©. Post. Tweet. Pin it. Email. Link. Claude Whatham (1927-2008) Dick Whittington and his Cat c.1940-45."
       },
       {
         "evidence_id": 3,
-        "sentence_id": "193;194",
-        "score": -0.1511288285,
-        "pre_evidence": "This beta feature is currently viewable only on desktop or tablet screens. Check back later for updates.",
-        "evidence": "Largest Programs Largest Programs Save-A-Pet, Inc. reported its largest program on its FY 2019 Form 990 as: $1,512,380 Spent in most recent FY 100% Percent of program expenses Animal Shelter Operation   Leadership & Adaptability This score provides an assessment of the organization's leadership capacity, strategic thinking and planning, and ability to innovate or respond to changes in constituent demand/need or other relevant social and economic conditions to achieve the organization's mission.",
-        "post_evidence": "Leadership & Adaptability Score Not Currently Scored Save-A-Pet, Inc. is currently not eligible for a Leadership & Adaptability score because we have not received its L&A survey responses."
+        "sentence_id": "76",
+        "score": -0.33692494030000003,
+        "pre_evidence": "Claude Whatham (1927-2008) Dick Whittington and his Cat c.1940-45. ©. ©. Post. Tweet. Pin it. Email. Link.",
+        "evidence": "Claude Whatham (1927-2008) Dick Whittington and his Cat c.1940-45.",
+        "post_evidence": "©. ©. Post. Tweet. Pin it. Email. Link. Claude Whatham (1927-2008) Dick Whittington and his Cat c.1940-45."
+      },
+      {
+        "evidence_id": 4,
+        "sentence_id": "84",
+        "score": -0.33692494030000003,
+        "pre_evidence": "Claude Whatham (1927-2008) Dick Whittington and his Cat c.1940-45. ©. ©. Post. Tweet. Pin it. Email. Link.",
+        "evidence": "Claude Whatham (1927-2008) Dick Whittington and his Cat c.1940-45.",
+        "post_evidence": "©. ©. Post. Tweet. Pin it. Email. Link. Claude Whatham (1927-2008) Dick Whittington and his Cat c.1940-45."
+      },
+      {
+        "evidence_id": 1,
+        "sentence_id": "59;60",
+        "score": -0.0434969813,
+        "pre_evidence": "Home. / Collection. / Explore the Collection. / Dick Whittington and his Cat. / Search the collection.",
+        "evidence": "1 of 253523 objects. Claude Whatham (1927-2008) Dick Whittington and his Cat c.1940-45.",
+        "post_evidence": "Poster paint on wallpaper | RCIN 408589. Waterloo Chamber, Windsor Castle. Your share link is... Close."
+      },
+      {
+        "evidence_id": 0,
+        "sentence_id": "57;58",
+        "score": 0.1397981793,
+        "pre_evidence": "My basket (0) Log in to my account. My account. Log out. 0. Search results Start typing. Home. / Collection. /",
+        "evidence": "Explore the Collection. / Dick Whittington and his Cat. / Search the collection.",
+        "post_evidence": "1 of 253523 objects. Claude Whatham (1927-2008) Dick Whittington and his Cat c.1940-45. Poster paint on wallpaper | RCIN 408589."
       }
     ]
   },
@@ -788,7 +788,7 @@
     "reference_id": "6d8ce4b1b011d51ea1ca4901fa8456909bc09413",
     "affirmation": "The International Tax Enforcement (Grenada) Order 2011 applies to the jurisdiction of the United Kingdom.",
     "reference_url": "https://www.bailii.org/uk/legis/num_reg/2011/uksi_20111687_en_1.html",
-    "g_id": -1,
+    "g_id": [0],
     "evidence_list": [
       {
         "evidence_id": 0,
@@ -837,7 +837,7 @@
     "reference_id": "77340cf24c8ce0ad15b86f0b82d5aa79f539def4",
     "affirmation": "The A428 Trunk Road (A1/B1428 Great North Road Roundabout, North of Wyboston, Bedfordshire to B1043 Barford Road Roundabout, St Neots, Cambridgeshire) (Temporary 40 Miles Per Hour Speed Restriction) Order 2011 has a citation of SI 2011 No. 574.",
     "reference_url": "https://www.bailii.org/uk/legis/num_reg/2011/uksi_2011574_en_1.html",
-    "g_id": -1,
+    "g_id": [0,2],
     "evidence_list": [
       {
         "evidence_id": 1,
@@ -886,7 +886,7 @@
     "reference_id": "a276dccde68fef6773ad0624d9eff44b990eb88c",
     "affirmation": "Rei Ayanami is a character in Magma Diver.",
     "reference_url": "https://evangelion.fandom.com/wiki/Episode:10?oldid=34324#Overview",
-    "g_id": -1,
+    "g_id": [2],
     "evidence_list": [
       {
         "evidence_id": 2,
@@ -935,7 +935,7 @@
     "reference_id": "19935de3f35744424456818ed50c5a5de187c526",
     "affirmation": "The Subtle Art of Not Giving a Fuck was published in New York City.",
     "reference_url": "https://www.loc.gov/item/2016011724/",
-    "g_id": -1,
+    "g_id": [0],
     "evidence_list": [
       {
         "evidence_id": 1,
@@ -984,7 +984,7 @@
     "reference_id": "41f5efe704e7c88a06a4eb3760fed8245447090b",
     "affirmation": "Raiffeisen Beograd Loan for SMEs is in the line of credit sector.",
     "reference_url": "https://www.eib.org/en/projects/pipelines/all/20080816",
-    "g_id": -1,
+    "g_id": [0,2],
     "evidence_list": [
       {
         "evidence_id": 4,
@@ -1033,7 +1033,7 @@
     "reference_id": "7beb8d13b3df6308010bc20665127f8d11cf7797",
     "affirmation": "Henry Thornton was a member of the 1529-36 Parliament.",
     "reference_url": "https://www.historyofparliamentonline.org/volume/1509-1558/member/thornton-henry-1484-1533",
-    "g_id": -1,
+    "g_id": [0,2],
     "evidence_list": [
       {
         "evidence_id": 1,
@@ -1082,7 +1082,7 @@
     "reference_id": "97ffafe0c55a72204c595ade97dd724892157ffe",
     "affirmation": "Alfred Bertholet died on 24/08/1951.",
     "reference_url": "https://www.britannica.com/biography/Alfred-Bertholet",
-    "g_id": -1,
+    "g_id": [0],
     "evidence_list": [
       {
         "evidence_id": 1,
@@ -1131,7 +1131,7 @@
     "reference_id": "74188de4f031ca41e7927959f818816dbdfc29af",
     "affirmation": "The Value Added Tax (Section 55A) (Specified Services and Excepted Supplies) Order 2016 was published in 2016.",
     "reference_url": "https://www.bailii.org/uk/legis/num_reg/2016/uksi_201612_en_1.html",
-    "g_id": -1,
+    "g_id": [0],
     "evidence_list": [
       {
         "evidence_id": 4,
@@ -1180,7 +1180,7 @@
     "reference_id": "93b6dd98bd5ad2d6d8dd40746cbf4ac688d424f0",
     "affirmation": "The General Insurance Supervisory Levy Imposition Act 1998 was amended by the Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999.",
     "reference_url": "https://www.legislation.gov.au/Series/C2004A00316/Amendments",
-    "g_id": -1,
+    "g_id": [2],
     "evidence_list": [
       {
         "evidence_id": 1,
@@ -1229,7 +1229,7 @@
     "reference_id": "662c69fe6778bfe3de20b091164edb5de697b2bf",
     "affirmation": "Dun nan Gall Broch, 215m SW of Craigmore, Isle of Mull is designated as a scheduled monument.",
     "reference_url": "http://portal.historicenvironment.scot/designation/SM13687",
-    "g_id": -1,
+    "g_id": [0],
     "evidence_list": [
       {
         "evidence_id": 3,
@@ -1278,7 +1278,7 @@
     "reference_id": "118c61451a28bc22ab85ed64d155cdb6243fe02b",
     "affirmation": "Juliana Horatia Ewing was born on 03/08/1841.",
     "reference_url": "http://www.biographi.ca/en/bio/gatty_juliana_horatia_11E.html",
-    "g_id": -1,
+    "g_id": [0],
     "evidence_list": [
       {
         "evidence_id": 4,
@@ -1327,7 +1327,7 @@
     "reference_id": "99e42300098c2ff31bdaffe9021e93aeaabae7f4",
     "affirmation": "David Pryor was a United States representative.",
     "reference_url": "https://bioguide.congress.gov/search/bio/P000556",
-    "g_id": -1,
+    "g_id": [0],
     "evidence_list": [
       {
         "evidence_id": 2,
@@ -1376,7 +1376,7 @@
     "reference_id": "4ac902c4e0d56af326700cf6293959692ad1cb77",
     "affirmation": "Garnet Wolseley, 1st Viscount Wolseley was born on 04/06/1833.",
     "reference_url": "http://www.biographi.ca/en/bio/wolseley_garnet_joseph_14E.html",
-    "g_id": -1,
+    "g_id": [0],
     "evidence_list": [
       {
         "evidence_id": 3,
@@ -1425,7 +1425,7 @@
     "reference_id": "ec06b913ef21c8d26909079c1f6121b484cbce03",
     "affirmation": "The original language of Noorjehan is Hindi.",
     "reference_url": "https://indiancine.ma/AUH",
-    "g_id": -1,
+    "g_id": [0],
     "evidence_list": [
       {
         "evidence_id": 2,
@@ -1474,7 +1474,7 @@
     "reference_id": "5a440e04cc8d9e58e2e2dfe362a22729b7aaf0ec",
     "affirmation": "Campaign for College Opportunity is located in the United States of America.",
     "reference_url": "https://www.charitynavigator.org/ein/200427622",
-    "g_id": -1,
+    "g_id": [0,2],
     "evidence_list": [
       {
         "evidence_id": 4,
@@ -1523,7 +1523,7 @@
     "reference_id": "10b19791699379e5b739b301f6f3ec5e46ba7ce3",
     "affirmation": "The Librarian of Congress was Carla Hayden.",
     "reference_url": "https://www.loc.gov/about/about-the-librarian/",
-    "g_id": -1,
+    "g_id": [0],
     "evidence_list": [
       {
         "evidence_id": 0,
@@ -1572,7 +1572,7 @@
     "reference_id": "3389302ab7ffd8b7d1edf7d3c6cfb2cb3c5fcb62",
     "affirmation": "CityLife is located in Italy.",
     "reference_url": "https://www.archinform.net/entry.htm?ID=3u862l401ng4itonlnnt8nu7jl&loc=%2Fprojekte%2F23352.htm",
-    "g_id": -1,
+    "g_id": [0],
     "evidence_list": [
       {
         "evidence_id": 2,
@@ -1621,7 +1621,7 @@
     "reference_id": "f9718e32d5cb9682fd9790b3acbf226bc837eff3",
     "affirmation": "The composer of Sex Education is Oli Julian.",
     "reference_url": "https://blog.tunefind.com/2019/01/netflix-hit-sex-education-breaks-tunefind-records/",
-    "g_id": -1,
+    "g_id": [0],
     "evidence_list": [
       {
         "evidence_id": 0,
@@ -1670,7 +1670,7 @@
     "reference_id": "9a09c270545156eb1f44f3afd7acf2a8ed0eda33",
     "affirmation": "The boiling point of distilled water is 100 degrees Celsius.",
     "reference_url": "https://go.drugbank.com/drugs/DB09145",
-    "g_id": -1,
+    "g_id": [0,2],
     "evidence_list": [
       {
         "evidence_id": 2,
@@ -1719,7 +1719,7 @@
     "reference_id": "76b04346ad57869d9e5ae1007ba8343d708ab6f9",
     "affirmation": "Yutaka Higuchi began work in 1983.",
     "reference_url": "https://en.wikipedia.org/w/index.php?title=Yutaka_Higuchi_(musician)&oldid=852886961",
-    "g_id": -1,
+    "g_id": [0],
     "evidence_list": [
       {
         "evidence_id": 3,
@@ -1768,7 +1768,7 @@
     "reference_id": "5bc0f775565a29c227394e2f1888dda61f8efa1e",
     "affirmation": "John Rippon was born on 29/04/1751.",
     "reference_url": "https://www.findagrave.com/memorial/22617/john-rippon",
-    "g_id": -1,
+    "g_id": [0],
     "evidence_list": [
       {
         "evidence_id": 3,
@@ -1817,7 +1817,7 @@
     "reference_id": "bb4f43816d7c8fb0ff0e5f22483b22bf86641949",
     "affirmation": "Joseph-Alexandre Baile was born on 19/04/1801.",
     "reference_url": "http://www.biographi.ca/en/bio/baile_joseph_alexandre_11E.html",
-    "g_id": -1,
+    "g_id": [0],
     "evidence_list": [
       {
         "evidence_id": 0,
@@ -1866,7 +1866,7 @@
     "reference_id": "5b14a71742a09446d03a95c9426a659cda3bad6f",
     "affirmation": "Priscila Farias was born in 1964.",
     "reference_url": "https://www.lambiek.net/artists/f/farias_priscila.htm",
-    "g_id": -1,
+    "g_id": [0],
     "evidence_list": [
       {
         "evidence_id": 3,
@@ -1915,7 +1915,7 @@
     "reference_id": "409c8e466399cdce0ef46d7101d95b6a8ee90920",
     "affirmation": "Glps Vendekkumpotty is found in India.",
     "reference_url": "https://schools.org.in/malappuram/32050400111/",
-    "g_id": -1,
+    "g_id": [0,2],
     "evidence_list": [
       {
         "evidence_id": 3,
@@ -1964,7 +1964,7 @@
     "reference_id": "c9681f0c0f7d97dc983f2b6ce325f2adc598f43c",
     "affirmation": "Edward VII's country of citizenship is the United Kingdom of Great Britain and Ireland.",
     "reference_url": "https://www.bbc.co.uk/programmes/b03x10q8",
-    "g_id": -1,
+    "g_id": [0,2],
     "evidence_list": [
       {
         "evidence_id": 1,
@@ -2013,7 +2013,7 @@
     "reference_id": "8e09984f262a71ae9bc1a9b200b103acdc7e7454",
     "affirmation": "Clara Barton died on 12/04/1912.",
     "reference_url": "https://www.findagrave.com/memorial/63/clara-barton",
-    "g_id": -1,
+    "g_id": [0],
     "evidence_list": [
       {
         "evidence_id": 2,
@@ -2062,7 +2062,7 @@
     "reference_id": "71453f185df7a0002af998fdfb206f741bda7d2b",
     "affirmation": "Lars Schmidt's archive location is the Library of Congress Music Division.",
     "reference_url": "https://www.loc.gov/collections/lars-schmidt/about-this-collection/",
-    "g_id": -1,
+    "g_id": [0,2],
     "evidence_list": [
       {
         "evidence_id": 1,
@@ -2111,7 +2111,7 @@
     "reference_id": "c142c251fcb563f07dabef11a283b4fd171f1eb6",
     "affirmation": "Pandallur Hss is located in India.",
     "reference_url": "https://schools.org.in/malappuram/32050601215/",
-    "g_id": -1,
+    "g_id": [0,2],
     "evidence_list": [
       {
         "evidence_id": 3,
@@ -2160,7 +2160,7 @@
     "reference_id": "78eb8ba32e77a9434161dabc2dee3b4dede3fa0b",
     "affirmation": "Shravan Kumar's original language is Hindi.",
     "reference_url": "https://indiancine.ma/BCB",
-    "g_id": -1,
+    "g_id": [0],
     "evidence_list": [
       {
         "evidence_id": 1,
