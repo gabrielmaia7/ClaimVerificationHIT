@@ -1,4 +1,6 @@
 #Big files
 reference_html_as_sentences_df.csv
-task_deploy_and_analysis/notebooks/WTR/WTR_non_filtered_non_annotated.csv
+
+# WTR
+WTR_non_filtered_non_annotated.csv
 WTR.zip
