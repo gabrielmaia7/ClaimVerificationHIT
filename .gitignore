@@ -12,3 +12,6 @@ mongodb_credentials.json
 # Others
 __pycache__
 .ipynb_checkpoints
+
+#old files
+*_old.*
