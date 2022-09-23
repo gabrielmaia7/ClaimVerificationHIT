@@ -1,0 +1,708 @@
+<html lang="en" class="cufon-active cufon-ready  ext-strict"><head>
+        <meta http-equiv="X-UA-Compatible" content="IE=EDGE">
+
+        <base href="http://collections.soane.org/">
+        
+        <meta id="mobileViewport" content="width=device-width, height=device-height, target-densityDpi=device-dpi, minimal-ui" name="viewport">
+        <link rel="stylesheet" type="text/css" href="static/css/content/content.css">
+        <link rel="stylesheet" type="text/css" href="static/css/col/col.css">
+        <link rel="stylesheet" type="text/css" href="static/css/col/screen.css" media="screen">
+        <link rel="stylesheet" type="text/css" href="static/css/web_dashboard/web_dashboard.css">
+        <script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="static/js/content/util.js?_m=1614871168"></script>
+        <script type="text/javascript" src="static/js/web_dashboard/dashboard.js?_m=1614871225"></script>
+
+        <script type="text/javascript" src="static/js/col/jquery/jquery-1.12.4.min.js?_m=1614871166"></script>
+        <link rel="stylesheet" type="text/css" href="static/css/col/jquery/smoothness/jquery-ui-1.12.1.custom.css">
+        <script type="text/javascript" src="static/js/col/jquery/jquery-ui-1.12.1.min.js?_m=1614871167"></script>
+
+        <script type="text/javascript" src="static/js/col/jquery/jflow.plus.js?_m=1614871165"></script>
+
+<!-- XXX BXSLIDER -->
+
+<script src="https://cdn.jsdelivr.net/bxslider/4.1.1/jquery.bxslider.min.js"></script>
+<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/bxslider/4.1.1/jquery.bxslider.css">
+
+        <script type="text/javascript" src="static/js/col/col.js?_m=1614871165"></script>
+
+        
+
+        
+        <title>
+            
+                Musical travels through England. By the late Joel Collier, licentiate in music. A new edition.
+            
+        </title>
+
+        
+
+        <script type="text/javascript">
+            var IXCAF = {};
+            IXCAF.project = {
+                id: 'col',
+                assetRefButtons: { showUpload: true, showEdit: true, showClear: true },
+                assetConfig: {
+                    rectype: 'image'
+                },
+                fieldHints: {
+                    cms_con_core_graphic: {
+                        ifolder: 'cms-images',
+                        image_type: 'ContentIndex+ image'
+                    },
+                    dash_mus_obj_images_field_id: {
+                        ifolder: 'dashboard-object-images',
+                        rectype: 'image',
+                        image_type: 'MuseumIndex+ image',
+                        displayRendition: 'web',
+                        direct: 'y'
+                    }
+                },
+                dashboardUrl: 'dashboard',
+                editorButtons: {
+                    format: true,
+                    lists: true,
+                    links: false,
+                    color: false,
+                    alignment: false,
+                    font: false,
+                    size: false,
+                    IXLink: true,
+                    IXImage: true,
+                    IXEembed: true,
+                    IXFormat: false,
+                    IXHeading: false
+                }
+            };
+        </script>
+        
+
+
+<link rel="stylesheet" type="text/css" href="static/css/web_user/user-style.css">
+
+
+
+    
+    
+    <link rel="stylesheet" type="text/css" href="static/js/extjs/v3.4.0/extjs/resources/css/ext-all.css">
+    
+    <link rel="stylesheet" type="text/css" href="static/js/extjs/v3.4.0/extjs/resources/css/xtheme-gray.css">
+    
+    <link rel="stylesheet" type="text/css" href="static/css/extjs/ixcaf.css">
+
+    <script type="text/javascript" src="static/js/extjs/v3.4.0/extjs/adapter/ext/ext-base-debug.js?_m=1614871215"></script>
+    <script type="text/javascript" src="static/js/extjs/v3.4.0/extjs/ext-all-debug.js?_m=1614871213"></script>
+
+    
+
+    <script type="text/javascript" src="static/js/extjs/v3.4.0/plugins/Ext.ux.HtmlEditor.Plugins-0.1-all-debug.js?_m=1614871224"></script>
+    
+        <script type="text/javascript" src="static/js/extjs/ssl-plugins/Ext.ux.HtmlEditor.Plugins.IndexPlus.museumindex.js?_m=1614871169"></script>
+    
+    <script type="text/javascript" src="static/js/extjs/ssl-extjs-debug.js?_m=1614871168"></script>
+    
+    
+
+    
+
+
+
+
+        
+        <script type="text/javascript" src="static/js/organiser/organiser.js?_m=1614871225"></script>
+
+<script type="text/javascript">
+// Some eye candy to show that there's some AJAX going on
+
+Ext.onReady(function() {
+    if ($('#ajax-loading').length > 0) {
+        Ext.Ajax.on({
+            beforerequest: function () {
+                $('#ajax-loading').stop().show();
+                //$('#ajax-error').hide();
+            },
+            requestcomplete: function () {
+                $('#ajax-loading').stop().fadeOut(500);
+            },
+            requestexception: function () {
+                //$('#ajax-error').text('ERROR').show();
+                $('#ajax-loading').stop().fadeOut(500);
+            }
+        });
+    }
+});
+</script>
+
+        
+
+            <link rel="icon" href="static/img/col_soane/favicon.ico.png" type="image/png">
+    <link rel="stylesheet" type="text/css" href="static/css/col_soane/col_custom.css">
+    <link rel="stylesheet" type="text/css" href="static/css/col_soane/col_custom_mobile.css">
+    <link rel="stylesheet" type="text/css" href="static/css/col_soane/col_custom_tablet.css">
+    <link rel="stylesheet" type="text/css" href="static/css/col_soane/slicknav.css">
+    <link rel="stylesheet" type="text/css" href="static/css/col_soane/col_print.css" media="print">
+    <link rel="stylesheet" type="text/css" href="static/css/col_soane/redesign.css">
+    <link rel="stylesheet" type="text/css" href="static/css/col_soane/fontcontrol.css">
+    
+    <!--[if IE]>
+        <link rel="stylesheet" type="text/css" href="static/css/col_soane/col_custom_ie.css">
+    <![endif]-->
+    <script type="text/javascript" src="static/js/col_soane/cufon/cufon.js?_m=1614871167"></script><style type="text/css">cufon{text-indent:0!important;}@media screen,projection{cufon{display:inline!important;display:inline-block!important;position:relative!important;vertical-align:middle!important;font-size:1px!important;line-height:1px!important;}cufon cufontext{display:-moz-inline-box!important;display:inline-block!important;width:0!important;height:0!important;overflow:hidden!important;text-indent:-10000in!important;}cufon canvas{position:relative!important;}}@media print{cufon{padding:0!important;}cufon canvas{display:none!important;}}</style>
+    <script type="text/javascript" src="static/js/col_soane/cufon/albertina-500.js?_m=1614871167"></script>
+    <script type="text/javascript" src="static/js/col_soane/cufon/classes.js?_m=1614871167"></script>
+    <script type="text/javascript" src="static/js/col_soane/col_custom.js?_m=1614871167"></script>
+    <script type="text/javascript" src="static/js/col_soane/jquery.dotdotdot.min.js?_m=1614871167"></script>
+    <script type="text/javascript" src="static/js/col_soane/jquery.slicknav.min.js?_m=1614871167"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+                // scroll the left-hand thes menu to the currently selected term when the menu is too long to show without scrolling 
+                if ($('.thes_menu_selected').length) {
+                            var selectedItem = $('.thes_menu_selected:first');
+                            var scrollingMenu = $('.thes_menu_catalogue_root .depth1:first');
+                            var selectedItemRelativeTop = selectedItem.offset().top - scrollingMenu.offset().top;
+                            scrollingMenu.scrollTop(selectedItemRelativeTop);
+                }
+            });
+    </script>
+
+    </head>
+    <body class="   ext-webkit ext-chrome" id="ext-gen3">
+        <div id="cookie_box"></div>
+        <script type="text/javascript">checkCookiePolicy();</script>
+        <div class="container">
+            
+
+  
+  <script>document.createElement("header");</script>
+  <script>document.createElement("article");</script>
+  <script>document.createElement("footer");</script>
+  <header id="header" role="banner">
+    <div id="header-inner" class="row">
+      <div class="large-12 columns">
+        <div id="site-name">
+	  <a href="/" title="Home" rel="home">Sir John Soane's Museum</a>
+	</div>
+        <div id="site-title">
+	  <span>Sir John Soane's Museum Collection Online</span>
+	</div>
+        
+          <div id="site-search">
+            <div id="visit_museum_button"><a href="http://www.soane.org" class="btn wh">Visit the Museum Website</a></div>
+            <a id="header_simple_search_button" class="btn wh" href="#" onclick="document.header_simple_search.submit(); return false;">Search</a>
+            <div id="header_search_wrap">
+              <form style="margin-bottom: 0" name="header_simple_search" method="post" action="http://collections.soane.org/results" accept-charset="UTF-8">
+                <input type="hidden" name="session" value="QIVe55_HX2X">
+                <input type="hidden" name="mi_search_type" value="adv">
+                <input type="hidden" name="mi_adv_search" value="yes">
+                <input type="hidden" name="ci_search_type" value="CI">
+                <input type="hidden" name="sort" value="1">
+                <input type="hidden" name="adv_coll_bi" value="1">
+                <input type="hidden" name="adv_coll_arci" value="1">
+
+                <input type="hidden" name="adv_coll_mi" value="1">
+                <input type="hidden" name="adv_simple" value="1">
+                <input id="simple_search_box" type="text" name="adv_text" value="" size="24">            
+              </form>          
+            </div>
+            <div id="adv_trigger"><a href="advanced-search">Advanced search</a></div>
+          </div>
+
+<div id="header_menu">
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="highlights">Collection&nbsp;Highlights</a></li>
+    <li><a href="cataloguing">Cataloguing&nbsp;at&nbsp;the&nbsp;Museum</a></li>
+    <li><a href="#" onclick="document.organiser.submit(); return false;">My&nbsp;Collection</a></li>
+  </ul>  
+</div>
+       </div>
+
+    </div>
+
+  </header> <!--/#header -->
+
+
+            <div class="container2">
+                <div class="main">
+                    <div class="wrap main_content"> <!-- This closes in footer -->
+                        
+                            <div class="explore-collection-mobile">
+<span class="explore">Explore Collections</span>
+<img class="explore-icon" id="explore-icon" src="static/img/col_soane/explore.png" alt="Explore The Collections" title="Explore The Collections">
+<!--<span class="collections">Collections</span>-->
+</div>
+
+    
+    
+        <div class="crumb clearfix">
+            You are here: 
+            
+                
+                
+                <a href="">CollectionsOnline</a>
+            
+                
+                &nbsp;/&nbsp;
+                Musical travels through England. By the late Joel Collier, licentiate in music. A new edition.
+            
+        </div>
+    
+
+
+
+                        
+                        <div class="clearfix"></div>
+                        <div class="col-left-wrap" id="left-wrap">
+                            
+                              <!-- In this page we will have a mix of published menu via processing data and via dashboard-->
+
+<div class="mobile-breakpoint"></div>
+
+
+
+
+
+
+
+
+<div class="explore-collection"><h3>Browse</h3></div>
+
+<div id="thes_menu" class="thes_menu">
+    
+
+    <ul id="nested-menu">
+        <li id="nested-menu-mainline">
+            <ul>
+                <li class="thes_menu_catalogue_root collapsed-icon">
+                    <span class="thes_menu_catalogue_root_label "><a href="results?mi_adv_search=yes&amp;ci_search_type=MI&amp;mi_search_type=adv&amp;tn=Web%20Category&amp;sort=2">Works of Art &amp; Antiquities</a></span>
+                    
+                </li>
+                <li class="thes_menu_catalogue_root collapsed-icon">
+                    <span class="thes_menu_catalogue_root_label "><a href="drawings?tn=Drawings&amp;sort=7">Architectural &amp; Other Drawings</a></span>
+                    
+                </li>
+                <li class="thes_menu_catalogue_root collapsed-icon">
+                    <span class="thes_menu_catalogue_root_label "><a href="results?mi_adv_search=yes&amp;ci_search_type=ARCI&amp;mi_search_type=adv&amp;tn=Sketchbooks&amp;sort=7">Soane's sketchbooks</a></span>
+                    
+                </li>
+
+
+
+                
+                
+            </ul>
+        </li>
+    </ul>
+    <div class="zerodelimit">
+    
+    
+
+
+
+
+    <div class="menu_bar zerodelimit">
+        <ul>
+            
+                
+                <li class="list_item">
+                    <a href="books" class="menu_item">Books</a>
+                    <span class="menu_delimiter "></span>
+                </li>
+            
+                
+                <li class="list_item">
+                    <a href="art99672" class="menu_item">Archives</a>
+                    <span class="menu_delimiter last-delimiter"></span>
+                </li>
+            
+        </ul>
+    </div>
+
+
+
+    </div>
+</div>
+
+
+
+
+                            
+                            <div id="mobile-left-menu-closing"></div>
+                        </div>
+                        <div class="col-right-wrap">
+                            
+                                
+
+
+
+<div class="table_container clearfix">
+    
+
+</div>
+
+                            
+
+
+<div class="mobile-breakpoint"></div>
+<div class="desktop-breakpoint"></div>
+<div class="tablet-breakpoint"></div>
+
+
+
+
+
+<script>
+	$(document).ready(function(){
+
+        
+
+
+        // main image
+        var mainSlider
+		mainSlider = $('.bxslider').bxSlider({
+			mode: 'horizontal',
+			moveSlides: 1,
+			slideMargin: 40,
+			infiniteLoop: false,
+			slideWidth: 360,
+			minSlides: 1,
+			maxSlides: 1,
+			speed: 800,
+            pager: false,
+            controls: false,
+            adaptiveHeight: true,
+            onSlideBefore: function($slideElement, oldIndex, newIndex){
+                changeRealThumb(mainSlider, newIndex);
+            }
+		});
+
+        // thumbnail carousel
+        var thumbSlider
+        thumbSlider = $("ul#bxslider-pager").bxSlider({
+            minSlides: 3,
+            maxSlides: 3,
+            slideWidth: 156,
+            slideMargin: 12,
+            moveSlides: 3,
+            pager:false,
+            speed:1000,
+            infiniteLoop:false,
+            hideControlOnEnd:true,
+            nextText:'<span></span>',
+            prevText:'<span></span>',
+            onSlideBefore:function($slideElement, oldIndex, newIndex){}
+        });
+
+        linkSliders(mainSlider, thumbSlider);
+
+        function linkSliders(main, thumb){
+            $("ul#bxslider-pager").on("click","a",function(event){
+                event.preventDefault();
+                var newIndex=$(this).parent().attr("data-slideIndex");
+                main.goToSlide(newIndex);
+            });
+        }
+
+        function changeRealThumb(slider,newIndex) {
+            var $thumbS=$("#bxslider-pager");
+            $thumbS.find('.active').removeClass("active");
+            $thumbS.find('li[data-slideIndex="'+newIndex+'"]').addClass("active");
+
+            if (slider.getSlideCount()-newIndex>=4)
+                slider.goToSlide(newIndex);
+            else
+                slider.goToSlide(slider.getSlideCount()-4);
+
+        }
+
+
+        var lg_popup = 'div.container-popup'
+        $('a#enlarge_image_link, img.image_primary').click(function() {
+            var slideSelected = mainSlider.getCurrentSlide()
+
+            var imgsrc = $('img#image_primary_' + slideSelected).attr("src")
+            var largesrc = imgsrc.replace("_soane_fullview", "_high");
+
+            $(lg_popup + ' div.popup').css('background-image', "url("+largesrc+")");
+            $(lg_popup).show();
+            return false;
+        });
+
+        $(lg_popup).click(function() {
+            $(lg_popup).hide();
+            return false;
+        });
+
+
+        
+
+        var use_this_image = 'div.container-text-popup';
+
+        $('#use_image_link').click(function() {
+           $(use_this_image).show();
+           return false;
+        });
+
+        $('#image-use-content-accept, div.image-use-close a').click(function() {
+           $(use_this_image).hide();
+           return false;
+        });
+
+	});
+</script>
+
+
+<div class="container_shim">
+    <!-- h1 Musical travels through England. By the late Joel Collier, licentiate in music. A new edition. /h1 -->
+    
+        <div class="content-wrap">
+            
+                <div class="object_left">
+                    <div class="full_record_box">
+                        
+
+
+                            <div id="image_primary" class="primary_image_box">
+
+<!-- PRIMARY IMAGE BXSLIDER -->
+                                <div id="slide_container">
+                                     <div class="bx-wrapper" style="max-width: 360px; margin: 0px auto;"><div class="bx-viewport" style="width: 100%; overflow: hidden; position: relative; height: 360px;"><ul class="bxslider" style="width: 315%; position: relative; transition-duration: 0s; transform: translate3d(0px, 0px, 0px);">
+                                        <li style="float: left; list-style: none; position: relative; width: 360px; margin-right: 40px;"><img id="image_primary_0" class="image_primary" src="../static/img/col_soane/soane_no_image_fullview2.png" alt="Image Not Yet Available" title="Image Not Yet Available"></li>
+
+                                </ul></div></div></div>
+<!-- /PRIMARY IMAGE -->
+
+                                <script type="text/javascript">
+                                    var seadragons=new Object();
+                                </script>
+                                
+                            </div>
+                            <script type="text/javascript">
+                                var zoomFlag = "N";
+                                var tileSources = "";
+                                var imageID = "";
+                                var imageIndex = 0;
+                                var imagesInfo;
+
+                                $(document).ready(function() {
+                                    imagesInfo = [];
+                                    if (imagesInfo.length > 0 && imagesInfo[0][1] == "Y") {
+                                        // Is the first image deep zoomable?
+                                        $("#zoom_image_primary_"+imagesInfo[0][3]).css("display","block");
+                                        $("#slide_container").css("visibility","hidden");
+                                    }
+
+                                    $(".slide_control").click(function() {
+                                        var img = $(this).find("img"); // select images inside .container
+
+                                        // Work out current image so the correct caption can be displayed
+                                        var _id = $(this).find("img").attr("id").replace(/^.*_/, '');
+                                        rotate_captions(_id);
+
+                                        len = img.length; // check if they exist
+                                        if ( len > 0 ){
+                                            var title = img.first().attr("title");
+                                            $.each(imagesInfo, function(key, value){
+                                                if (value[0] == title) {
+                                                    imageID = value[3];
+                                                    zoomFlag = value[1];
+                                                    tileSources = value[2];
+                                                }
+                                            });
+                                        } else {
+                                            // Images not found
+                                        }
+                                    });
+                                });
+
+                                function rotate_captions(currentSlide) {
+                                    /* Switch captions and alter links if necessary */
+                                    var captionSelectedID = "image_details_" + currentSlide;
+                                    $("div.image_details").hide();
+                                    $("div#"+captionSelectedID).show();
+                                    var imageID=$("div#"+captionSelectedID+" div.image_id_detail").html();
+                                    //console.log("ImageID: ", imageID);
+                                    var current_print_url = $("a.print-item").attr("href");
+                                    current_print_url = current_print_url.replace(/&iid.*/, "");
+                                    current_print_url = current_print_url + "&iid="+imageID;
+                                    //console.log("PURL: ", current_print_url);
+                                    $("a.print-item").attr("href", current_print_url);   
+                                }
+
+                                function transitionEnded(currentSlide) {
+                                    if (imagesInfo.length > 0) {
+                                        imageID = imagesInfo[currentSlide][3];
+                                        zoomFlag = imagesInfo[currentSlide][1];
+                                        titleSources = imagesInfo[currentSlide][2];
+                                    }
+                                    if ( zoomFlag == "Y" ) {
+                                        seadragons[imageID].viewport.goHome();
+                                        $("#zoom_image_primary_"+imageID).css("display","block");
+                                        $("#zoom_image_primary_"+imageID).css("visibility","visible");
+                                        $("#slide_container").css("visibility","hidden");
+                                    }
+                                }
+
+                                function transitionStarted() {
+                                    $(".openseadragon").css("visibility","hidden");
+                                    $(".openseadragon").css("display","none");
+                                    $("#slide_container").css("visibility","visible");
+                                }
+
+                            </script>
+
+                        
+                    </div>
+
+                    <!-- future for AI+ integration -->
+                        
+                    
+
+                    <div class="usage">
+                        <a href="#" id="use_image_link">Use of images and copyright</a><br>
+                        <a href="#" id="enlarge_image_link">Enlarge this Image</a>
+                    </div>
+                    
+                    
+
+                    
+                    
+                </div>
+            
+
+            <div class="object_right  book">
+                    <div class="full_record_data">                       
+                        BICKNELL, John (1740--1787)<br>
+                        
+                        <i>Musical travels through England. By the late Joel Collier, licentiate in music. A new edition.</i><br>
+                        London:, printed for G. Kearsley,, 1785.<br>
+                        xiv, [2], 126; 32 p. ; 15.4 cm. (8º)<br>
+                        <br>
+                        First published in 1774; the 'Appendix' was first issued with the third edition of 1775 and was also available separately with an undated title-page. 'Joel Collier' was the pseudonym of the barrister John Bicknell, not to be confused with his son  John Laurens Bicknell F.R.S. (1786--1832), who was Soane's solicitor. The present work, also variously attributed to Thomas Day, Alexander Bicknell, Peter Beckford and George Veal, is a satire on Charles Burney's <em>The present state of music in France and Italy</em>, 1771, and <em>The present state of music in the Netherlands, and the United Provinces</em>, 1773. In some copies a blank leaf R4, not present in the Soane copy and not recorded in the above collation, follows p. 126. ESTC t112420.<br><br>
+                        <b>Copy Notes</b> Inscribed in ink by Soane on first free-endpaper <span style="text-decoration: underline;">0/8/0 Lumley</span>. Purchased from Edward Lumley, 27 May 1829 for 3s. 6d. (Priv. Corr. XVI.E.6.26). Inscribed in pencil on first free-endpaper: <span style="text-decoration: underline;">3/- scarce</span>. Inscribed in pencil on next leaf in an unidentified hand: <span style="text-decoration: underline;"><span style="text-decoration: line-through;">The Writer of</span> this Work / was written by a M<sup>r</sup> Bicknell / </span><span style="text-decoration: underline;"> Barrist[er?] </span><span style="text-decoration: underline;">/ whose Widow became  super / =[inten?]dant to D<sup>r</sup>. C. Burney / at Greenwich / and continues at his  son's / school [?]-</span>; with the name <span style="text-decoration: underline;">J. Major</span> in another (earlier?) hand, partially rubbed out. Inscribed in ink on half-title <span style="text-decoration: underline;">J. Major</span>. A marginal note in pencil on p. 8 against the words 'Dilettante Lord' = <span style="text-decoration: underline;">Lord Sandwich</span>. Without the blank leaf R4.<br><br>
+                        <b>Binding</b> C18th tree calf, spine with gilt-tooled musical emblems, red morocco spine-label.<br><br>
+                        <b>Reference Number</b> 662<br>
+                        <br>
+                        
+
+                        <b>Additional Names</b> Edward Lumley; Beckford, Peter (1740--1811); Bicknell, Alexander (d.$1796); Day, Thomas (1748--1789); Veal, George (1774--1818); Major, J.; Burney, Charles (1726--1814)<br>
+                        
+                        <br>
+                    </div>
+            </div>
+
+        </div>
+    
+
+</div>
+
+
+    
+
+
+<div class="clearfix"></div>
+
+
+
+
+    <div class="further-info-wrap">
+        If you have any further information about this book, <br>please contact us:<br><br><a href="mailto:books@soane.org.uk">books@soane.org.uk</a><br><br>
+    </div>
+
+
+
+
+
+<br>
+
+
+
+<div class="container-popup" style="display:none">
+    <div class="close-popup">×</div>
+    <div class="popup"></div>
+</div>
+
+<div class="container-text-popup" style="display:none">
+    <div class="popup">
+
+        <div class="image-use-content">
+          <div class="image-use-close"><a href="#">×</a></div>
+          
+            <div><div><b>Personal &amp; Academic Use</b></div><b><br></b>All content on the Sir John Soane’s Museum website copyright belongs to the trustees of Sir John Soane’s Museum.<br><br>Material
+ may be reproduced free of charge in any format or medium for research, 
+private study or for internal circulation within an educational 
+organisation (such as schools, colleges and universities).&nbsp; This is 
+subject to the material being reproduced accurately and not used in a 
+misleading context or altered format (such as stretched, compressed, 
+coloured or altered in any way so as to distort its original format). To obtain a low resolution jpg image right click on the image and select either 'save as' or 'copy'. To obtain a higher resolution image for non-commercial purposes please apply using the Commercial Use form referenced below.&nbsp;<br><br>Where
+ any of the items on this site are being republished or copied to 
+other websites, the source of the material must be identified and the copyright 
+status acknowledged, e.g.: “Joseph Michael Gandy, ‘An imagined view of 
+the Bank of England in ruins’, 1830, Photo: © Sir John Soane’s Museum, 
+London”.<br><br>Please click here to download our&nbsp;<a href="/static/terms.pdf">Terms of Use</a>.<br><br><br><b>Print on Demand</b>&nbsp;<div><br><div>We also offer a selection of images from the Museum's collection for print on demand through our image licensee partners:&nbsp;</div><div><br></div><div><ul><li><a href="https://www.bridgemanimages.com/en-GB/search?filter_text=prfx%3Asjs&amp;original_filter_text=prfx%3Asjs&amp;filter_searchoption_id=2&amp;sort_order=best_relevance&amp;item_num=141">Bridgeman Images</a>&nbsp;- founded in 1972 they aim to make the best of the world's art available for reproduction while supporting museums, artists and collections.&nbsp;</li><li><br></li><li><a href="https://www.kingandmcgaw.com/prints/soane-museum">King and McGaw</a>&nbsp;- established in 1982 they believe that everyone should be able to own inspiring art, which is why they work hard to bring their customers an unrivaled collection of artworks and framed prints.&nbsp;</li><li><br></li><li><a href="https://www.surfaceview.co.uk/collection/galleries-museums/sir-john-soane">Surface View</a>&nbsp;- their vast image collection began searching through Sanders of Oxford's vintage etchings and prints. They now have a selection of our floral designs for silks and the Adam brothers' architectural drawings available as prints, canvases and wall murals.</li></ul></div><div><br></div><div><br><b>Commercial Use&nbsp;</b></div><div><b><br></b>To reproduce an image for commercial
+ use or to obtain a high resolution digital image, please download and complete&nbsp;<a href="/static/form.pdf">this form</a>, and email it to <a href="mailto:picturelibrary@soane.org.uk">picturelibrary@soane.org.uk</a>&nbsp;<div><br>Filming and photography are not allowed in Sir John Soane’s Museum unless prior permission is given.&nbsp;To arrange a professional filming or photography for commercial use please contact:<br><a href="mailto:picturelibrary@soane.org.uk">picturelibrary@soane.org.uk</a></div></div></div><div><br></div><div><br></div><div><br></div><div><b>All profits made through our picture library and print on demand partners help support the continued work conducted by the Museum.</b></div></div>
+        </div>
+        <div class="image-use-content-accept">
+           <a id="image-use-content-accept" href="#">CLICK TO CLOSE AND ACCEPT TERMS OF USE</a>
+        </div>
+    </div>
+</div>
+
+                    </div><!--In header: div class="col2right collections" -->
+                </div><!-- In header : div class="wrap main_content col2" -->
+</div>
+
+
+
+          <footer id="footer" role="contentinfo">
+  <div class="row">
+    <div class="large-8 columns">
+      <div id="block-block-2" class="block block-block">
+      	<h4>Find us</h4>
+        <p>13 Lincoln's Inn Fields, London,&nbsp;WC2A 3BP</p>
+        <p>T:&nbsp;+ 44 (0) 20 7405 2107 E: <a href="mailto:admin@soane.org.uk">admin@soane.org.uk</a></p>
+      </div>
+      
+        <div id="block-menu-menu-footer-menu" class="block block-menu">
+      	  <h4>Information</h4>
+          <ul class="menu">
+            <li class="first leaf"><a href="http://www.soane.org/terms-conditions">Terms &amp; Conditions</a></li>
+            <li class="leaf"><a href="http://www.soane.org/privacy-policy-and-cookies">Privacy Policy &amp; Cookies</a></li>
+            <li class="last leaf"><a href="http://www.soane.org/your-visit/accessibility">Accessibility</a></li>
+          </ul>
+        </div>
+      
+      
+    </div>
+    <div class="large-4 columns">
+      <div id="block-block-4" class="block block-block">
+      	<h4>Connect with us</h4>
+        <ul><li><a class="trip ext" href="http://www.tripadvisor.co.uk/Attraction_Review-g186338-d187559-Reviews-Sir_John_Soane_s_Museum-London_England.html" target="_blank">Tripadvisor</a></li>
+          <li><a class="twitter" href="https://twitter.com/soanemuseum" target="_blank">Twitter</a></li>
+          <li><a class="instagram" href="https://instagram.com/soanemuseum/" target="_blank">Instagram</a></li>
+          <li><a class="facebook ext" href="https://www.facebook.com/SirJohnSoanesMuseum" target="_blank">Facebook</a></li>
+          <li><a class="youtube ext" href="https://www.youtube.com/user/SoaneMuseum" target="_blank">YouTube</a></li>
+      </ul></div><div id="block-block-5" class="block block-block">
+        <p><a class="btn wh" href="http://soane.org/newsletter">Newsletter</a>&nbsp;<a class="museum ext" href="http://museum-mile.org.uk/" target="_blank">Museum Mile</a></p>
+      </div>  
+    </div>
+    <div class="clearfix"></div>
+  </div>
+</footer><!-- /#footer -->
+
+
+        
+
+        <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-18637996-4', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+    
+
+
+</div></div><div class="x-layer x-editor ixcaf-overflow-visible ixcaf-cell-editor-panel" id="ext-comp-1003" style="position: absolute; z-index: 11000; visibility: hidden; left: -10000px; top: -10000px; overflow: hidden;"><div id="ext-comp-1001" class="x-panel" style="width: 350px;"><div class="x-panel-tl"><div class="x-panel-tr"><div class="x-panel-tc"></div></div></div><div class="x-panel-bwrap" id="ext-gen5"><div class="x-panel-ml"><div class="x-panel-mr"><div class="x-panel-mc" id="ext-gen9"><div class="x-panel-body x-box-layout-ct" id="ext-gen6" style="border: none; width: 338px; height: auto;"><div class="x-box-inner" id="ext-gen12" style="width: 338px; height: 24px;"><input type="text" size="20" autocomplete="off" id="nameField" name="nameField" class=" x-form-text x-form-field x-box-item" style="width: 242px; left: 0px; top: 0px;"><div class="x-form-check-wrap x-box-item" id="ext-gen13" style="left: 250px; top: 0px;"><input type="checkbox" autocomplete="off" id="inheritedCombo" name="inheritedCombo" class=" x-form-checkbox x-form-field" style="background: transparent;"><label for="inheritedCombo" class="x-form-cb-label" id="ext-gen14">inherited</label></div></div></div><div class="x-panel-bbar" id="ext-gen7" style="width: 338px;"><div id="ext-comp-1002" class="x-toolbar x-small-editor x-toolbar-layout-ct" style="width: 332px;"><table cellspacing="0" class="x-toolbar-ct"><tbody><tr><td class="x-toolbar-left" align="left"><table cellspacing="0"><tbody><tr class="x-toolbar-left-row"></tr></tbody></table></td><td class="x-toolbar-right" align="right"><table cellspacing="0" class="x-toolbar-right-ct"><tbody><tr><td><table cellspacing="0"><tbody><tr class="x-toolbar-right-row"></tr></tbody></table></td><td><table cellspacing="0"><tbody><tr class="x-toolbar-extras-row"></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></div></div></div></div></div><div class="x-panel-bl x-panel-nofooter" id="ext-gen8"><div class="x-panel-br"><div class="x-panel-bc"></div></div></div></div></div></div></body></html>

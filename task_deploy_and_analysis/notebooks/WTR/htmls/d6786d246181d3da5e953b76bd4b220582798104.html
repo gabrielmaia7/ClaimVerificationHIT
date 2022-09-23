@@ -1,0 +1,156 @@
+<html><head>
+<title>Guile-Gcrypt 0.2.1 released</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body>
+<center>
+<table border="0" cellspacing="2" cellpadding="0" bgcolor="#000000">
+<tbody><tr><td><table border="0" bgcolor="#FFFFCC">
+<tbody><tr><td><big><b>guile-sources</b></big></td></tr></tbody></table></td></tr></tbody></table>
+<div class="nowrap">
+<small>[<a href="../">Top</a>][<a href="/archive/html">All Lists</a>]</small>
+</div>
+<form method="get" action="/archive/cgi-bin/namazu.cgi">
+<input type="text" name="query" size="30">
+<input type="submit" name="submit" value="Search">
+<input type="hidden" name="idxname" value="guile-sources">
+<a href="/archive/cgi-bin/namazu.cgi?idxname=guile-sources">Advanced</a>
+</form>
+
+</center>
+<!--X-Body-Begin-->
+<!--X-User-Header-->
+<!--X-User-Header-End-->
+<!--X-TopPNI-->
+<hr>
+[<a href="msg00003.html">Date Prev</a>][Date Next][<a href="msg00002.html">Thread Prev</a>][Thread Next][<a href="index.html#00004">Date Index</a>][<a href="threads.html#00004">Thread Index</a>]
+
+<!--X-TopPNI-End-->
+<!--X-MsgBody-->
+<!--X-Subject-Header-Begin-->
+<h2>Guile-Gcrypt 0.2.1 released</h2>
+<hr>
+<table border="0">
+<tbody>
+<tr>
+<td align="right" valign="top">
+<b>From</b>: </td>
+<td align="left">
+Ludovic Courtès</td>
+</tr>
+<!--X-Subject-Header-End-->
+<!--X-Head-of-Message-->
+
+<tr>
+<td align="right" valign="top">
+<b>Subject</b>: </td>
+<td align="left">
+Guile-Gcrypt 0.2.1 released</td>
+</tr>
+
+<tr>
+<td align="right" valign="top">
+<b>Date</b>: </td>
+<td align="left">
+Sun, 15 Dec 2019 21:30:15 +0100</td>
+</tr>
+
+<tr>
+<td align="right" valign="top">
+<b>User-agent</b>: </td>
+<td align="left">
+Gnus/5.13 (Gnus v5.13) Emacs/26.3 (gnu/linux)</td>
+</tr>
+
+</tbody>
+</table>
+<!--X-Head-of-Message-End-->
+<!--X-Head-Body-Sep-Begin-->
+<hr>
+<!--X-Head-Body-Sep-End-->
+<!--X-Body-of-Message-->
+<pre>I’m pleased to announce Guile-Gcrypt version 0.2.1:
+
+  git clone <a rel="nofollow" href="https://notabug.org/cwebber/guile-gcrypt.git">https://notabug.org/cwebber/guile-gcrypt.git</a>
+  cd guile-gcrypt
+  git checkout v0.2.1  # or d7b3aab53d6efd62c7a5990b291ca91ca9637d46
+  git tag -v v0.2.1
+
+The ‘git tag -v’ command checks the authenticity of your checkout.
+You may need to retrieve the signing key first:
+
+  gpg --keyserver pool.sks-keyservers.net \
+      --recv-keys 3CE464558A84FDC69DB40CFB090B11993D9AEBB5
+
+Guile-Gcrypt provides Guile 2.x/3.0 bindings to the GNU&nbsp;Libgcrypt
+cryptography library.  It provides modules for cryptographic hash
+functions, message authentication codes (MAC), public-key cryptography,
+strong randomness, and more.
+
+Excerpt from the ‘NEWS’ file:
+
+  * Changes in 0.2.1 (since 0.2.0)
+
+  ** libgcrypt is now always properly initialized (<a rel="nofollow" href="https://bugs.gnu.org/37616">https://bugs.gnu.org/37616</a>)
+  ** (gcrypt base64) no longer imports (rnrs)
+
+Guile-Gcrypt does not currently wrap all the Libgcrypt API.  Your help
+in improving it is very welcome!  For bug reports and patches, see:
+
+  <a rel="nofollow" href="https://notabug.org/cwebber/guile-gcrypt">https://notabug.org/cwebber/guile-gcrypt</a>
+
+Plain email to Chris or myself or guile-user would also work fine.  :-)
+
+Ludo’.
+</pre>
+<p><strong><a href="pgpRKmdXp0OSY.pgp"><img src="/icons/generic.png" align="left" border="0" alt="Attachment:" width="20" height="22"></a>
+<a href="pgpRKmdXp0OSY.pgp"><tt>signature.asc</tt></a></strong><br>
+<em>Description:</em> PGP signature</p>
+
+<!--X-Body-of-Message-End-->
+<!--X-MsgBody-End-->
+<!--X-Follow-Ups-->
+<hr>
+<form method="post" action="/mp/yyz.py" enctype="multipart/form-data">
+<input type="hidden" name="a" value="ludo">
+<input type="hidden" name="b" value="Guile-Gcrypt 0.2.1 released">
+<input type="hidden" name="d" value="87sglluyaw.fsf@gnu.org">
+<input type="hidden" name="c" value="gnu.org">
+<center>reply via email to<br><input type="submit" value=" Ludovic Courtès "></center>
+</form>
+<hr>
+<table width="100%">
+<tbody><tr><td align="left">[Prev in Thread]</td>
+<td align="center"><b>Current Thread</b></td>
+<td align="right">[Next in Thread]</td></tr></tbody></table>
+<ul>
+<li><font color="#666666"><strong>Guile-Gcrypt 0.2.1 released</strong>,
+<em>Ludovic Courtès</em></font>&nbsp;<b>&lt;=</b>
+</li></ul>
+
+<hr>
+<!--X-Follow-Ups-End-->
+<!--X-References-->
+<!--X-References-End-->
+<!--X-BotPNI-->
+<ul>
+<li>Prev by Date:
+<strong><a href="msg00003.html">Re: GNU Guile 2.9.7 Released [beta]</a></strong>
+</li>
+<li>Previous by thread:
+<strong><a href="msg00002.html">GNU Guile 2.9.7 Released [beta]</a></strong>
+</li>
+<li>Index(es):
+<ul>
+<li><a href="index.html#00004"><strong>Date</strong></a></li>
+<li><a href="threads.html#00004"><strong>Thread</strong></a></li>
+</ul>
+</li>
+</ul>
+
+<!--X-BotPNI-End-->
+<!--X-User-Footer-->
+<!--X-User-Footer-End-->
+
+
+</body></html>
