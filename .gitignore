@@ -4,3 +4,11 @@ reference_html_as_sentences_df.csv
 # WTR
 WTR_non_filtered_non_annotated.csv
 WTR.zip
+
+# Credentials
+amazon_credentials.json
+mongodb_credentials.json
+
+# Others
+__pycache__
+.ipynb_checkpoints
