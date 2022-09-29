@@ -14,3 +14,4 @@ Here is the description of the repository's structure and contents:
 - *task_deploy_and_analysis*: This directory holds all the code and data used to (1.) carry the crowdsourcing task, creating tasks based on T1 and T2's designs and launching them on Mechanical Turk. It also contains (2.) the merging of these annotations with the data sampled from Wikidata to create WTR, and (3.) the analysis of ProVe's results based on such annotations.
   - A detailed README describing its contents can be found within the directory.
 
+**Note**: For a list of the conda environment under which this repository was developed, check *environment.yml*.
